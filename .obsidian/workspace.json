@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "f9d838a1be78292e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e73abf4468f2e5da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db45323e12113d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Główny Plik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2536464c07b5b55",
+    "type": "split",
+    "children": [
+      {
+        "id": "ceeb820ce928831d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de5c793eabff11a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab69bdc6453bc1a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a25fa1d51da289b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8629e08a90792b4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "76b2ffc06be733d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5cde545148d0f30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Główny Plik.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3f52978112a6b63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Główny Plik.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73f5d84d9b845360",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9605faf4858a1950",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Główny Plik.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Otwórz importer Markdown": false,
+      "switcher:Otwórz okno szybkiej zmiany pliku": false,
+      "graph:Otwórz graf": false,
+      "canvas:Stwórz nowe płótno": false,
+      "daily-notes:Otwórz dzisiejszą notatkę": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz paletę poleceń": false
+    }
+  },
+  "active": "de5c793eabff11a9",
+  "lastOpenFiles": [
+    "README.md",
+    "LICENSE",
+    "Java-Notes/README.md",
+    "Java-Notes/LICENSE",
+    "Java-Notes",
+    "Główny Plik.md",
+    "2024-05-27.md",
+    "Bez nazwy.canvas",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
