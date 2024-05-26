@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Główny Plik.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Główny Plik.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Główny Plik.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Główny Plik.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,14 +147,14 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "de5c793eabff11a9",
+  "active": "db45323e12113d41",
   "lastOpenFiles": [
+    "Główny Plik.md",
     "README.md",
     "LICENSE",
     "Java-Notes/README.md",
     "Java-Notes/LICENSE",
     "Java-Notes",
-    "Główny Plik.md",
     "2024-05-27.md",
     "Bez nazwy.canvas",
     "Welcome.md",
