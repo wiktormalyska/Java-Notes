@@ -37,10 +37,10 @@ public class UserController {
 - Transakcje
 	- Serwisy zarządzają transakcjami w aplikacjach korzystających z baz danych. Można użyć adnotacji `@Transactional` na poziomie klasy lub metody, aby zapewnić, że operacje są wykonywane w sposób atomowy.
 	- Istnieją różne atrybuty adnotacji, takie jak: 
-		- propagation: zarządzanie transakcją, gdy metoda jest wywoływana w ramach istniejącej już transakcji
-		- isolation: widoczność zmian dokonanych w ramach transakcji dla innych transakcji.
-		- timeout: maksymalny czas w sekundach przez jaki 
-		- readOnly
+		- **propagation**: zarządzanie transakcją, gdy metoda jest wywoływana w ramach istniejącej już transakcji
+		- **isolation**: widoczność zmian dokonanych w ramach transakcji dla innych transakcji.
+		- **timeout**: maksymalny czas w sekundach przez jaki transakcja moze trwać przed zakończeniem
+		- **readOnly**: wskazuje, ż
 	- Przykład:
 ```java
 import org.springframework.transaction.annotation.Transactional;
