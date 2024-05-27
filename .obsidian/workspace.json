@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Dependency Injection.md",
+                "file": "Spring/Bez nazwy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Dependency Injection.md",
+                "file": "Spring/Bez nazwy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Dependency Injection.md",
+                "file": "Spring/Bez nazwy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Dependency Injection.md"
+                "file": "Spring/Bez nazwy.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "db45323e12113d41",
   "lastOpenFiles": [
-    "Spring/Konfiguracje.md",
-    "Spring/Dependency Injection.md",
-    "Spring/Serwisy.md",
     "Spring/REST.md",
+    "Spring/Bez nazwy.md",
+    "Spring/Konfiguracje.md",
+    "Spring/Iniekcja zależności.md",
+    "Spring/Serwisy.md",
     "Spring/Spring.md",
     "Spring/Spring Boot/Spring AOP.md",
     "Spring/Spring Boot/Spring Boot.md",

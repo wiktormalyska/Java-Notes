@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiChevronsLeftRight",
       "OcPackageDependents16",
       "TiAccessPoint",
       "BoBxCog",
@@ -38,5 +39,6 @@
   "Spring/Spring.md": "SiSpring",
   "Spring/Spring Boot/Spring Boot.md": "SiSpringboot",
   "Spring/REST.md": "TiAccessPoint",
-  "Spring/Dependency Injection.md": "OcPackageDependents16"
+  "Spring/Iniekcja zależności.md": "OcPackageDependents16",
+  "Spring/Konfiguracje.md": "LiChevronsLeftRight"
 }
