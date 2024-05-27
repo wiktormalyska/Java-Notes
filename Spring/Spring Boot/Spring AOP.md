@@ -1,3 +1,4 @@
+
 - Spring AOP (Aspect-Oriented Programming):
 	- Serwisy mogą korzystać z aspektów w celu dodatkowej logiki, takiej jak logowanie, auth i zarządzanie transakcjami bez zmieniania kodu biznesowego
 	- Przykład:
