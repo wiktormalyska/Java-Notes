@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiAccessPoint",
       "BoBxCog",
       "SiSpringboot",
       "SiSpring"
@@ -34,5 +35,6 @@
   "Spring/Spring Boot": "SiSpringboot",
   "Spring/Serwisy.md": "BoBxCog",
   "Spring/Spring.md": "SiSpring",
-  "Spring/Spring Boot/Spring Boot.md": "SiSpringboot"
+  "Spring/Spring Boot/Spring Boot.md": "SiSpringboot",
+  "Spring/REST.md": "TiAccessPoint"
 }
