@@ -30,4 +30,6 @@ public class UserController {
 
 ```
 - Separacja problemów (Separation of Concerns)
-	- Serwisy pomagają w rozdzieleniu odpowiedzialności w aplikacji, co sprzyja organizacji kodu i łatwiejszemu testowaniu. Logika biznesowa jest oddzielona od logiki prezentacji i log
+	- Serwisy pomagają w rozdzieleniu odpowiedzialności w aplikacji, co sprzyja organizacji kodu i łatwiejszemu testowaniu. Logika biznesowa jest oddzielona od logiki prezentacji i logiki dostępu do danych.
+- Transakcje
+	- Serwisy zarządzają transakcjami w aplikacjach korzystających z baz danych. Można użyć 
