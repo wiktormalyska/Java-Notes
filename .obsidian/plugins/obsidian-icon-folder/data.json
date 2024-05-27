@@ -64,5 +64,6 @@
   "Zarządzanie pakietami": "FiPackage",
   "Narzędzia": "FiTool",
   "Java": "FabJava",
-  "Java/Java": "FabJava"
+  "Java/Java": "FabJava",
+  "Java/Zaawansowana Java": "FabJava"
 }

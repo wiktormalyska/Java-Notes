@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narzędzia/Postman.md",
+                "file": "Java/Java/Struktury Iteracji.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narzędzia/Postman.md",
+                "file": "Java/Java/Struktury Iteracji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narzędzia/Postman.md",
+                "file": "Java/Java/Struktury Iteracji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narzędzia/Postman.md"
+                "file": "Java/Java/Struktury Iteracji.md"
               }
             }
           }
@@ -149,9 +149,14 @@
   },
   "active": "de5c793eabff11a9",
   "lastOpenFiles": [
-    "Java/Bez nazwy",
-    "Java/Bez nazwy.md",
+    "Java/Java/Kolekcje.md",
+    "Java/Java/Struktury Iteracji.md",
+    "Java/Java/Okresy warunkowe.md",
+    "Java/Java/Typy Generyczne.md",
+    "Java/Java/Dziedziczenie.md",
     "Narzędzia/Postman.md",
+    "Java/Zaawansowana Java",
+    "Java/Bez nazwy.md",
     "Java/Java",
     "Java",
     "Narzędzia/IntelliJ IDE.md",
@@ -179,12 +184,7 @@
     "Bazy Danych/Zaawansowane Bazy Danych/Partycjowanie.md",
     "Bazy Danych/Zaawansowane Bazy Danych/Indeksowanie.md",
     "Bazy Danych/Zaawansowane Bazy Danych/Optymalizacja zapytań.md",
-    "Bazy Danych/Bazy Danych/JPA.md",
-    "Bazy Danych/Bazy Danych/Tabele.md",
-    "Bazy Danych/Bazy Danych/Syntaks SQL.md",
-    "Bazy Danych/Bazy Danych/Normalizacja.md",
     "Bazy Danych/Zaawansowane Bazy Danych",
-    "Bazy Danych/Bazy Danych",
     "Main.canvas"
   ]
 }
