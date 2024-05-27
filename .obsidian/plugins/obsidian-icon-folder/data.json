@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasComputer",
       "FabJava",
       "FiTool",
       "FiPackage",
@@ -65,5 +66,6 @@
   "Narzędzia": "FiTool",
   "Java": "FabJava",
   "Java/Java": "FabJava",
-  "Java/Zaawansowana Java": "FabJava"
+  "Java/Zaawansowana Java": "FabJava",
+  "Podstawy Informatyki": "FasComputer"
 }

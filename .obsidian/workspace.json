@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Zaawansowana Java/Bez nazwy.md",
+                "file": "Java/Zaawansowana Java/Serverlety, Filtry HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Zaawansowana Java/Bez nazwy.md",
+                "file": "Java/Zaawansowana Java/Serverlety, Filtry HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Zaawansowana Java/Bez nazwy.md",
+                "file": "Java/Zaawansowana Java/Serverlety, Filtry HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Zaawansowana Java/Bez nazwy.md"
+                "file": "Java/Zaawansowana Java/Serverlety, Filtry HTTP.md"
               }
             }
           }
@@ -147,10 +147,12 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "a1d0e695e9bca498",
+  "active": "de5c793eabff11a9",
   "lastOpenFiles": [
+    "Podstawy Informatyki/Podstawy Informatyki",
+    "Podstawy Informatyki",
     "Java/Zaawansowana Java/Wielo wątkowość.md",
-    "Java/Zaawansowana Java/Bez nazwy.md",
+    "Java/Zaawansowana Java/Serverlety, Filtry HTTP.md",
     "Java/Zaawansowana Java/Programowanie funkcyjne.md",
     "Java/Zaawansowana Java/JVM.md",
     "Java/Zaawansowana Java/Programowanie Asynchroniczne.md",
@@ -180,11 +182,9 @@
     "Zarządzanie pakietami/Gradle/Zależności.md",
     "Zarządzanie pakietami/Maven/Maven",
     "Zarządzanie pakietami/Gradle/Wielo Modułowość.md",
-    "Zarządzanie pakietami/Gradle/Profile.md",
     "Zarządzanie pakietami",
     "Zarządzanie pakietami/Gradle",
     "Zarządzanie pakietami/Maven",
-    "Bazy Danych/Zaawansowane Bazy Danych",
     "Main.canvas"
   ]
 }
