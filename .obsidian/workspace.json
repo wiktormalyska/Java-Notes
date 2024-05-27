@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring.md",
+                "file": "Spring/Serwisy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring.md",
+                "file": "Spring/Serwisy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring.md",
+                "file": "Spring/Serwisy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring.md"
+                "file": "Spring/Serwisy.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "db45323e12113d41",
   "lastOpenFiles": [
-    "Spring/Serwisy.md",
     "Spring/Spring.md",
+    "Spring/Serwisy.md",
     "Spring",
     "Main.canvas",
     "README.md",
