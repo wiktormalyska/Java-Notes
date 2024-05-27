@@ -1,7 +1,12 @@
 {
 	"nodes":[
-		{"id":"e51c92b319e690e2","type":"file","file":"Teoria Programowania/Wzorce Projektowe.md","x":-1780,"y":-1420,"width":400,"height":400},
-		{"id":"ecba2b722b85993b","type":"file","file":"Spring/Spring.md","x":-1160,"y":-1420,"width":400,"height":400}
+		{"id":"ecba2b722b85993b","type":"file","file":"Spring/Spring.md","x":-1260,"y":-1620,"width":400,"height":400},
+		{"id":"e51c92b319e690e2","type":"file","file":"Teoria Programowania/Wzorce Projektowe.md","x":-2000,"y":-1520,"width":400,"height":400},
+		{"id":"10a4a3279219f24a","x":-520,"y":-1600,"width":400,"height":400,"type":"file","file":"Spring/Spring Boot/Spring Boot.md"},
+		{"id":"58a0184052d1f2d6","x":-1260,"y":-1060,"width":400,"height":400,"type":"file","file":"Spring/Serwisy.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"036ff975836be83f","fromNode":"ecba2b722b85993b","fromSide":"top","toNode":"10a4a3279219f24a","toSide":"top"},
+		{"id":"f2d18e3569c22709","fromNode":"ecba2b722b85993b","fromSide":"bottom","toNode":"58a0184052d1f2d6","toSide":"top"}
+	]
 }
