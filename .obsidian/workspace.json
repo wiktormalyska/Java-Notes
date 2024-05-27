@@ -174,7 +174,9 @@
   },
   "active": "de5c793eabff11a9",
   "lastOpenFiles": [
-    "Bez nazwy",
+    "Zarządzanie pakietami",
+    "Zarządzanie pakietami/Gradle",
+    "Zarządzanie pakietami/Maven",
     "Bazy Danych/Zaawansowane Bazy Danych/Partycjowanie.md",
     "Bazy Danych/Zaawansowane Bazy Danych/NoSQL.md",
     "Bazy Danych/Zaawansowane Bazy Danych/Indeksowanie.md",
@@ -208,8 +210,6 @@
     "Docker/Przetwarzanie w chmurze",
     "Docker/Kubernetes",
     "Docker/Docker",
-    "Spring/Spring",
-    "Docker",
     "Main.canvas"
   ]
 }

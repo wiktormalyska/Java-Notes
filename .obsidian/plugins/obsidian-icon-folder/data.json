@@ -6,6 +6,9 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiPackage",
+      "SiGradle",
+      "SiApachemaven",
       "FiDatabase",
       "SiGit",
       "SiDocker",
@@ -53,5 +56,8 @@
   "Spring/Spring.md": "SiSpring",
   "Docker/Docker.md": "SiDocker",
   "Git": "SiGit",
-  "Bazy Danych": "FiDatabase"
+  "Bazy Danych": "FiDatabase",
+  "Zarządzanie pakietami/Gradle": "SiGradle",
+  "Zarządzanie pakietami/Maven": "SiApachemaven",
+  "Zarządzanie pakietami": "FiPackage"
 }
