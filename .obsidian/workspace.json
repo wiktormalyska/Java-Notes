@@ -15,8 +15,8 @@
               "state": {
                 "file": "Wzorce Projektowe.canvas",
                 "viewState": {
-                  "x": -212,
-                  "y": -217,
+                  "x": -683,
+                  "y": -402,
                   "zoom": 0
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UML.md",
+                "file": "Wzorce Projektowe.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UML.md",
+                "file": "Wzorce Projektowe.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UML.md"
+                "file": "Wzorce Projektowe.canvas"
               }
             }
           }
@@ -150,11 +150,11 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "db45323e12113d41",
+  "active": "de5c793eabff11a9",
   "lastOpenFiles": [
     "UML.md",
-    "Spring.md",
     "Wzorce Projektowe.canvas",
+    "Spring.md",
     "README.md",
     "Główny Plik.md",
     "LICENSE",
