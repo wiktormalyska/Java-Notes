@@ -5,5 +5,3 @@
 - Konfiguracje
 - Właściwości
 - Spring Data
-
-## Serwisy

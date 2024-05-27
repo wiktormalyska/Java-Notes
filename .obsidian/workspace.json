@@ -11,14 +11,11 @@
             "id": "db45323e12113d41",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Main.canvas",
-                "viewState": {
-                  "x": -894,
-                  "y": -920,
-                  "zoom": 0
-                }
+                "file": "Spring/Spring.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring.md",
+                "file": "Spring/Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring.md",
+                "file": "Spring/Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring.md"
+                "file": "Spring/Spring.md"
               }
             }
           }
@@ -150,11 +147,12 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "db45323e12113d41",
+  "active": "de5c793eabff11a9",
   "lastOpenFiles": [
-    "Spring.md",
-    "README.md",
+    "Spring",
     "Main.canvas",
+    "Spring/Spring.md",
+    "README.md",
     "Teoria Programowania/Wzorce Projektowe.md",
     "Teoria Programowania",
     "UML.md",
