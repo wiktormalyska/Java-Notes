@@ -83,3 +83,18 @@ public class UserService {
 		- Narzędzia:
 			- [JUnit](https://junit.org/junit5/)
 			- [Mockito](https://site.mockito.org/)
+		- Przykład:
+```java
+@Service
+public class UserService {
+
+    @Autowired
+    private UserRepository userRepository;
+
+    public User findUserById(Long id) {
+        return userRepository.findById(id)
+                .orElseThrow(() -> new UserNotFoundException("User not found with id: " + id));
+    }
+}
+```
+``
