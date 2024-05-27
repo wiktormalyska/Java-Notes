@@ -12,6 +12,7 @@ public class UserService {
     // logika biznesowa
 }
 ```
+
 - Iniekcja zależności (Dependency Injection):
 	- Serwisy mogą być automatycznie wstrzykiwane do innych komponentów, takich jak kontrolery czy inne serwisy, poprzez adnotację `@Autowired`.
 	- Przykład:
@@ -29,10 +30,13 @@ public class UserController {
 }
 
 ```
+
 - Separacja problemów (Separation of Concerns)
 	- Serwisy pomagają w rozdzieleniu odpowiedzialności w aplikacji, co sprzyja organizacji kodu i łatwiejszemu testowaniu. Logika biznesowa jest oddzielona od logiki prezentacji i logiki dostępu do danych.
+
 - Transakcje
 	- Serwisy zarządzają transakcjami w aplikacjach korzystających z baz danych. Można użyć adnotacji `@Transactional` na poziomie klasy lub metody, aby zapewnić, że operacje są wykonywane w sposób atomowy.
+	- 
 	- Przykład:
 ```java
 import org.springframework.transaction.annotation.Transactional;
@@ -46,7 +50,7 @@ public class UserService {
     }
 }
 ```
-	- 
+
 - Testowanie
 	- Serwisy mogą być łatwo testowane za pomocą testów jednostkowych i integracyjnych.
 	- Dzięki oddzieleniu logiki biznesowej od innych warstw, serwisy można testować niezależnie.
