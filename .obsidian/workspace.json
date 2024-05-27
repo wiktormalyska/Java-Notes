@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testy/MockMvc.md",
+                "file": "Testy/Zaawansowane Testy/Bez nazwy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testy/MockMvc.md",
+                "file": "Testy/Zaawansowane Testy/Bez nazwy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testy/MockMvc.md",
+                "file": "Testy/Zaawansowane Testy/Bez nazwy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testy/MockMvc.md"
+                "file": "Testy/Zaawansowane Testy/Bez nazwy.md"
               }
             }
           }
@@ -149,11 +149,13 @@
   },
   "active": "db45323e12113d41",
   "lastOpenFiles": [
+    "Testy/Testy.md",
+    "Testy/Zaawansowane Testy/Bez nazwy.md",
+    "Testy/Zaawansowane Testy",
     "Testy/Mockito.md",
     "Testy/MockMvc.md",
     "Testy/AssertJ.md",
     "Testy/Junit 5.md",
-    "Testy/Testy.md",
     "Spring/Serwisy.md",
     "Spring/Spring Boot/Spring Cloud.md",
     "Testy",
@@ -181,7 +183,6 @@
     "Java-Notes/LICENSE",
     "Java-Notes",
     "2024-05-27.md",
-    "Welcome.md",
-    "create a link.md"
+    "Welcome.md"
   ]
 }
