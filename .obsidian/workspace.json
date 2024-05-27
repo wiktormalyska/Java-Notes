@@ -11,11 +11,40 @@
             "id": "8ce525ded1f5c536",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Spring/Iniekcja zależności.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55f6e09a33b0a56f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Spring/Iniekcja zależności.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76e544a8fa9a03f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Spring.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring/Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spring/Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spring/Spring.md"
+              }
             }
           }
         ]
@@ -141,8 +174,13 @@
   },
   "active": "de5c793eabff11a9",
   "lastOpenFiles": [
-    "Bez nazwy",
-    "Spring/Serwisy.md",
+    "Spring/Spring/Iniekcja zależności.md",
+    "Spring/Spring.md",
+    "Spring/Spring/Konfiguracje.md",
+    "Docker/Docker.md",
+    "Spring/Spring",
+    "Docker",
+    "Spring/Spring/Serwisy.md",
     "Main.canvas",
     "Testy/Testy.md",
     "Testy/Zaawansowane Testy/Testy Kontraktowe.md",
@@ -156,12 +194,9 @@
     "Spring/Spring Boot/Spring Boot.md",
     "Spring/Spring Boot/Spring Cloud.md",
     "Spring/Spring Boot/Spring Messaging.md",
-    "Spring/Konfiguracje.md",
-    "Spring/Iniekcja zależności.md",
-    "Spring/Spring Properties.md",
-    "Spring/Spring Data.md",
-    "Spring/Spring.md",
-    "Spring/REST.md",
+    "Spring/Spring/Spring Properties.md",
+    "Spring/Spring/Spring Data.md",
+    "Spring/Spring/REST.md",
     "Testy/Zaawansowane Testy/Selenium.md",
     "Testy/Zaawansowane Testy/TDD, BDD.md",
     "Testy/Zaawansowane Testy/Gatling.md",
@@ -171,7 +206,6 @@
     "README.md",
     "Spring/Spring Boot",
     "Spring",
-    "Teoria Programowania/Wzorce Projektowe.md",
     "Teoria Programowania",
     "LICENSE",
     "Java-Notes/LICENSE",

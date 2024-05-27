@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiDocker",
       "SiJunit5",
       "CoData",
       "LiChevronsLeftRight",
@@ -37,13 +38,15 @@
   },
   "Spring": "SiSpring",
   "Spring/Spring Boot": "SiSpringboot",
-  "Spring/Serwisy.md": "BoBxCog",
-  "Spring/Spring.md": "SiSpring",
   "Spring/Spring Boot/Spring Boot.md": "SiSpringboot",
-  "Spring/REST.md": "TiAccessPoint",
-  "Spring/Iniekcja zależności.md": "OcPackageDependents16",
-  "Spring/Konfiguracje.md": "LiChevronsLeftRight",
-  "Spring/Spring Properties.md": "SiSpring",
-  "Spring/Spring Data.md": "CoData",
-  "Testy": "SiJunit5"
+  "Testy": "SiJunit5",
+  "Docker": "SiDocker",
+  "Spring/Spring": "SiSpring",
+  "Spring/Spring/Spring Properties.md": "SiSpring",
+  "Spring/Spring/Iniekcja zależności.md": "OcPackageDependents16",
+  "Spring/Spring/Konfiguracje.md": "LiChevronsLeftRight",
+  "Spring/Spring/REST.md": "TiAccessPoint",
+  "Spring/Spring/Serwisy.md": "BoBxCog",
+  "Spring/Spring/Spring Data.md": "CoData",
+  "Spring/Spring.md": "SiSpring"
 }
