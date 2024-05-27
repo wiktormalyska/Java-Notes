@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Serwisy.md",
+                "file": "Spring/Bez nazwy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Serwisy.md",
+                "file": "Spring/Bez nazwy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Serwisy.md",
+                "file": "Spring/Bez nazwy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Serwisy.md"
+                "file": "Spring/Bez nazwy.md"
               }
             }
           }
@@ -147,15 +147,16 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "de5c793eabff11a9",
+  "active": "db45323e12113d41",
   "lastOpenFiles": [
+    "Spring/Serwisy.md",
+    "Spring/Bez nazwy.md",
+    "Spring/Spring.md",
+    "Spring/Spring Boot/Spring AOP.md",
+    "Spring/Spring Boot/Spring Boot.md",
     "Main.canvas",
     "UML.md",
     "README.md",
-    "Spring/Spring Boot/Spring AOP.md",
-    "Spring/Spring Boot/Spring Boot.md",
-    "Spring/Spring.md",
-    "Spring/Serwisy.md",
     "Spring/Spring Boot",
     "Spring",
     "Teoria Programowania/Wzorce Projektowe.md",

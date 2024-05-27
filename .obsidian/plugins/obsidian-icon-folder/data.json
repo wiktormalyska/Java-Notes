@@ -32,5 +32,7 @@
   },
   "Spring": "SiSpring",
   "Spring/Spring Boot": "SiSpringboot",
-  "Spring/Serwisy.md": "BoBxCog"
+  "Spring/Serwisy.md": "BoBxCog",
+  "Spring/Spring.md": "SiSpring",
+  "Spring/Spring Boot/Spring Boot.md": "SiSpringboot"
 }
