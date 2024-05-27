@@ -40,7 +40,8 @@ public class UserController {
 		- **propagation**: zarządzanie transakcją, gdy metoda jest wywoływana w ramach istniejącej już transakcji
 		- **isolation**: widoczność zmian dokonanych w ramach transakcji dla innych transakcji.
 		- **timeout**: maksymalny czas w sekundach przez jaki transakcja moze trwać przed zakończeniem
-		- **readOnly**: wskazuje, ż
+		- **readOnly**: wskazuje, że transakcja jest tylko do odczytu
+		- **norollback/rollbackFor**: wycofuje
 	- Przykład:
 ```java
 import org.springframework.transaction.annotation.Transactional;
