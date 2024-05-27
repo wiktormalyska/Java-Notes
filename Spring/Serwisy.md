@@ -1,0 +1,2 @@
+Kluczowy element architektury aplikacji opartej na Springu.
+Serwisy są używane do implementacji logiki biznesowej oddzielając 
