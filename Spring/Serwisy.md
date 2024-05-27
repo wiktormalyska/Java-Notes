@@ -37,7 +37,7 @@ public class UserController {
 - Transakcje
 	- Serwisy zarządzają transakcjami w aplikacjach korzystających z baz danych. Można użyć adnotacji `@Transactional` na poziomie klasy lub metody, aby zapewnić, że operacje są wykonywane w sposób atomowy.
 	- Istnieją różne atrybuty adnotacji, takie jak: 
-		- propagation - zarządzanie tranzakcji
+		- propagation - zarządzanie transakcji, gdy metoda jest wywoływana w ramach istniejącej 
 		- isolation
 		- timeout
 		- readOnly
