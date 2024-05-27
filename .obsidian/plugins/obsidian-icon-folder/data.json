@@ -48,5 +48,6 @@
   "Spring/Spring/REST.md": "TiAccessPoint",
   "Spring/Spring/Serwisy.md": "BoBxCog",
   "Spring/Spring/Spring Data.md": "CoData",
-  "Spring/Spring.md": "SiSpring"
+  "Spring/Spring.md": "SiSpring",
+  "Docker/Docker.md": "SiDocker"
 }

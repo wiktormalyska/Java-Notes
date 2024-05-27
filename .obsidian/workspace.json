@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker.md",
+                "file": "Docker/Docker/Bez nazwy.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Docker.md",
+                "file": "Docker/Docker/Bez nazwy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Docker.md",
+                "file": "Docker/Docker/Bez nazwy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Docker.md"
+                "file": "Docker/Docker/Bez nazwy.md"
               }
             }
           }
@@ -172,12 +172,17 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "de5c793eabff11a9",
+  "active": "76e544a8fa9a03f4",
   "lastOpenFiles": [
-    "Docker/Bez nazwy",
+    "Docker/Docker/Volumeny.md",
+    "Docker/Docker/Bez nazwy.md",
+    "Docker/Docker/Dockerfile.md",
+    "Docker/Docker/docker-compose.md",
+    "Docker/Docker/Sieci.md",
+    "Docker/Docker.md",
+    "Docker/Przetwarzanie w chmurze",
     "Docker/Kubernetes",
     "Docker/Bez nazwy.md",
-    "Docker/Docker.md",
     "Docker/Docker",
     "Spring/Spring.md",
     "Spring/Spring/Iniekcja zależności.md",
@@ -201,15 +206,10 @@
     "Spring/Spring/Spring Properties.md",
     "Spring/Spring/Spring Data.md",
     "Spring/Spring/REST.md",
-    "Testy/Zaawansowane Testy/Selenium.md",
-    "Testy/Zaawansowane Testy/TDD, BDD.md",
-    "Testy/Zaawansowane Testy/Gatling.md",
     "Testy/Zaawansowane Testy",
     "Testy",
-    "UML.md",
     "Spring/Spring Boot",
     "Spring",
-    "Teoria Programowania",
-    "LICENSE"
+    "Teoria Programowania"
   ]
 }
