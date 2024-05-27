@@ -13,10 +13,10 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Wzorce Projektowe.canvas",
+                "file": "Main.canvas",
                 "viewState": {
-                  "x": -683,
-                  "y": -402,
+                  "x": -710,
+                  "y": -530,
                   "zoom": 0
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wzorce Projektowe.canvas",
+                "file": "Main.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wzorce Projektowe.canvas",
+                "file": "Main.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wzorce Projektowe.canvas"
+                "file": "Main.canvas"
               }
             }
           }
@@ -150,10 +150,12 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "de5c793eabff11a9",
+  "active": "db45323e12113d41",
   "lastOpenFiles": [
+    "Teoria Programowania/Wzorce Projektowe.md",
+    "Main.canvas",
+    "Teoria Programowania",
     "UML.md",
-    "Wzorce Projektowe.canvas",
     "Spring.md",
     "README.md",
     "Główny Plik.md",
