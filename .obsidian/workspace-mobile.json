@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "b1189a0f8da0f345",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f6bb689e2da0e79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93ee77d755d4d0d6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Wzorce Projektowe.canvas",
+                "viewState": {
+                  "x": -730.171875,
+                  "y": -532.6655883789062,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "4149f718bd2bea00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64e40e83ae7293eb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2382946683c4bb45",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a6c292494b93bccf",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "406bb07d1449f74e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "63141dbcac62b91b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6736c55cd1a50266",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b93184be1c40532b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "UML.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4667bc5095543fd6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "UML.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a85cfbf7c0de175f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "UML.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "4149f718bd2bea00",
+  "lastOpenFiles": [
+    "Wzorce Projektowe.canvas",
+    "UML.md"
+  ]
+}
