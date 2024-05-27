@@ -5,7 +5,11 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "BoBxCog",
+      "SiSpringboot",
+      "SiSpring"
+    ],
     "recentlyUsedIconsSize": 25,
     "rules": [],
     "extraMargin": {
@@ -25,5 +29,8 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false
-  }
+  },
+  "Spring": "SiSpring",
+  "Spring/Spring Boot": "SiSpringboot",
+  "Spring/Serwisy.md": "BoBxCog"
 }
