@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e73abf4468f2e5da",
+        "id": "6a20567386a3a817",
         "type": "tabs",
         "children": [
           {
-            "id": "db45323e12113d41",
+            "id": "8ce525ded1f5c536",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring/Serwisy.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Serwisy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Serwisy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spring/Serwisy.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,40 +139,40 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "db45323e12113d41",
+  "active": "de5c793eabff11a9",
   "lastOpenFiles": [
-    "Spring/REST.md",
-    "Spring/Iniekcja zależności.md",
+    "Bez nazwy",
+    "Spring/Serwisy.md",
+    "Main.canvas",
+    "Testy/Testy.md",
+    "Testy/Zaawansowane Testy/Testy Kontraktowe.md",
+    "Testy/AssertJ.md",
+    "Testy/Junit 5.md",
+    "Testy/Mockito.md",
+    "Testy/MockMvc.md",
+    "Spring/Spring Boot/Cashowanie.md",
+    "Spring/Spring Boot/Reaktywny model Web.md",
+    "Spring/Spring Boot/Spring AOP.md",
+    "Spring/Spring Boot/Spring Boot.md",
+    "Spring/Spring Boot/Spring Cloud.md",
+    "Spring/Spring Boot/Spring Messaging.md",
     "Spring/Konfiguracje.md",
+    "Spring/Iniekcja zależności.md",
+    "Spring/Spring Properties.md",
+    "Spring/Spring Data.md",
+    "Spring/Spring.md",
+    "Spring/REST.md",
     "Testy/Zaawansowane Testy/Selenium.md",
     "Testy/Zaawansowane Testy/TDD, BDD.md",
     "Testy/Zaawansowane Testy/Gatling.md",
-    "Testy/Zaawansowane Testy/Testy Kontraktowe.md",
-    "Testy/Testy.md",
     "Testy/Zaawansowane Testy",
-    "Testy/Mockito.md",
-    "Testy/MockMvc.md",
-    "Testy/AssertJ.md",
-    "Testy/Junit 5.md",
-    "Spring/Serwisy.md",
-    "Spring/Spring Boot/Spring Cloud.md",
     "Testy",
-    "Spring/Spring Boot/Spring Messaging.md",
-    "Spring/Spring Boot/Cashowanie.md",
-    "Spring/Spring Boot/Reaktywny model Web.md",
-    "Spring/Spring Data.md",
-    "Spring/Spring Properties.md",
-    "Spring/Spring.md",
-    "Spring/Spring Boot/Spring AOP.md",
-    "Spring/Spring Boot/Spring Boot.md",
-    "Main.canvas",
     "UML.md",
     "README.md",
     "Spring/Spring Boot",
     "Spring",
     "Teoria Programowania/Wzorce Projektowe.md",
     "Teoria Programowania",
-    "Główny Plik.md",
     "LICENSE",
     "Java-Notes/LICENSE",
     "Java-Notes"
