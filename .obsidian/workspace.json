@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Podstawy Informatyki/Podstawy Informatyki/Algorytmy.md",
+                "file": "Podstawy Informatyki/Koncepcja Messagingu/Kafka.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Podstawy Informatyki/Podstawy Informatyki/Algorytmy.md",
+                "file": "Podstawy Informatyki/Koncepcja Messagingu/Kafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Podstawy Informatyki/Podstawy Informatyki/Algorytmy.md",
+                "file": "Podstawy Informatyki/Koncepcja Messagingu/Kafka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Podstawy Informatyki/Podstawy Informatyki/Algorytmy.md"
+                "file": "Podstawy Informatyki/Koncepcja Messagingu/Kafka.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "a1d0e695e9bca498",
   "lastOpenFiles": [
-    "Podstawy Informatyki/Podstawy Informatyki/Systemy Operacyjne.md",
+    "Podstawy Informatyki/Koncepcja Messagingu/Publikuj, Zasubskrybuj.md",
+    "Podstawy Informatyki/Koncepcja Messagingu/Kafka.md",
+    "Podstawy Informatyki/Koncepcja Messagingu/Kolejki.md",
     "Podstawy Informatyki/Podstawy Informatyki/Algorytmy.md",
+    "Podstawy Informatyki/Podstawy Informatyki/Systemy Operacyjne.md",
     "Podstawy Informatyki/Podstawy Informatyki/Sieci.md",
     "Podstawy Informatyki/Podstawy Informatyki/Struktury Danych.md",
     "Podstawy Informatyki/Podstawy Informatyki/Logika.md",
@@ -179,9 +182,6 @@
     "Narzędzia/Terminal.md",
     "Zarządzanie pakietami/Maven/Monitorowanie i Logowanie/Elasticsearch.md",
     "Narzędzia",
-    "Zarządzanie pakietami/Maven/Monitorowanie i Logowanie/Kibana.md",
-    "Zarządzanie pakietami/Maven/Monitorowanie i Logowanie/Logstash.md",
-    "Zarządzanie pakietami/Maven/Monitorowanie i Logowanie/Prometheus.md",
     "Zarządzanie pakietami/Maven/Monitorowanie i Logowanie",
     "Zarządzanie pakietami/Maven/Maven",
     "Zarządzanie pakietami",
