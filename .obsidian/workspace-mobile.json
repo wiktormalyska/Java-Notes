@@ -33,9 +33,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b73d1c96907b059c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "UML.md",
+            "file": "Spring.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "UML.md",
+            "file": "Spring.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,7 +142,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "UML.md"
+            "file": "Spring.md"
           }
         }
       }
@@ -148,9 +160,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4149f718bd2bea00",
+  "active": "b73d1c96907b059c",
   "lastOpenFiles": [
-    "Wzorce Projektowe.canvas",
-    "UML.md"
+    "UML.md",
+    "Spring.md",
+    "Wzorce Projektowe.canvas"
   ]
 }
