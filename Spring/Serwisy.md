@@ -56,7 +56,7 @@ public class UserService {
 }
 ```
 
-- Zarządzanie wyjątkami
+- Zarządzanie wyjątkami:
 	- W serwisach często obsługujemy wyjątki biznesowe. Dobrą praktyką jest tworzenie specyficznych wyjątków.
 	- Przykład:
 ```java
@@ -76,8 +76,9 @@ public class UserService {
 
 ```
 
-- Spring AOP
-	- Serwisy mogą korzystać z aspektów w celu dodatkowej logiki, takiej jak logowanie, auth i zarządzanie 
+- Spring AOP (Aspect-Oriented Programming):
+	- Serwisy mogą korzystać z aspektów w celu dodatkowej logiki, takiej jak logowanie, auth i zarządzanie transakcjami bez zmieniania kodu biznesowego
+	- 
 - Testowanie
 	- Serwisy mogą być łatwo testowane za pomocą testów jednostkowych i integracyjnych.
 	- Dzięki oddzieleniu logiki biznesowej od innych warstw, serwisy można testować niezależnie.
