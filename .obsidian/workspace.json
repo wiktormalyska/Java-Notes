@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker/Bez nazwy.md",
+                "file": "Docker/Kubernetes/Zarządzanie configami, sekretami.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Docker/Bez nazwy.md",
+                "file": "Docker/Kubernetes/Zarządzanie configami, sekretami.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Docker/Bez nazwy.md",
+                "file": "Docker/Kubernetes/Zarządzanie configami, sekretami.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Docker/Bez nazwy.md"
+                "file": "Docker/Kubernetes/Zarządzanie configami, sekretami.md"
               }
             }
           }
@@ -172,10 +172,12 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "76e544a8fa9a03f4",
+  "active": "de5c793eabff11a9",
   "lastOpenFiles": [
+    "Docker/Kubernetes/Integracja CI,CD.md",
+    "Docker/Kubernetes/Zarządzanie configami, sekretami.md",
+    "Docker/Docker/Obrazy.md",
     "Docker/Docker/Volumeny.md",
-    "Docker/Docker/Bez nazwy.md",
     "Docker/Docker/Dockerfile.md",
     "Docker/Docker/docker-compose.md",
     "Docker/Docker/Sieci.md",
@@ -204,8 +206,6 @@
     "Spring/Spring Boot/Spring Cloud.md",
     "Spring/Spring Boot/Spring Messaging.md",
     "Spring/Spring/Spring Properties.md",
-    "Spring/Spring/Spring Data.md",
-    "Spring/Spring/REST.md",
     "Testy/Zaawansowane Testy",
     "Testy",
     "Spring/Spring Boot",
