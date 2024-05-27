@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Serwisy.md",
+                "file": "Spring/Dependency Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Serwisy.md",
+                "file": "Spring/Dependency Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Serwisy.md",
+                "file": "Spring/Dependency Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Serwisy.md"
+                "file": "Spring/Dependency Injection.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "db45323e12113d41",
   "lastOpenFiles": [
-    "Spring/REST.md",
+    "Spring/Konfiguracje.md",
+    "Spring/Dependency Injection.md",
     "Spring/Serwisy.md",
+    "Spring/REST.md",
     "Spring/Spring.md",
     "Spring/Spring Boot/Spring AOP.md",
     "Spring/Spring Boot/Spring Boot.md",
