@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "379512f73d9a0381",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b5f99f49a4e53cb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring/Spring.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring.md",
+                "file": "Spring/Serwisy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring.md",
+                "file": "Spring/Serwisy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring.md"
+                "file": "Spring/Serwisy.md"
               }
             }
           }
@@ -165,10 +147,10 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "b5f99f49a4e53cb1",
+  "active": "db45323e12113d41",
   "lastOpenFiles": [
-    "Spring/Serwisy.md",
     "Spring/Spring.md",
+    "Spring/Serwisy.md",
     "Main.canvas",
     "README.md",
     "UML.md",
