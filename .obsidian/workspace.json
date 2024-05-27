@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6a20567386a3a817",
+        "id": "b8fcebaf8eab6ba1",
         "type": "tabs",
         "children": [
           {
-            "id": "8ce525ded1f5c536",
+            "id": "378a0521ccab54b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring/Iniekcja zależności.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55f6e09a33b0a56f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring/Spring/Iniekcja zależności.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76e544a8fa9a03f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bazy Danych/Zaawansowane Bazy Danych/NoSQL.md",
+                "file": "Zarządzanie pakietami/Maven/Pluginy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bazy Danych/Zaawansowane Bazy Danych/NoSQL.md",
+                "file": "Zarządzanie pakietami/Maven/Pluginy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bazy Danych/Zaawansowane Bazy Danych/NoSQL.md",
+                "file": "Zarządzanie pakietami/Maven/Pluginy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bazy Danych/Zaawansowane Bazy Danych/NoSQL.md"
+                "file": "Zarządzanie pakietami/Maven/Pluginy.md"
               }
             }
           }
@@ -172,13 +147,17 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "de5c793eabff11a9",
+  "active": "378a0521ccab54b3",
   "lastOpenFiles": [
+    "Zarządzanie pakietami/Maven/Profile.md",
+    "Zarządzanie pakietami/Maven/Zależności.md",
+    "Zarządzanie pakietami/Maven/Wielo Modułowość.md",
+    "Zarządzanie pakietami/Maven/Pluginy.md",
+    "Bazy Danych/Zaawansowane Bazy Danych/NoSQL.md",
     "Zarządzanie pakietami",
     "Zarządzanie pakietami/Gradle",
     "Zarządzanie pakietami/Maven",
     "Bazy Danych/Zaawansowane Bazy Danych/Partycjowanie.md",
-    "Bazy Danych/Zaawansowane Bazy Danych/NoSQL.md",
     "Bazy Danych/Zaawansowane Bazy Danych/Indeksowanie.md",
     "Bazy Danych/Zaawansowane Bazy Danych/Optymalizacja zapytań.md",
     "Bazy Danych/Bazy Danych/JPA.md",
@@ -204,12 +183,8 @@
     "Docker/Przetwarzanie w chmurze/DevOps.md",
     "Docker/Kubernetes/Deploymenty.md",
     "Docker/Kubernetes/Podsy.md",
-    "Docker/Kubernetes/Cloud Native.md",
-    "Docker/Kubernetes/Zarządzanie configami, sekretami.md",
-    "Docker/Kubernetes/Integracja CI,CD.md",
     "Docker/Przetwarzanie w chmurze",
     "Docker/Kubernetes",
-    "Docker/Docker",
     "Main.canvas"
   ]
 }
