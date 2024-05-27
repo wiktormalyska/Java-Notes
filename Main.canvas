@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"e51c92b319e690e2","x":-1100,"y":-1120,"width":400,"height":400,"type":"file","file":"Teoria Programowania/Wzorce Projektowe.md"}
+		{"id":"ecba2b722b85993b","x":-529,"y":-919,"width":400,"height":400,"type":"file","file":"Spring.md"},
+		{"id":"e51c92b319e690e2","type":"file","file":"Teoria Programowania/Wzorce Projektowe.md","x":-1100,"y":-1120,"width":400,"height":400}
 	],
 	"edges":[]
 }
