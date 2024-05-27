@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring Properties.md",
+                "file": "Spring/Spring Boot/Reaktyw.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring Properties.md",
+                "file": "Spring/Spring Boot/Reaktyw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring Properties.md",
+                "file": "Spring/Spring Boot/Reaktyw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring Properties.md"
+                "file": "Spring/Spring Boot/Reaktyw.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "db45323e12113d41",
   "lastOpenFiles": [
-    "Spring/REST.md",
+    "Spring/Spring Data.md",
+    "Spring/Spring Boot/Reaktyw.md",
     "Spring/Spring Properties.md",
+    "Spring/REST.md",
     "Spring/Konfiguracje.md",
     "Spring/Iniekcja zależności.md",
     "Spring/Serwisy.md",

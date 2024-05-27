@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "CoData",
       "LiChevronsLeftRight",
       "OcPackageDependents16",
       "TiAccessPoint",
@@ -40,5 +41,7 @@
   "Spring/Spring Boot/Spring Boot.md": "SiSpringboot",
   "Spring/REST.md": "TiAccessPoint",
   "Spring/Iniekcja zależności.md": "OcPackageDependents16",
-  "Spring/Konfiguracje.md": "LiChevronsLeftRight"
+  "Spring/Konfiguracje.md": "LiChevronsLeftRight",
+  "Spring/Spring Properties.md": "SiSpring",
+  "Spring/Spring Data.md": "CoData"
 }
