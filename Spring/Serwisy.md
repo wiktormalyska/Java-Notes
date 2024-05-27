@@ -13,3 +13,5 @@ public class UserService {
 }
 ```
 - Iniekcja zależności (Dependency Injection):
+	- Serwisy mogą być automatycznie wstrzykiwane do innych komponentów, takich jak kontrolery czy inne serwisy, poprzez adnotację `@Autowired`.
+	- Przykład
