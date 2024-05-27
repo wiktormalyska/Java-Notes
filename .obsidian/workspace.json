@@ -11,14 +11,11 @@
             "id": "db45323e12113d41",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Main.canvas",
-                "viewState": {
-                  "x": -1142,
-                  "y": -1124,
-                  "zoom": 0
-                }
+                "file": "Spring/Serwisy.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.canvas",
+                "file": "Spring/Serwisy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main.canvas",
+                "file": "Spring/Serwisy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.canvas"
+                "file": "Spring/Serwisy.md"
               }
             }
           }
@@ -152,10 +149,10 @@
   },
   "active": "db45323e12113d41",
   "lastOpenFiles": [
+    "Main.canvas",
     "README.md",
     "UML.md",
     "Spring/Serwisy.md",
-    "Main.canvas",
     "Spring/Spring.md",
     "Spring",
     "Teoria Programowania/Wzorce Projektowe.md",
