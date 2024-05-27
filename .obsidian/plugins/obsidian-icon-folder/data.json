@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiTool",
       "FiPackage",
       "SiGradle",
       "SiApachemaven",
@@ -59,5 +60,6 @@
   "Bazy Danych": "FiDatabase",
   "Zarządzanie pakietami/Gradle": "SiGradle",
   "Zarządzanie pakietami/Maven": "SiApachemaven",
-  "Zarządzanie pakietami": "FiPackage"
+  "Zarządzanie pakietami": "FiPackage",
+  "Narzędzia": "FiTool"
 }
