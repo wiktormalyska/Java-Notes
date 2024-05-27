@@ -150,3 +150,9 @@ public class UserServiceTest {
 }
 
 ```
+- Wyjaśnienie: 
+	- `@InjectMocks`: Tworzy instancję `UserService` i wstrzykuje do niej mocki.
+	- `@Mock`: Tworzy mock `UserRepository`.
+	- `MockitoAnnotations.openMocks(this)`: Inicjalizuje mocki przed każdym testem.
+	- `when(...).thenReturn(...)`: Definiuje zachowanie mocka.
+	- `assertThrows`: Sprawdza, czy rzucony został określony wyjątek.
