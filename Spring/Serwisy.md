@@ -35,4 +35,17 @@ public class UserController {
 	- Serwisy zarządzają transakcjami w aplikacjach korzystających z baz danych. Można użyć adnotacji `@Transactional` na poziomie klasy lub metody, aby zapewnić, że operacje są wykonywane w sposób atomowy.
 	- Przykład:
 ```java
+import org.springframework.transaction.annotation.Transactional;
+
+@Service
+public class UserService {
+
+    @Transactional
+    public void registerUser(User user) {
+        // logika rejestracji użytkownika
+    }
+}
 ```
+- Testowanie
+	- Serwisy mogą być łatwo testowane za pomocą testów jednostkowych i integracyjnych.
+	- Dzięki oddzieleniu logiki bizne
