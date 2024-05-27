@@ -1,2 +1,2 @@
 Kluczowy element architektury aplikacji opartej na Springu.
-Serwisy są używane do implementacji logiki biznesowej oddzielając 
+Serwisy są używane do implementacji logiki biznesowej oddzielając ją od warstwy kontrolerów oraz warstwy repozytoriów.
