@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Bez nazwy.md",
+                "file": "Git/Commity.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Bez nazwy.md",
+                "file": "Git/Commity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Bez nazwy.md",
+                "file": "Git/Commity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Bez nazwy.md"
+                "file": "Git/Commity.md"
               }
             }
           }
@@ -174,11 +174,14 @@
   },
   "active": "76e544a8fa9a03f4",
   "lastOpenFiles": [
+    "Git/Stashe.md",
+    "Bazy Danych",
+    "Git/GitHub.md",
+    "Git/Commity.md",
+    "Git/Branche.md",
     "Git/Zdalne repozytoria.md",
-    "Git/Bez nazwy.md",
     "Docker/Przetwarzanie w chmurze/OpenShift.md",
     "Git/Git",
-    "Bez nazwy",
     "Git",
     "Docker/Przetwarzanie w chmurze/Azure.md",
     "Docker/Przetwarzanie w chmurze/AWS.md",
@@ -204,11 +207,7 @@
     "Spring/Spring/Konfiguracje.md",
     "Spring/Spring",
     "Docker",
-    "Spring/Spring/Serwisy.md",
     "Main.canvas",
-    "Testy/Testy.md",
-    "Testy/Zaawansowane Testy/Testy Kontraktowe.md",
-    "Testy/AssertJ.md",
     "Testy/Zaawansowane Testy",
     "Testy"
   ]

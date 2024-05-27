@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiDatabase",
       "SiGit",
       "SiDocker",
       "SiJunit5",
@@ -51,5 +52,6 @@
   "Spring/Spring/Spring Data.md": "CoData",
   "Spring/Spring.md": "SiSpring",
   "Docker/Docker.md": "SiDocker",
-  "Git": "SiGit"
+  "Git": "SiGit",
+  "Bazy Danych": "FiDatabase"
 }
