@@ -57,7 +57,24 @@ public class UserService {
 ```
 
 - Zarządzanie wyjątkami
-	- W serwisach często obsługuj
+	- W serwisach często obsługujemy wyjątki biznesowe. Dobrą praktyką jest tworzenie specyficznych wyjątków.
+	- Przykład:
+```java
+public class UserNotFoundException extends RuntimeException {
+    public UserNotFoundException(String message) {
+        super(message);
+    }
+}
+
+@Service
+public class UserService {
+    public User findUserById(Long id) {
+        return userRepository.findById(id)
+            .orElseThrow(() -> new UserNotFoundException("User not found with id: " + id));
+    }
+}
+
+```
 
 - Testowanie
 	- Serwisy mogą być łatwo testowane za pomocą testów jednostkowych i integracyjnych.
