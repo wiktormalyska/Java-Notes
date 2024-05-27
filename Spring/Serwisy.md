@@ -41,7 +41,7 @@ public class UserController {
 		- **isolation**: widoczność zmian dokonanych w ramach transakcji dla innych transakcji.
 		- **timeout**: maksymalny czas w sekundach przez jaki transakcja moze trwać przed zakończeniem
 		- **readOnly**: wskazuje, że transakcja jest tylko do odczytu
-		- **norollback/rollbackFor**: wycofuje
+		- **norollback/rollbackFor**: nie/wycofuje transakcje w przypadku wystąpienia określonego wyjątku
 	- Przykład:
 ```java
 import org.springframework.transaction.annotation.Transactional;
