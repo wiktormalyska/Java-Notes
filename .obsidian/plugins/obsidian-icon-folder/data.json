@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiGit",
       "SiDocker",
       "SiJunit5",
       "CoData",
@@ -49,5 +50,6 @@
   "Spring/Spring/Serwisy.md": "BoBxCog",
   "Spring/Spring/Spring Data.md": "CoData",
   "Spring/Spring.md": "SiSpring",
-  "Docker/Docker.md": "SiDocker"
+  "Docker/Docker.md": "SiDocker",
+  "Git": "SiGit"
 }

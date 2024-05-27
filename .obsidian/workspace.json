@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Przetwarzanie w chmurze/Bez nazwy.md",
+                "file": "Git/Bez nazwy.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Przetwarzanie w chmurze/Bez nazwy.md",
+                "file": "Git/Bez nazwy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Przetwarzanie w chmurze/Bez nazwy.md",
+                "file": "Git/Bez nazwy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Przetwarzanie w chmurze/Bez nazwy.md"
+                "file": "Git/Bez nazwy.md"
               }
             }
           }
@@ -174,8 +174,16 @@
   },
   "active": "76e544a8fa9a03f4",
   "lastOpenFiles": [
+    "Git/Zdalne repozytoria.md",
+    "Git/Bez nazwy.md",
+    "Docker/Przetwarzanie w chmurze/OpenShift.md",
+    "Git/Git",
+    "Bez nazwy",
+    "Git",
+    "Docker/Przetwarzanie w chmurze/Azure.md",
+    "Docker/Przetwarzanie w chmurze/AWS.md",
+    "Docker/Przetwarzanie w chmurze/GCP.md",
     "Docker/Przetwarzanie w chmurze/DevOps.md",
-    "Docker/Przetwarzanie w chmurze/Bez nazwy.md",
     "Docker/Kubernetes/Deploymenty.md",
     "Docker/Kubernetes/Podsy.md",
     "Docker/Kubernetes/Cloud Native.md",
@@ -201,15 +209,7 @@
     "Testy/Testy.md",
     "Testy/Zaawansowane Testy/Testy Kontraktowe.md",
     "Testy/AssertJ.md",
-    "Testy/Junit 5.md",
-    "Testy/Mockito.md",
-    "Testy/MockMvc.md",
-    "Spring/Spring Boot/Cashowanie.md",
-    "Spring/Spring Boot/Reaktywny model Web.md",
     "Testy/Zaawansowane Testy",
-    "Testy",
-    "Spring/Spring Boot",
-    "Spring",
-    "Teoria Programowania"
+    "Testy"
   ]
 }
