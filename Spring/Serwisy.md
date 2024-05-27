@@ -76,6 +76,8 @@ public class UserService {
 
 ```
 
+- Spring AOP
+	- Serwisy mogą korzystać z aspektów w celu dodatkowej logiki, takiej jak logowanie, auth i zarządzanie 
 - Testowanie
 	- Serwisy mogą być łatwo testowane za pomocą testów jednostkowych i integracyjnych.
 	- Dzięki oddzieleniu logiki biznesowej od innych warstw, serwisy można testować niezależnie.
