@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Serwisy.md",
+                "file": "Spring/Spring Boot.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Serwisy.md",
+                "file": "Spring/Spring Boot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Serwisy.md",
+                "file": "Spring/Spring Boot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Serwisy.md"
+                "file": "Spring/Spring Boot.md"
               }
             }
           }
@@ -147,10 +147,11 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "db45323e12113d41",
+  "active": "de5c793eabff11a9",
   "lastOpenFiles": [
     "Spring/Spring.md",
     "Spring/Serwisy.md",
+    "Spring/Spring Boot.md",
     "Main.canvas",
     "README.md",
     "UML.md",
