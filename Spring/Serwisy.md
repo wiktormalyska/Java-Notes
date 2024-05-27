@@ -39,7 +39,7 @@ public class UserController {
 	- Istnieją różne atrybuty adnotacji, takie jak: 
 		- propagation: zarządzanie transakcją, gdy metoda jest wywoływana w ramach istniejącej już transakcji
 		- isolation: widoczność zmian dokonanych w ramach transakcji dla innych transakcji.
-		- timeout: maksymalny czas w sekundach
+		- timeout: maksymalny czas w sekundach przez jaki 
 		- readOnly
 	- Przykład:
 ```java
