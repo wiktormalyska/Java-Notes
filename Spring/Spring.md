@@ -1,5 +1,5 @@
 ### Spis Treści:
-- Serwisy
+- [[Serwisy]]
 - REST
 - Wstrzykiwanie zależności
 - Konfiguracje
