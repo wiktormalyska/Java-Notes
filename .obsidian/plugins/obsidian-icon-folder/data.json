@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabJava",
       "FiTool",
       "FiPackage",
       "SiGradle",
@@ -61,5 +62,7 @@
   "Zarządzanie pakietami/Gradle": "SiGradle",
   "Zarządzanie pakietami/Maven": "SiApachemaven",
   "Zarządzanie pakietami": "FiPackage",
-  "Narzędzia": "FiTool"
+  "Narzędzia": "FiTool",
+  "Java": "FabJava",
+  "Java/Java": "FabJava"
 }
