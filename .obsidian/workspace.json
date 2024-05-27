@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testy/Zaawansowane Testy/Bez nazwy.md",
+                "file": "Spring/Serwisy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testy/Zaawansowane Testy/Bez nazwy.md",
+                "file": "Spring/Serwisy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testy/Zaawansowane Testy/Bez nazwy.md",
+                "file": "Spring/Serwisy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testy/Zaawansowane Testy/Bez nazwy.md"
+                "file": "Spring/Serwisy.md"
               }
             }
           }
@@ -149,8 +149,14 @@
   },
   "active": "db45323e12113d41",
   "lastOpenFiles": [
+    "Spring/REST.md",
+    "Spring/Iniekcja zależności.md",
+    "Spring/Konfiguracje.md",
+    "Testy/Zaawansowane Testy/Selenium.md",
+    "Testy/Zaawansowane Testy/TDD, BDD.md",
+    "Testy/Zaawansowane Testy/Gatling.md",
+    "Testy/Zaawansowane Testy/Testy Kontraktowe.md",
     "Testy/Testy.md",
-    "Testy/Zaawansowane Testy/Bez nazwy.md",
     "Testy/Zaawansowane Testy",
     "Testy/Mockito.md",
     "Testy/MockMvc.md",
@@ -164,9 +170,6 @@
     "Spring/Spring Boot/Reaktywny model Web.md",
     "Spring/Spring Data.md",
     "Spring/Spring Properties.md",
-    "Spring/REST.md",
-    "Spring/Konfiguracje.md",
-    "Spring/Iniekcja zależności.md",
     "Spring/Spring.md",
     "Spring/Spring Boot/Spring AOP.md",
     "Spring/Spring Boot/Spring Boot.md",
@@ -179,10 +182,7 @@
     "Teoria Programowania",
     "Główny Plik.md",
     "LICENSE",
-    "Java-Notes/README.md",
     "Java-Notes/LICENSE",
-    "Java-Notes",
-    "2024-05-27.md",
-    "Welcome.md"
+    "Java-Notes"
   ]
 }
