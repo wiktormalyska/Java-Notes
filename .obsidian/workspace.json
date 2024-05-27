@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Bez nazwy.md",
+                "file": "Spring/Spring Properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Bez nazwy.md",
+                "file": "Spring/Spring Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Bez nazwy.md",
+                "file": "Spring/Spring Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Bez nazwy.md"
+                "file": "Spring/Spring Properties.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "active": "db45323e12113d41",
   "lastOpenFiles": [
     "Spring/REST.md",
-    "Spring/Bez nazwy.md",
+    "Spring/Spring Properties.md",
     "Spring/Konfiguracje.md",
     "Spring/Iniekcja zależności.md",
     "Spring/Serwisy.md",
