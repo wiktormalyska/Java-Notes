@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Kubernetes/Zarządzanie configami, sekretami.md",
+                "file": "Docker/Przetwarzanie w chmurze/Bez nazwy.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Kubernetes/Zarządzanie configami, sekretami.md",
+                "file": "Docker/Przetwarzanie w chmurze/Bez nazwy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Kubernetes/Zarządzanie configami, sekretami.md",
+                "file": "Docker/Przetwarzanie w chmurze/Bez nazwy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Kubernetes/Zarządzanie configami, sekretami.md"
+                "file": "Docker/Przetwarzanie w chmurze/Bez nazwy.md"
               }
             }
           }
@@ -172,10 +172,15 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "de5c793eabff11a9",
+  "active": "76e544a8fa9a03f4",
   "lastOpenFiles": [
-    "Docker/Kubernetes/Integracja CI,CD.md",
+    "Docker/Przetwarzanie w chmurze/DevOps.md",
+    "Docker/Przetwarzanie w chmurze/Bez nazwy.md",
+    "Docker/Kubernetes/Deploymenty.md",
+    "Docker/Kubernetes/Podsy.md",
+    "Docker/Kubernetes/Cloud Native.md",
     "Docker/Kubernetes/Zarządzanie configami, sekretami.md",
+    "Docker/Kubernetes/Integracja CI,CD.md",
     "Docker/Docker/Obrazy.md",
     "Docker/Docker/Volumeny.md",
     "Docker/Docker/Dockerfile.md",
@@ -201,11 +206,6 @@
     "Testy/MockMvc.md",
     "Spring/Spring Boot/Cashowanie.md",
     "Spring/Spring Boot/Reaktywny model Web.md",
-    "Spring/Spring Boot/Spring AOP.md",
-    "Spring/Spring Boot/Spring Boot.md",
-    "Spring/Spring Boot/Spring Cloud.md",
-    "Spring/Spring Boot/Spring Messaging.md",
-    "Spring/Spring/Spring Properties.md",
     "Testy/Zaawansowane Testy",
     "Testy",
     "Spring/Spring Boot",
