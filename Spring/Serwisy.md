@@ -48,4 +48,4 @@ public class UserService {
 ```
 - Testowanie
 	- Serwisy mogą być łatwo testowane za pomocą testów jednostkowych i integracyjnych.
-	- Dzięki oddzieleniu logiki bizne
+	- Dzięki oddzieleniu logiki biznesowej od innych warstw, serwisy można testować niezależnie.
