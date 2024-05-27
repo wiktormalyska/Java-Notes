@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"5fd0bbf4cac0fe46","x":-840,"y":-600,"width":260,"height":140,"type":"text","text":"\n## Przydatne Linki\n[Refactoring Guru](https://refactoring.guru/design-patterns)"}
+		{"id":"5fd0bbf4cac0fe46","type":"text","text":"\n## Przydatne Linki\n[Refactoring Guru](https://refactoring.guru/design-patterns)","x":-840,"y":-600,"width":260,"height":140},
+		{"id":"b376e5339f871651","x":-220,"y":-280,"width":400,"height":400,"type":"file","file":"UML.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"a346302012a93bcc","fromNode":"5fd0bbf4cac0fe46","fromSide":"bottom","toNode":"b376e5339f871651","toSide":"top"}
+	]
 }
