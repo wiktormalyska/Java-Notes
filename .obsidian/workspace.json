@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring.md",
+                "file": "Spring/Serwisy.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring.md",
+                "file": "Spring/Serwisy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring.md",
+                "file": "Spring/Serwisy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring.md"
+                "file": "Spring/Serwisy.md"
               }
             }
           }
@@ -147,11 +148,12 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "de5c793eabff11a9",
+  "active": "db45323e12113d41",
   "lastOpenFiles": [
+    "Spring/Spring.md",
+    "Spring/Serwisy.md",
     "Spring",
     "Main.canvas",
-    "Spring/Spring.md",
     "README.md",
     "Teoria Programowania/Wzorce Projektowe.md",
     "Teoria Programowania",
