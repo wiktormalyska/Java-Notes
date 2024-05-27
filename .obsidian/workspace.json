@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Commity.md",
+                "file": "Bazy Danych/Zaawansowane Bazy Danych/Bez nazwy.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Commity.md",
+                "file": "Bazy Danych/Zaawansowane Bazy Danych/Bez nazwy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Commity.md",
+                "file": "Bazy Danych/Zaawansowane Bazy Danych/Bez nazwy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Commity.md"
+                "file": "Bazy Danych/Zaawansowane Bazy Danych/Bez nazwy.md"
               }
             }
           }
@@ -174,10 +174,19 @@
   },
   "active": "76e544a8fa9a03f4",
   "lastOpenFiles": [
+    "Bazy Danych/Bazy Danych/JPA.md",
+    "Bazy Danych/Zaawansowane Bazy Danych/Bez nazwy.md",
+    "Bazy Danych/Bazy Danych/Tabele.md",
+    "Bazy Danych/Bazy Danych/Syntaks SQL.md",
+    "Bazy Danych/Bazy Danych/Normalizacja.md",
+    "Bazy Danych/Bazy Danych/Relacje.md",
     "Git/Stashe.md",
+    "Bazy Danych/Zaawansowane Bazy Danych",
+    "Bazy Danych/Za.md",
+    "Bazy Danych/Bazy Danych",
+    "Git/Commity.md",
     "Bazy Danych",
     "Git/GitHub.md",
-    "Git/Commity.md",
     "Git/Branche.md",
     "Git/Zdalne repozytoria.md",
     "Docker/Przetwarzanie w chmurze/OpenShift.md",
@@ -196,19 +205,11 @@
     "Docker/Docker/Volumeny.md",
     "Docker/Docker/Dockerfile.md",
     "Docker/Docker/docker-compose.md",
-    "Docker/Docker/Sieci.md",
-    "Docker/Docker.md",
     "Docker/Przetwarzanie w chmurze",
     "Docker/Kubernetes",
-    "Docker/Bez nazwy.md",
     "Docker/Docker",
-    "Spring/Spring.md",
-    "Spring/Spring/Iniekcja zależności.md",
-    "Spring/Spring/Konfiguracje.md",
     "Spring/Spring",
     "Docker",
-    "Main.canvas",
-    "Testy/Zaawansowane Testy",
-    "Testy"
+    "Main.canvas"
   ]
 }
