@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiJunit5",
       "CoData",
       "LiChevronsLeftRight",
       "OcPackageDependents16",
@@ -43,5 +44,6 @@
   "Spring/Iniekcja zależności.md": "OcPackageDependents16",
   "Spring/Konfiguracje.md": "LiChevronsLeftRight",
   "Spring/Spring Properties.md": "SiSpring",
-  "Spring/Spring Data.md": "CoData"
+  "Spring/Spring Data.md": "CoData",
+  "Testy": "SiJunit5"
 }
