@@ -97,4 +97,56 @@ public class UserService {
     }
 }
 ```
-``
+
+```java
+import static org.junit.jupiter.api.Assertions.*;
+import static org.mockito.Mockito.*;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.mockito.InjectMocks;
+import org.mockito.Mock;
+import org.mockito.MockitoAnnotations;
+
+import java.util.Optional;
+
+public class UserServiceTest {
+
+    @InjectMocks
+    private UserService userService;
+
+    @Mock
+    private UserRepository userRepository;
+
+    @BeforeEach
+    public void setUp() {
+        MockitoAnnotations.openMocks(this);
+    }
+
+    @Test
+    public void testFindUserById_UserExists() {
+        User user = new User();
+        user.setId(1L);
+
+        when(userRepository.findById(1L)).thenReturn(Optional.of(user));
+
+        User result = userService.findUserById(1L);
+
+        assertEquals(user, result);
+        verify(userRepository, times(1)).findById(1L);
+    }
+
+    @Test
+    public void testFindUserById_UserNotFound() {
+        when(userRepository.findById(1L)).thenReturn(Optional.empty());
+
+        Exception exception = assertThrows(UserNotFoundException.class, () -> {
+            userService.findUserById(1L);
+        });
+
+        assertEquals("User not found with id: 1", exception.getMessage());
+        verify(userRepository, times(1)).findById(1L);
+    }
+}
+
+```
