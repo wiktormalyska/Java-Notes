@@ -1,7 +1,6 @@
 {
 	"nodes":[
-		{"id":"e51c92b319e690e2","x":-1140,"y":-880,"width":400,"height":400,"type":"file","file":"Teoria Programowania/Wzorce Projektowe.md"},
-		{"id":"5fd0bbf4cac0fe46","type":"text","text":"\n## Przydatne Linki\n[Refactoring Guru](https://refactoring.guru/design-patterns)","x":-620,"y":-750,"width":260,"height":140}
+		{"id":"e51c92b319e690e2","x":-1100,"y":-1120,"width":400,"height":400,"type":"file","file":"Teoria Programowania/Wzorce Projektowe.md"}
 	],
 	"edges":[]
 }
