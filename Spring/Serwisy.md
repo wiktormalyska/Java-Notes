@@ -29,4 +29,5 @@ public class UserController {
 }
 
 ```
-- Separacja
+- Separacja problemów (Separation of Concerns)
+	- Serwisy pomaj
