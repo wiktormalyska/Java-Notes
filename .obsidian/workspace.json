@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring.md",
+                "file": "Docker/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring.md",
+                "file": "Docker/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring.md",
+                "file": "Docker/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring.md"
+                "file": "Docker/Docker.md"
               }
             }
           }
@@ -174,10 +174,14 @@
   },
   "active": "de5c793eabff11a9",
   "lastOpenFiles": [
-    "Spring/Spring/Iniekcja zależności.md",
-    "Spring/Spring.md",
-    "Spring/Spring/Konfiguracje.md",
+    "Docker/Bez nazwy",
+    "Docker/Kubernetes",
+    "Docker/Bez nazwy.md",
     "Docker/Docker.md",
+    "Docker/Docker",
+    "Spring/Spring.md",
+    "Spring/Spring/Iniekcja zależności.md",
+    "Spring/Spring/Konfiguracje.md",
     "Spring/Spring",
     "Docker",
     "Spring/Spring/Serwisy.md",
@@ -203,12 +207,9 @@
     "Testy/Zaawansowane Testy",
     "Testy",
     "UML.md",
-    "README.md",
     "Spring/Spring Boot",
     "Spring",
     "Teoria Programowania",
-    "LICENSE",
-    "Java-Notes/LICENSE",
-    "Java-Notes"
+    "LICENSE"
   ]
 }
