@@ -43,3 +43,5 @@ public class MyService {
     }
 }
 ```
+- Iniekcja przez Pole
+	- 
