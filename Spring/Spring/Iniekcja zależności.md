@@ -55,4 +55,19 @@ public class MyService {
 }
 ```
 - Konfiguracja Beanów i Iniekcja Zależności w XML
-	- Spring pozwala również na definiowanie beanów i zarządzanie zależnościami za pomocą plików XML, co było populatn
+	- Spring pozwala również na definiowanie beanów i zarządzanie zależnościami za pomocą plików XML, co było popularne w starszych wersjach Springa.
+	- Przykład:
+```xml
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="myRepository" class="com.example.MyRepository"/>
+    <bean id="myService" class="com.example.MyService">
+        <constructor-arg ref="myRepository"/>
+    </bean>
+</beans>
+```
+- `@Autowired` i inne Adnotacje
+	- `@Autowired`: Adnotacja uż
