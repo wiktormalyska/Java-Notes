@@ -77,4 +77,14 @@ public class ProdConfig {
 - Konfiguracja za pomocą plików properties i YAML
 	- [[Spring Properties]]
 - @Value i @ConfigurationProperties
-	- Adnotacja `@Value` pozwala na wstrzykiwanie wartości z plików konfiguracyjnych bezp
+	- Adnotacja `@Value` pozwala na wstrzykiwanie wartości z plików konfiguracyjnych bezpośrednio do pół klasy
+	- Przykład:
+```java
+@Component
+public class MyComponent {
+
+    @Value("${my.property}")
+    private String myProperty;
+    // ...
+}
+```
