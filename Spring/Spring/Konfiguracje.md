@@ -50,4 +50,6 @@ public class AppConfig {
 
 ```
 - Profile
-	- Spring Profiles pozwalają na f
+	- Spring Profiles pozwalają na definiowanie różnych konfiguracji dla różnych środowisk (np. dev,text,prod)
+	- Profile mogą być aktywowane programowo lub za pomocą zmiennych środowiskowych
+		
