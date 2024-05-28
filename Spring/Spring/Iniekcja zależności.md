@@ -54,4 +54,5 @@ public class MyService {
     private MyRepository myRepository;
 }
 ```
-- 
+- Konfiguracja Beanów i Iniekcja Zależności w XML
+	- 
