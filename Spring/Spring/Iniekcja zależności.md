@@ -55,4 +55,4 @@ public class MyService {
 }
 ```
 - Konfiguracja Beanów i Iniekcja Zależności w XML
-	- 
+	- Spring pozwala również na definiowanie beanów i zarządzanie zależnościami za pomocą plików XML, co było populatn
