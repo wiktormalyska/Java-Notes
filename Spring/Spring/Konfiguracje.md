@@ -18,6 +18,17 @@
 ```
 - Konfiguracja za pomocą adnotacji (Java-based Configuration)
 	- Spring umożliwia definiowanie konfiguracji za pomocą adnotacji w kodzie Java
+	- W tym podejściu, klasa `App Config` jest oznaczona adnotacją `@Configuration`, a metody zwracające beany są oznaczone adnotacją 
 	- Przykład:
-```
+```java
+@Configuration
+public class AppConfig {
+
+    @Bean
+    public MyBean myBean() {
+        return new MyBean();
+    }
+
+}
+
 ```
