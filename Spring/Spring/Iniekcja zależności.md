@@ -15,4 +15,19 @@ public class UserController {
 
 ```
 - Iniekcja przez Konstruktor:
-	- polega na przekazywaniu zależności do obiektu poprzez jego konstruktor. Jest to preferowane podejście, ponieważ pozwala na oznaczenie zależności jako już wymagane od momentu tworzeni
+	- polega na przekazywaniu zależności do obiektu poprzez jego konstruktor. Jest to preferowane podejście, ponieważ pozwala na oznaczenie zależności jako już wymagane od momentu tworzenia obiektu
+	- Przykład:
+```java
+@Component
+public class MyService {
+    private final MyRepository myRepository;
+
+    @Autowired
+    public MyService(MyRepository myRepository) {
+        this.myRepository = myRepository;
+    }
+}
+```
+- Iniekcja przez Setter
+	- umożliwia przekazywanie zależności do obiektu za pomocą metod setter
+	- 
