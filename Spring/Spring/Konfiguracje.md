@@ -1,4 +1,4 @@
 - Konfiguracja odnosi się do sposobów definiowania i zarządzania komponentami, zależnościami i ustawieniami aplikacji
 - Konfiguracja XML
 	- W starszych wersjach Springa dominowała
-	- 
+	- Używana do definiowania beanów i zależności
