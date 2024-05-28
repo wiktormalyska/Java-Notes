@@ -2,6 +2,6 @@
 - [[Serwisy]]
 - [[REST]]
 - [[Konfiguracje]]
-- Konfiguracje
-- Właściwości
-- Spring Data
+- [[Iniekcja zależności]]
+- [[Spring Data]]
+- [[Spring Properties]]
