@@ -16,4 +16,8 @@
 
 </beans>
 ```
-- Konfiguracja za pomocą ad
+- Konfiguracja za pomocą adnotacji (Java-based Configuration)
+	- Spring umożliwia definiowanie konfiguracji za pomocą adnotacji w kodzie Java
+	- Przykład:
+```
+```
