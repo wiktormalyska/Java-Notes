@@ -44,4 +44,5 @@ public class MyService {
 }
 ```
 - Iniekcja przez Pole
-	- 
+	- jest to najprostszy sposób iniekcji zależności, gdzie `@Autowired` jest używana bezpośrednio na polu
+	- Mimo tego że jest to wygodne, to nie je
