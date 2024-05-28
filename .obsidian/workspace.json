@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e73abf4468f2e5da",
+        "id": "4ecb3d4618cc5615",
         "type": "tabs",
         "children": [
           {
-            "id": "db45323e12113d41",
+            "id": "88ba79e0cd7640e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Spring/Spring.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Spring/Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Spring/Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Spring/Spring.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "db45323e12113d41",
+  "active": "88ba79e0cd7640e7",
   "lastOpenFiles": [
+    "README.md",
     "Zarządzanie pakietami/Maven/Maven/Zależności.md",
     "Zarządzanie pakietami/Maven/Maven/Wielo Modułowość.md",
     "Zarządzanie pakietami/Maven/Maven/Profile.md",
@@ -181,7 +182,6 @@
     "Spring/Spring Boot/Spring Messaging.md",
     "Spring/Spring Boot/Spring Cloud.md",
     "Spring/Spring Boot/Spring Boot.md",
-    "Spring/Spring Boot/Spring AOP.md",
     "Spring/Spring Boot",
     "Spring/Spring",
     "Spring",
