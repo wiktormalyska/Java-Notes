@@ -2,3 +2,4 @@
 - Konfiguracja XML
 	- W starszych wersjach Springa dominowała
 	- Używana do definiowania beanów i zależności
+	- Zawierają definicje komponentów i sposoby ich 
