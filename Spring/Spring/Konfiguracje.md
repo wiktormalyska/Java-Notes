@@ -1,3 +1,3 @@
 - Konfiguracja odnosi się do sposobów definiowania i zarządzania komponentami, zależnościami i ustawieniami aplikacji
 - Konfiguracja XML
-	- W starszych wersjach Springa domino
+	- W starszych wersjach Springa dominowałą
