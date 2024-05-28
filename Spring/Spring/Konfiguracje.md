@@ -1,1 +1,2 @@
-- Ko
+- Konfiguracja odnosi się do sposobów definiowania i zarządzania komponentami, zależnościami i ustawieniami aplikacji
+- Konfigu
