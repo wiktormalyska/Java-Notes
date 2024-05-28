@@ -78,7 +78,8 @@ public class ProdConfig {
 	- [[Spring Properties]]
 - @Value i @ConfigurationProperties
 	- Adnotacja `@Value` pozwala na wstrzykiwanie wartości z plików konfiguracyjnych bezpośrednio do pół klasy
-	- ``
+	- `@ConfigurationProperties` umożliwia mapowanie całych plików konfiguracyjnych klasy.
+	- application.proper
 	- Przykład:
 ```java
 @Component
