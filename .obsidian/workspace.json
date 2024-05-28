@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring/Iniekcja zależności.md",
+                "file": "Spring/Spring/Konfiguracje.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring/Iniekcja zależności.md",
+                "file": "Spring/Spring/Konfiguracje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring/Iniekcja zależności.md",
+                "file": "Spring/Spring/Konfiguracje.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring/Iniekcja zależności.md"
+                "file": "Spring/Spring/Konfiguracje.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "88ba79e0cd7640e7",
   "lastOpenFiles": [
+    "Spring/Spring/Iniekcja zależności.md",
+    "Spring/Spring/Konfiguracje.md",
     "Spring/Spring.md",
     "README.md",
     "Zarządzanie pakietami/Maven/Maven/Zależności.md",
@@ -180,8 +182,6 @@
     "Testy/Junit 5.md",
     "Testy/AssertJ.md",
     "Testy",
-    "Spring/Spring Boot/Spring Messaging.md",
-    "Spring/Spring Boot/Spring Cloud.md",
     "Spring/Spring Boot",
     "Spring/Spring",
     "Spring",
