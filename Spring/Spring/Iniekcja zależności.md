@@ -42,5 +42,4 @@ public class MyService {
         this.myRepository = myRepository;
     }
 }
-
 ```
