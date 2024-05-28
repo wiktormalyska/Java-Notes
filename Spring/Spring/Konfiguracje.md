@@ -52,4 +52,25 @@ public class AppConfig {
 - Profile
 	- Spring Profiles pozwalają na definiowanie różnych konfiguracji dla różnych środowisk (np. dev,text,prod)
 	- Profile mogą być aktywowane programowo lub za pomocą zmiennych środowiskowych
-		
+	- Przykład:
+```java
+@Configuration
+@Profile("dev")
+public class DevConfig {
+
+    @Bean
+    public MyBean myBean() {
+        return new MyBean("Development");
+    }
+}
+
+@Configuration
+@Profile("prod")
+public class ProdConfig {
+
+    @Bean
+    public MyBean myBean() {
+        return new MyBean("Production");
+    }
+}
+```
