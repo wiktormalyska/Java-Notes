@@ -33,4 +33,19 @@ public class AppConfig {
 
 ```
 - Konfiguracja za pomocą adnotacji komponentów (Component Scanning)
-	- Spring może automatycznie wykrywać i rejestrować beany za pomocą adnotacji takich jak `@Component`
+	- Spring może automatycznie wykrywać i rejestrować beany za pomocą adnotacji takich jak `@Component`, `@Service`, `@Repository`, `@Controller`
+	- W kodzie `@ComponentScan` mó
+	- Przykład:
+```java
+@Component
+public class MyBean {
+    // ...
+}
+
+@Configuration
+@ComponentScan(basePackages = "com.example")
+public class AppConfig {
+    // ...
+}
+
+```
