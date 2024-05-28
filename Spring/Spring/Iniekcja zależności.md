@@ -1,5 +1,4 @@
-- Iniekcja zależności (Dependency Injection):
-	- Serwisy mogą być automatycznie wstrzykiwane do innych komponentów, takich jak kontrolery czy inne serwisy, poprzez adnotację `@Autowired`.
+- Serwisy mogą być automatycznie wstrzykiwane do innych komponentów, takich jak kontrolery czy inne serwisy, poprzez adnotację `@Autowired`.
 	- Przykład:
 ```java
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,4 +14,4 @@ public class UserController {
 }
 
 ```
-- Iniekcja 
+- Iniekcja przez Konstr
