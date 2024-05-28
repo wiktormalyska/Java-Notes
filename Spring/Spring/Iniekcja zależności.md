@@ -45,4 +45,12 @@ public class MyService {
 ```
 - Iniekcja przez Pole
 	- jest to najprostszy sposób iniekcji zależności, gdzie `@Autowired` jest używana bezpośrednio na polu
-	- Mimo tego że jest to wygodne, to nie je
+	- Mimo tego że jest to wygodne, to nie jest zalecane w bardziej skomplikowanych aplikacjach, ponieważ utrudnia to testowanie i zarządzanie zależnościami
+	- Przykład:
+```java
+@Component
+public class MyService {
+    @Autowired
+    private MyRepository myRepository;
+}
+```
