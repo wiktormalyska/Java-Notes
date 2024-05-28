@@ -70,4 +70,4 @@ public class MyService {
 </beans>
 ```
 - `@Autowired` i inne Adnotacje
-	- `@Autowired`: Adnotacja uż
+	- `@Autowired`: Adnotacja używana do 
