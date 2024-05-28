@@ -76,4 +76,4 @@ public class ProdConfig {
 ```
 - Konfiguracja za pomocą plików properties i YAML
 	- [[Spring Properties]]
-	- ~
+- 
