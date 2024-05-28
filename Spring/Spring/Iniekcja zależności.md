@@ -14,4 +14,5 @@ public class UserController {
 }
 
 ```
-- Iniekcja przez Konstr
+- Iniekcja przez Konstruktor:
+	- polega na przekazywaniu zależności do obiektu poprzez jego konstruktor. Jest to preferowane podejście, ponieważ pozwala na oznaczenie zależności jako już wymagane od momentu tworzeni
