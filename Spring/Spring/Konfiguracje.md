@@ -79,7 +79,8 @@ public class ProdConfig {
 - @Value i @ConfigurationProperties
 	- Adnotacja `@Value` pozwala na wstrzykiwanie wartości z plików konfiguracyjnych bezpośrednio do pół klasy
 	- `@ConfigurationProperties` umożliwia mapowanie całych plików konfiguracyjnych klasy.
-	- application.proper
+	- application.properties:
+		- `my.property=Value`
 	- Przykład:
 ```java
 @Component
