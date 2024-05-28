@@ -30,4 +30,17 @@ public class MyService {
 ```
 - Iniekcja przez Setter
 	- umożliwia przekazywanie zależności do obiektu za pomocą metod setter
-	- 
+	- to podejście jest używane, gdy zależność może być opcjonalna lub gdy konieczne jest ustawienie zależności po utworzeniu obiektu
+	- Przykład:
+```java
+@Component
+public class MyService {
+    private MyRepository myRepository;
+
+    @Autowired
+    public void setMyRepository(MyRepository myRepository) {
+        this.myRepository = myRepository;
+    }
+}
+
+```
