@@ -5,4 +5,9 @@
 	- Uwierzytelnianie (Authentication): 
 		- Proces weryfikacji tożsamości użytkownika, np. za pomocą loginu i hasła
 	- Autoryzacja (Authorization):
-		- Proces przyznawania uprawnień użytkownikowi do wykonywania określonych ope
+		- Proces przyznawania uprawnień użytkownikowi do wykonywania określonych operacji
+
+- Komponenty Spring Security
+	- Security Context
+		- Przechowuje informację o uwierzytelnionym użytkowniku
+	- 
