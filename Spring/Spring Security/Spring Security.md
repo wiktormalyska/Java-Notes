@@ -155,4 +155,49 @@ public class SecurityConfiguration {
 		- Obsługa różnych metod haszowania haseł, takich jak BCrypt, SCrypt
 ### Integracja z Aplikacjami Webowymi
 - Spring Security umożliwia zintegrowanie z aplikacjami opartymi na Spring MVC, WebFlux etc.
-- Przykład prostej a
+- Przykład prostej aplikacji:
+```java
+@Controller
+public class WebController {
+
+    @GetMapping("/login")
+    public String login() {
+        return "login";
+    }
+
+    @GetMapping("/home")
+    public String home() {
+        return "home";
+    }
+}
+```
+- Plik `login.html`
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+</head>
+<body>
+    <form method="post" action="/login">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username">
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password">
+        <button type="submit">Login</button>
+    </form>
+</body>
+</html>
+```
+- Plik `home.html`
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+</head>
+<body>
+    <h1>Welcome Home!</h1>
+</body>
+</html>
+```
