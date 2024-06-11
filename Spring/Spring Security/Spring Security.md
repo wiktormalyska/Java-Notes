@@ -16,4 +16,8 @@
 		- Reprezentuje uprawnienia lub role przypisane użytkownikowi
 	- User Details
 		- Dane użytkownika potrzebne do uwierzytelnienia
-	- 
+	- User Details Service
+		- Interfejs do ładowania danych użytkownika na podstawie nazwy użytkownika
+
+- Integracja aplikacji z Spring Security
+	- Dodanie zależności do projektu
