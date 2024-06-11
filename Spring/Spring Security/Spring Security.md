@@ -3,4 +3,6 @@
 
 - Podstawowe Koncepcje
 	- Uwierzytelnianie (Authentication): 
-		- Proces weryfikacji tożsamości użytkownika, np.: za 
+		- Proces weryfikacji tożsamości użytkownika, np. za pomocą loginu i hasła
+	- Autoryzacja (Authorization):
+		- Proces przyznawania uprawnień użytkownikowi do wykonywania określonych ope
