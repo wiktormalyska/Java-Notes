@@ -10,4 +10,6 @@
 - Komponenty Spring Security
 	- Security Context
 		- Przechowuje informację o uwierzytelnionym użytkowniku
-	- 
+	- Authentication
+		- Interfejs reprezentujący informację o uwierzytelnieniu użytkownika (username i password)
+		-
