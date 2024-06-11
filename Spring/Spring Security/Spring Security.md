@@ -1,1 +1,2 @@
-- Jest to rozbudowane narzędzie do zabezpie
+- Jest to rozbudowane narzędzie do zabezpieczenia aplikacji opartych na Springu
+- Umożliwia implementację różnorodnych mechanizmów uwierzytelniania i autoryzacji zapewniając ochronę przez atakami
