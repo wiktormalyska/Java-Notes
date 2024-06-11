@@ -55,7 +55,7 @@ public class JwtRequestFilter extends OncePerRequestFilter {
     @Autowired
     private JwtTokenService jwtTokenService;
 
-    private String SECRET_KEY = "my_secret_key";
+    private String SECRET_KEY = "my_secret_key"; // Trzeba ukryć np. w konfiguracji
 
     @Override
     protected void doFilterInternal(HttpServletRequest request, HttpServletResponse response, FilterChain chain)
