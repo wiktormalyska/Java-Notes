@@ -12,4 +12,8 @@
 		- Przechowuje informację o uwierzytelnionym użytkowniku
 	- Authentication
 		- Interfejs reprezentujący informację o uwierzytelnieniu użytkownika (username i password)
-		-
+	- Granted Authority
+		- Reprezentuje uprawnienia lub role przypisane użytkownikowi
+	- User Details
+		- Dane użytkownika potrzebne do uwierzytelnienia
+	- 
