@@ -115,8 +115,11 @@ public class SecurityConfig {
 
     private JwtRequestFilter jwtRequestFilter;
     private UserDetailsService userDetailsService;
+    
+    @Autowired
+	public SecurityConfig(JwtRequestFilter jwtRequestFilter, UserDetailsService userDetailsService){
 	
-
+	}
     @Override
     protected void configure(AuthenticationManagerBuilder auth) throws Exception {
         auth.userDetailsService(userDetailsService).passwordEncoder(passwordEncoder());
