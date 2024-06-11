@@ -74,5 +74,23 @@ public class SecurityConfig {
 ```
 - Definiowanie użytkowników i ról
 ```java
+public class InMemorySecurityConfig {
+    
+    
+    public void configure(AuthenticationManagerBuilder auth) throws Exception {
+        auth.inMemoryAuthentication()
+            .withUser("user")
+            .password("password")
+            .roles("USER")
+            .and()
+            .withUser("admin")
+            .password("admin")
+            .roles("ADMIN");
+    }
 
+    @Bean
+    public static NoOpPasswordEncoder passwordEncoder() {
+        return (NoOpPasswordEncoder) NoOpPasswordEncoder.getInstance();
+    }
+}
 ```
