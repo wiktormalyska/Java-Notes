@@ -111,7 +111,7 @@ public class JwtRequestFilter extends OncePerRequestFilter {
 ```java
 @Configuration
 @EnableWebSecurity
-public class SecurityConfig{
+public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
     @Autowired
     private JwtRequestFilter jwtRequestFilter;
@@ -119,7 +119,8 @@ public class SecurityConfig{
     @Autowired
     private UserDetailsService userDetailsService;
 
-    public UserDetailsManager configure(AuthenticationManagerBuilder auth) throws Exception {
+    @Override
+    protected void configure(AuthenticationManagerBuilder auth) throws Exception {
         auth.userDetailsService(userDetailsService).passwordEncoder(passwordEncoder());
     }
 
