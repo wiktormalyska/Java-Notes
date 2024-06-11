@@ -153,4 +153,6 @@ public class SecurityConfiguration {
 		- Spring Security wspiera OAuth2 i OpenID Connect, co pozwala na integrację z dostawcami takich jak Google, Facebook, itp.
 	- Metody Haszujące
 		- Obsługa różnych metod haszowania haseł, takich jak BCrypt, SCrypt
-- 
+### Integracja z Aplikacjami Webowymi
+- Spring Security umożliwia zintegrowanie z aplikacjami opartymi na Spring MVC, WebFlux etc.
+- Przykład prostej a
