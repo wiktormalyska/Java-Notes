@@ -28,3 +28,8 @@
 </dependency>
 ```
 - Konfiguracja Bezpieczeństwa
+	- Konfiguracja oparta na adnotacjach
+		- Dodanie adnotacji `@EnableWebSecurity` do klasy konfiguracyjnej
+```java
+
+```
