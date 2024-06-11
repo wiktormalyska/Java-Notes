@@ -27,9 +27,9 @@
     <artifactId>spring-boot-starter-security</artifactId>
 </dependency>
 ```
-- Konfiguracja Bezpieczeństwa
-	- Konfiguracja oparta na adnotacjach w klasie
-		- Dodanie adnotacji `@EnableWebSecurity` do klasy konfiguracyjnej
+#### Konfiguracja Bezpieczeństwa
+- Konfiguracja oparta na adnotacjach w klasie
+	- Dodanie adnotacji `@EnableWebSecurity` do klasy konfiguracyjnej
 ```java
 @Configuration 
 @EnableWebSecurity 
