@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring Security/Rest API i Spring Security.md",
+                "file": "Spring/Spring Security/Spring Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring Security/Rest API i Spring Security.md",
+                "file": "Spring/Spring Security/Spring Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring Security/Rest API i Spring Security.md",
+                "file": "Spring/Spring Security/Spring Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring Security/Rest API i Spring Security.md"
+                "file": "Spring/Spring Security/Spring Security.md"
               }
             }
           }
@@ -149,15 +149,15 @@
   },
   "active": "a1d0e695e9bca498",
   "lastOpenFiles": [
+    "Spring/Spring.md",
     "Spring/Spring Security/Spring Security.md",
-    "Spring/Spring Security/Rest API i Spring Security.md",
+    "Spring/Spring Security/Rest API i Spring Security (JWT).md",
     "Spring/Spring Boot/Spring Messaging.md",
     "Spring/Spring Boot/Spring Cloud.md",
     "Spring/Spring Boot/Spring Boot.md",
     "Spring/Spring Boot/Spring AOP.md",
     "Spring/Spring Boot/Reaktywny model Web.md",
     "Spring/Spring Boot/Cashowanie.md",
-    "Spring/Spring.md",
     "Spring/Spring Security",
     "Podstawy Informatyki/Koncepcja Messagingu/Kafka.md",
     "Podstawy Informatyki/Koncepcja Messagingu/Publikuj, Zasubskrybuj.md",

@@ -202,4 +202,4 @@ public class WebController {
 </html>
 ```
 
-### [[Rest API i Spring Security]]
+### [[Rest API i Spring Security (JWT)]]
