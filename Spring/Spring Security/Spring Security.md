@@ -73,7 +73,7 @@ public class SecurityConfig {
     }
 }
 ```
-- Definiowanie użytkowników i ról
+- Definiowanie użytkowników
 ```java
 @Configuration
 public class SecurityConfiguration {
@@ -84,6 +84,31 @@ public class SecurityConfiguration {
             .username("user")
             .password("password")
             .roles("USER")
+            .build();
+        return new InMemoryUserDetailsManager(user);
+    }
+
+    @Bean
+    public PasswordEncoder passwordEncoder() {
+        return new BCryptPasswordEncoder();
+    }
+}
+```
+- Definiowanie ról
+```java
+@Configuration
+public class SecurityConfiguration {
+    
+    @Bean
+    public InMemoryUserDetailsManager userDetailsService() {
+        UserDetails user = User.withDefaultPasswordEncoder()
+            .withUser("user")
+            .password("password")
+            .roles("USER")
+            .and()
+            .withUser("admin")
+            .password("admin")
+            .roles("ADMIN");
             .build();
         return new InMemoryUserDetailsManager(user);
     }
