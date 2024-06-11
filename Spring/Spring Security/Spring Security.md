@@ -28,7 +28,7 @@
 </dependency>
 ```
 - Konfiguracja Bezpieczeństwa
-	- Konfiguracja oparta na adnotacjach
+	- Konfiguracja oparta na klasie
 		- Dodanie adnotacji `@EnableWebSecurity` do klasy konfiguracyjnej
 ```java
 @Configuration 
@@ -45,4 +45,6 @@ public class SecurityConfig{
 	    return http.build();  
 	}
 }
+```
+```ja
 ```
