@@ -107,7 +107,7 @@ public class JwtRequestFilter extends OncePerRequestFilter {
     }
 }
 ```
-- Konfiguracja zabezpieczeń
+#### Konfiguracja zabezpieczeń
 ```java
 @Configuration
 @EnableWebSecurity
@@ -158,7 +158,7 @@ public class SecurityConfig {
     }
 }
 ```
-- End pointy Logowania i Rejestracji
+#### End pointy Logowania i Rejestracji
 ```java
 @RestController
 public class AuthenticationController {
@@ -210,7 +210,7 @@ class AuthenticationResponse {
 ```
 #### Obsługa Połączenia Między Front-endem a Back-endem
 -  Przykład użycia Fetch API w JS do wysyłania żądań z tokenem JWT
-```java
+```javascript
 const token = 'TWÓJ_JWT_TOKEN';
 
 fetch('https://twojaaplikacja/api/dane', {
@@ -223,4 +223,11 @@ fetch('https://twojaaplikacja/api/dane', {
 .then(data => console.log(data))
 .catch(error => console.error('Error:', error));
 
+```
+- Przechowywanie Tokenu
+```javascript
+localStorage.setItem('jwtToken', token);
+
+// Odczyt tokenu
+const token = localStorage.getItem('jwtToken');
 ```
