@@ -208,4 +208,19 @@ class AuthenticationResponse {
     }
 }
 ```
-- Obsługa Połączenia Między Front-endem a Ba
+#### Obsługa Połączenia Między Front-endem a Back-endem
+-  Przykład użycia Fetch API w JS do wysyłania żądań z tokenem JWT
+```java
+const token = 'TWÓJ_JWT_TOKEN';
+
+fetch('https://twojaaplikacja/api/dane', {
+    method: 'GET',
+    headers: {
+        'Authorization': `Bearer ${token}`
+    }
+})
+.then(response => response.json())
+.then(data => console.log(data))
+.catch(error => console.error('Error:', error));
+
+```
