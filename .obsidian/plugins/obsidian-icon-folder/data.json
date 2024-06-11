@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiSpringsecurity",
       "FasComputer",
       "FabJava",
       "FiTool",
@@ -67,5 +68,7 @@
   "Java": "FabJava",
   "Java/Java": "FabJava",
   "Java/Zaawansowana Java": "FabJava",
-  "Podstawy Informatyki": "FasComputer"
+  "Podstawy Informatyki": "FasComputer",
+  "Spring/Spring Security": "SiSpringsecurity",
+  "Spring/Spring Security/Spring Security.md": "SiSpringsecurity"
 }
