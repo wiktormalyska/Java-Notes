@@ -117,9 +117,14 @@ public class SecurityConfig {
     private UserDetailsService userDetailsService;
     
     @Autowired
-	public SecurityConfig(JwtRequestFilter jwtRequestFilter, UserDetailsService userDetailsService){
-	
+	public SecurityConfig(
+		JwtRequestFilter jwtRequestFilter,
+		UserDetailsService userDetailsService
+		){
+		this.jwtRequestFilter = jwtRequestFilter;
+		this.userDetailsService = userDetailsService;
 	}
+	
     @Override
     protected void configure(AuthenticationManagerBuilder auth) throws Exception {
         auth.userDetailsService(userDetailsService).passwordEncoder(passwordEncoder());
@@ -142,9 +147,8 @@ public class SecurityConfig {
     }
 
     @Bean
-    @Override
-    public AuthenticationManager authenticationManagerBean() throws Exception {
-        return super.authenticationManagerBean();
+    public AuthenticationManager authenticationManager(AuthenticationConfiguration authenticationConfiguration) throws Exception {
+        return authenticationConfiguration.getAuthenticationManager();
     }
 }
 ```
