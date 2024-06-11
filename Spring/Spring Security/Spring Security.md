@@ -28,7 +28,7 @@
 </dependency>
 ```
 - Konfiguracja Bezpieczeństwa
-	- Konfiguracja oparta na klasie
+	- Konfiguracja oparta na adnotacjach w klasie
 		- Dodanie adnotacji `@EnableWebSecurity` do klasy konfiguracyjnej
 ```java
 @Configuration 
@@ -46,5 +46,29 @@ public class SecurityConfig{
 	}
 }
 ```
-```ja
+- Konfiguracja oparta na klasie
+```java
+@EnableWebSecurity
+public class SecurityConfig {
+
+    @Bean
+    public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
+        http
+            .authorizeRequests(authorizeRequests ->
+                authorizeRequests
+                    .antMatchers("/", "/home").permitAll()
+                    .anyRequest().authenticated()
+            )
+            .formLogin(formLogin ->
+                formLogin
+                    .loginPage("/login")
+                    .permitAll()
+            )
+            .logout(logout ->
+                logout
+                    .permitAll()
+            );
+        return http.build();
+    }
+}
 ```
