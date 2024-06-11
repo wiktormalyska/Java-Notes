@@ -49,6 +49,7 @@ public class SecurityConfig{
 - Konfiguracja oparta na klasie
 ```java
 @EnableWebSecurity
+@Configuration
 public class SecurityConfig {
 
     @Bean
@@ -74,23 +75,22 @@ public class SecurityConfig {
 ```
 - Definiowanie użytkowników i ról
 ```java
-public class InMemorySecurityConfig {
+@Configuration
+public class SecurityConfiguration {
     
-    
-    public void configure(AuthenticationManagerBuilder auth) throws Exception {
-        auth.inMemoryAuthentication()
-            .withUser("user")
+    @Bean
+    public InMemoryUserDetailsManager userDetailsService() {
+        UserDetails user = User.withDefaultPasswordEncoder()
+            .username("user")
             .password("password")
             .roles("USER")
-            .and()
-            .withUser("admin")
-            .password("admin")
-            .roles("ADMIN");
+            .build();
+        return new InMemoryUserDetailsManager(user);
     }
 
     @Bean
-    public static NoOpPasswordEncoder passwordEncoder() {
-        return (NoOpPasswordEncoder) NoOpPasswordEncoder.getInstance();
+    public PasswordEncoder passwordEncoder() {
+        return new BCryptPasswordEncoder();
     }
 }
 ```
