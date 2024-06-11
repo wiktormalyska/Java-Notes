@@ -72,3 +72,7 @@ public class SecurityConfig {
     }
 }
 ```
+- Definiowanie użytkowników i ról
+```java
+
+```
