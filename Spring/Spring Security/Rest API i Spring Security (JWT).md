@@ -1,4 +1,4 @@
-- Dodawanie zależności
+#### Dodawanie zależności
 ```xml
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -24,7 +24,7 @@
 
 ```
 ### Konfiguracja JWT
-- Generowanie Tokenu w serwisie JWT
+#### Generowanie Tokenu w serwisie JWT
 ```java
 @Service
 public class JwtTokenService {
@@ -44,7 +44,7 @@ public class JwtTokenService {
     }
 }
 ```
-- Filtrowanie żądań HTTP
+#### Filtrowanie żądań HTTP
 ```java
 @Component
 public class JwtRequestFilter extends OncePerRequestFilter {
@@ -209,7 +209,7 @@ class AuthenticationResponse {
 }
 ```
 #### Obsługa Połączenia Między Front-endem a Back-endem
--  Przykład użycia Fetch API w JS do wysyłania żądań z tokenem JWT
+##### Przykład użycia Fetch API w JS do wysyłania żądań z tokenem JWT
 ```javascript
 const token = 'TWÓJ_JWT_TOKEN';
 
@@ -224,7 +224,7 @@ fetch('https://twojaaplikacja/api/dane', {
 .catch(error => console.error('Error:', error));
 
 ```
-- Przechowywanie Tokenu
+##### Przechowywanie Tokenu
 ```javascript
 localStorage.setItem('jwtToken', token);
 
