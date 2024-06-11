@@ -1,7 +1,7 @@
 ### Spis Treści:
 - [[Serwisy]]
-- REST
-- Wstrzykiwanie zależności
-- Konfiguracje
-- Właściwości
-- Spring Data
+- [[REST]]
+- [[Konfiguracje]]
+- [[Iniekcja zależności]]
+- [[Spring Data]]
+- [[Spring Properties]]

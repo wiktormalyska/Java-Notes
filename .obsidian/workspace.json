@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9a39b14ae8605335",
+        "id": "4ecb3d4618cc5615",
         "type": "tabs",
         "children": [
           {
-            "id": "a1d0e695e9bca498",
+            "id": "88ba79e0cd7640e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Podstawy Informatyki/Koncepcja Messagingu/Kafka.md",
+                "file": "Spring/Spring/Iniekcja zależności.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Podstawy Informatyki/Koncepcja Messagingu/Kafka.md",
+                "file": "Spring/Spring/Iniekcja zależności.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Podstawy Informatyki/Koncepcja Messagingu/Kafka.md",
+                "file": "Spring/Spring/Iniekcja zależności.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Podstawy Informatyki/Koncepcja Messagingu/Kafka.md"
+                "file": "Spring/Spring/Iniekcja zależności.md"
               }
             }
           }
@@ -138,53 +138,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Otwórz importer Markdown": false,
-      "switcher:Otwórz okno szybkiej zmiany pliku": false,
-      "graph:Otwórz graf": false,
-      "canvas:Stwórz nowe płótno": false,
-      "daily-notes:Otwórz dzisiejszą notatkę": false,
-      "templates:Wstaw szablon": false,
-      "command-palette:Otwórz paletę poleceń": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "a1d0e695e9bca498",
+  "active": "88ba79e0cd7640e7",
   "lastOpenFiles": [
-    "Podstawy Informatyki/Koncepcja Messagingu/Publikuj, Zasubskrybuj.md",
-    "Podstawy Informatyki/Koncepcja Messagingu/Kafka.md",
-    "Podstawy Informatyki/Koncepcja Messagingu/Kolejki.md",
-    "Podstawy Informatyki/Podstawy Informatyki/Algorytmy.md",
-    "Podstawy Informatyki/Podstawy Informatyki/Systemy Operacyjne.md",
-    "Podstawy Informatyki/Podstawy Informatyki/Sieci.md",
-    "Podstawy Informatyki/Podstawy Informatyki/Struktury Danych.md",
-    "Podstawy Informatyki/Podstawy Informatyki/Logika.md",
-    "Java/Zaawansowana Java/Serverlety, Filtry HTTP.md",
-    "Podstawy Informatyki/Koncepcja Messagingu",
-    "Podstawy Informatyki/Podstawy Informatyki",
-    "Podstawy Informatyki",
-    "Java/Zaawansowana Java/Wielo wątkowość.md",
-    "Java/Zaawansowana Java/Programowanie funkcyjne.md",
-    "Java/Zaawansowana Java/JVM.md",
-    "Java/Zaawansowana Java/Programowanie Asynchroniczne.md",
-    "Java/Java/Strumienie.md",
-    "Java/Java/Klasy i Interfejsy.md",
-    "Java/Java/Zmienne.md",
-    "Java/Java/Struktury Iteracji.md",
-    "Java/Java/Kolekcje.md",
-    "Java/Java/Okresy warunkowe.md",
-    "Java/Java/Typy Generyczne.md",
-    "Java/Java/Dziedziczenie.md",
-    "Narzędzia/Postman.md",
-    "Java/Zaawansowana Java",
-    "Java/Bez nazwy.md",
-    "Java/Java",
-    "Java",
-    "Narzędzia/IntelliJ IDE.md",
-    "Narzędzia/Terminal.md",
+    "Spring/Spring/Konfiguracje.md",
+    "Spring/Spring/Serwisy.md",
+    "Spring/Spring/Iniekcja zależności.md",
+    "Spring/Spring.md",
+    "README.md",
+    "Zarządzanie pakietami/Maven/Maven/Zależności.md",
+    "Zarządzanie pakietami/Maven/Maven/Wielo Modułowość.md",
+    "Zarządzanie pakietami/Maven/Maven/Profile.md",
+    "Zarządzanie pakietami/Maven/Maven/Pluginy.md",
+    "Zarządzanie pakietami/Maven/Monitorowanie i Logowanie/Prometheus.md",
+    "Zarządzanie pakietami/Maven/Monitorowanie i Logowanie/Logstash.md",
+    "Zarządzanie pakietami/Maven/Monitorowanie i Logowanie/Kibana.md",
+    "Zarządzanie pakietami/Maven/Monitorowanie i Logowanie/Grafana.md",
     "Zarządzanie pakietami/Maven/Monitorowanie i Logowanie/Elasticsearch.md",
-    "Narzędzia",
     "Zarządzanie pakietami/Maven/Monitorowanie i Logowanie",
     "Zarządzanie pakietami/Maven/Maven",
+    "Zarządzanie pakietami/Gradle/Zależności.md",
+    "Zarządzanie pakietami/Gradle/Wielo Modułowość.md",
+    "Zarządzanie pakietami/Gradle/Profile.md",
+    "Zarządzanie pakietami/Gradle/Pluginy.md",
+    "Zarządzanie pakietami/Maven",
+    "Zarządzanie pakietami/Gradle",
     "Zarządzanie pakietami",
-    "Main.canvas"
+    "Testy/Zaawansowane Testy/Testy Kontraktowe.md",
+    "Testy/Zaawansowane Testy/TDD, BDD.md",
+    "Testy/Zaawansowane Testy/Selenium.md",
+    "Testy/Zaawansowane Testy/Gatling.md",
+    "Testy/Zaawansowane Testy",
+    "Testy/Testy.md",
+    "Testy/Mockito.md",
+    "Testy/MockMvc.md",
+    "Testy/Junit 5.md",
+    "Testy",
+    "Spring/Spring Boot",
+    "Spring/Spring",
+    "Spring",
+    "Main.canvas",
+    "Wzorce Projektowe.canvas"
   ]
 }
