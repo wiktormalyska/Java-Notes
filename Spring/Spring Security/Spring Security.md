@@ -144,3 +144,7 @@ public class SecurityConfiguration {
     }
 }
 ```
+- Zaawansowane funkcje
+	- CSRF Protection
+		- Domyślnie włączona ochrona przed atakami CSRF
+	- Remember-me
