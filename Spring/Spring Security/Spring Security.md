@@ -119,14 +119,14 @@ public class SecurityConfiguration {
     }
 }
 ```
-- Przykład konfiguracji za pomocą bazy danych
+- Konfiguracja wraz z bazą danych
 ```java
 @Configuration
 public class SecurityConfiguration {
     @Bean
     public DataSource dataSource() {
         return new EmbeddedDatabaseBuilder()
-            .setType(EmbeddedDatabaseType.H2)
+            .setType(EmbeddedDatabaseType.H2) //
             .addScript(JdbcDaoImpl.DEFAULT_USER_SCHEMA_DDL_LOCATION)
             .build();
     }
