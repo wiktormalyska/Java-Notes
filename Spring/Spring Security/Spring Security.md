@@ -21,5 +21,10 @@
 
 - Integracja aplikacji z Spring Security
 	- Dodanie zależności do projektu
-		- ```xml
+```xml
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-security</artifactId>
+</dependency>
 ```
+- Konfigutacja Be
