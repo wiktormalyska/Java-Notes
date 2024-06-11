@@ -108,7 +108,7 @@ public class SecurityConfiguration {
             .and()
             .withUser("admin")
             .password("admin")
-            .roles("ADMIN");
+            .roles("ADMIN")
             .build();
         return new InMemoryUserDetailsManager(user);
     }
@@ -116,6 +116,31 @@ public class SecurityConfiguration {
     @Bean
     public PasswordEncoder passwordEncoder() {
         return new BCryptPasswordEncoder();
+    }
+}
+```
+- Przykład konfiguracji za pomocą bazy danych
+```java
+@Configuration
+public class SecurityConfiguration {
+    @Bean
+    public DataSource dataSource() {
+        return new EmbeddedDatabaseBuilder()
+            .setType(EmbeddedDatabaseType.H2)
+            .addScript(JdbcDaoImpl.DEFAULT_USER_SCHEMA_DDL_LOCATION)
+            .build();
+    }
+
+    @Bean
+    public UserDetailsManager users(DataSource dataSource) {
+        UserDetails user = User.withDefaultPasswordEncoder()
+            .username("user")
+            .password("password")
+            .roles("USER")
+            .build();
+        JdbcUserDetailsManager users = new JdbcUserDetailsManager(dataSource);
+        users.createUser(user);
+        return users;
     }
 }
 ```
