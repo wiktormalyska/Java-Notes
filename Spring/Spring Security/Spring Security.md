@@ -150,4 +150,7 @@ public class SecurityConfiguration {
 	- Remember-me
 		- Umożliwia zapamiętanie sesji użytkownika pomiędzy zamknięciami przeglądarki
 	- OAuth2
-		- Spring Security wspiera OAuth2 i OpenID Connect, co pozwala na integrację z dostawcami takich jak 
+		- Spring Security wspiera OAuth2 i OpenID Connect, co pozwala na integrację z dostawcami takich jak Google, Facebook, itp.
+	- Metody Haszujące
+		- Obsługa różnych metod haszowania haseł, takich jak BCrypt, SCrypt
+- 
