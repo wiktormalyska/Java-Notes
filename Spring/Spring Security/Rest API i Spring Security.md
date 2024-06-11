@@ -111,13 +111,11 @@ public class JwtRequestFilter extends OncePerRequestFilter {
 ```java
 @Configuration
 @EnableWebSecurity
-public class SecurityConfig extends WebSecurityConfigurerAdapter {
+public class SecurityConfig {
 
-    @Autowired
     private JwtRequestFilter jwtRequestFilter;
-
-    @Autowired
     private UserDetailsService userDetailsService;
+	
 
     @Override
     protected void configure(AuthenticationManagerBuilder auth) throws Exception {
