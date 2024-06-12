@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach BST/Drzewo BST.md",
+                "file": "Algorytmy II/Algorytmy na drzewach BST/Słownik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2254814a8076ccfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorytmy II/Algorytmy na drzewach BST/Słownik.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach BST/Drzewo BST.md",
+                "file": "Algorytmy II/Algorytmy na drzewach BST/Słownik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach BST/Drzewo BST.md",
+                "file": "Algorytmy II/Algorytmy na drzewach BST/Słownik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach BST/Drzewo BST.md"
+                "file": "Algorytmy II/Algorytmy na drzewach BST/Słownik.md"
               }
             }
           }
@@ -147,12 +160,12 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "16d27fe1cd667bbc",
+  "active": "2254814a8076ccfe",
   "lastOpenFiles": [
+    "Algorytmy II/Algorytmy na drzewach BST/Drzewo BST.md",
+    "Algorytmy II/Algorytmy na drzewach BST/Słownik.md",
     "Zdjęcia w notatkach/Pasted image 20240612211822.png",
     "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",
-    "Algorytmy II/Algorytmy na drzewach BST/Drzewo BST.md",
-    "Algorytmy II/Algorytmy na drzewach BST/Algorytmy na drzewach BST.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm Bellmana-Forda-Moore'a.md",
     "Algorytmy II/Algorytmy na drzewach/Algorytm Kruskala.md",
     "Algorytmy II/Algorytmy na drzewach BST",
@@ -172,7 +185,6 @@
     "Zdjęcia w notatkach/Pasted image 20240612171521.png",
     "Zdjęcia w notatkach/Pasted image 20240612171014.png",
     "Zdjęcia w notatkach",
-    "Zdjęcia w notatkach/Zrzut ekranu 2024-06-12 170855.png",
     "Java Junior/UML.md",
     "Algorytmy II",
     "Java Junior",

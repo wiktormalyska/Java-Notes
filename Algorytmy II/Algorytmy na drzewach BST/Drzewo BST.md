@@ -42,4 +42,5 @@ Drzewo BST nie musi być zupełne - wolne miejsca mogą być nie tylko na ostatn
 - $O(\log n)$
 
 #### Pesymistyczna złożoność czasowa
-- 
+- $O(n)$
+- wtedy minimum i maximum wykonujemy w czasie stałym $O(1)$
