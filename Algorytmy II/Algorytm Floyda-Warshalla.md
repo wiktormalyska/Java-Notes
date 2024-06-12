@@ -6,4 +6,5 @@ potrafi obliczyć **najkrótsze odległości pomiędzy każdą parą wierzchołk
 - wyszukuje najkrótsze ścieżki pomiędzy dwoma dowolnymi wierzchołkami w grafie
 - ścieżki są najkrótsze w obie strony
 #### Działanie algorytmu
-- Wejście: graf $(V,E)$, gdzie $wag(a,b)
+- Wejście: graf $(V,E)$, gdzie $wag(a,b)$ oznacza wagę krawędzi $(a,b)$
+- tablica $M$, gdzie $M[a][b]=wag(a,b)$, jeżeli krawędź $(a,b)$ należy do gr
