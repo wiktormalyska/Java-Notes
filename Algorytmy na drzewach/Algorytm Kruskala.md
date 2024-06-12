@@ -10,3 +10,9 @@
 - Dopóki $D$ zawiera więcej niż 1 element powtarzaj:
 	- Ze zbioru $D$ wybierz krawędź o minimalnej wadze łączącej dwa drzewa $(d1$ i $d2)$
 	- W zbiorze $D$ zastąp drzewa $d1$ i $d2$ przez jedno drzewo połączone krawędzią $e$
+
+![[Pasted image 20240612210122.png]]
+
+Algorytm składa się z dwóch głównych części:
+- sortowanie krawędzi - które bez dodatkowych założeń ma złożoność $O(|E|\log |E|)$
+- przeglądania krawędzi i scalania drzew - złożoność zale
