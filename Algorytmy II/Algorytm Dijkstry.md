@@ -5,4 +5,6 @@ Dopóki istnieje nieodwiedzony wierzchołek powtarzaj:
 - wybierz nieodwiedzony wierzchołek $w$ o najmniejszej wartości $d[w]$
 - odwiedź $w$
 - dla każdego $q$ sąsiada $w$ wykonaj:
-	- jeżeli $d[q]>d[w]+wag(w,d)$: przypis
+	- jeżeli $d[q]>d[w]+wag(w,d)$ przypisz $d[q]=d[w]+wag(w,q)$
+
+![[Pasted image 20240612172935.png]]
