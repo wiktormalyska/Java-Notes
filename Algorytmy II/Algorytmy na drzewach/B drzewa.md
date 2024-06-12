@@ -38,6 +38,8 @@ Insert i Delete jest w B-Drzewie jest bardziej skomplikowane niż w przypadku [[
 Należy dbać aby zachowane były warunki na liczbę kluczy w węzłach i aby wszystkie liście były na tym samym poziomie.
 Potrzebne do tego są pomocnicze operacje: dzielenie węzła ,przesuwanie klucza i łączenie węzłów
 
+1 metoda
+
 #### Dzielenie węzła
 Węzeł zawierający $2t-1$ kluczy można podzielić na 2 węzły przechowujące $t-1$ kluczy - środkowy przenosimy do ojca
 ![[Pasted image 20240613001942.png]]
