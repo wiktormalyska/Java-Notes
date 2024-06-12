@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Algorytmy II.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be11121f06ff04fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,8 +147,12 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "be11121f06ff04fc",
+  "active": "8ce45ac4deb23200",
   "lastOpenFiles": [
+    "Algorytmy II/Algorytmy II.md",
+    "Java Junior/README.md",
+    "README.md",
+    "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
     "Zdjęcia w notatkach/Pasted image 20240613002302.png",
     "Zdjęcia w notatkach/Pasted image 20240613002243.png",
     "Zdjęcia w notatkach/Pasted image 20240613002119.png",
@@ -169,17 +160,12 @@
     "Zdjęcia w notatkach/Pasted image 20240613001949.png",
     "Zdjęcia w notatkach/Pasted image 20240613001942.png",
     "Zdjęcia w notatkach/Pasted image 20240613000038.png",
-    "Algorytmy II/Algorytmy II.md",
     "Algorytmy II/Algorytmy na drzewach/Słownik.md",
-    "README.md",
-    "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
     "Java Junior/Main.canvas",
-    "Java Junior/README.md",
     "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
     "Zdjęcia w notatkach/Pasted image 20240612220917.png",
     "Zdjęcia w notatkach/Pasted image 20240612220640.png",
     "Zdjęcia w notatkach/Pasted image 20240612220452.png",
-    "Zdjęcia w notatkach/Pasted image 20240612220323.png",
     "Drzewo.md",
     "Algorytmy II/Algorytmy na drzewach/Drzewo BST.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",

@@ -72,5 +72,6 @@
   "Java Junior/Zarządzanie pakietami": "FiPackage",
   "Java Junior/Zarządzanie pakietami/Gradle": "SiGradle",
   "Java Junior/Zarządzanie pakietami/Maven": "SiApachemaven",
-  "Algorytmy II/Algorytmy II.md": "TiMath"
+  "Algorytmy II/Algorytmy II.md": "TiMath",
+  "Java Junior/README.md": "FabJava"
 }
