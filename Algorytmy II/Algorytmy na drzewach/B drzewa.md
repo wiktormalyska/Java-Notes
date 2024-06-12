@@ -49,7 +49,8 @@ Schodząc w dół drzewa, szukaj węzła, gdzie należy dodać/usunąć klucz, d
 - Szukaj usuwanego klucza $k$
 - wchodząc do węzła niebędącego korzeniem i zawierającego $t-1$ kluczy spróbuj przesunąć do niego klucz z sąsiada
 - jeżeli przesunięcie się nie udało to scal rozważany węzeł z sąsiadem
-- w ten sposób 
+- w ten sposób uzyskujemy pewność, że w chwili odnalezienia węzła zawierającego $k$ będzie można usunąć klucz nie zaburzając warunku na minimalną liczbę kluczy w węźle
+- po odnalezieniu węzła zawierającego klucz w
 
 #### Dzielenie węzła
 Węzeł zawierający $2t-1$ kluczy można podzielić na 2 węzły przechowujące $t-1$ kluczy - środkowy przenosimy do ojca
