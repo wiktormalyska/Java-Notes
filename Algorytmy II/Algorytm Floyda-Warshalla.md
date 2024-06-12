@@ -3,4 +3,7 @@ potrafi obliczyć **najkrótsze odległości pomiędzy każdą parą wierzchołk
 
 #### Idea algorytmu
 - wykorzystuje programowanie dynamiczne
-- wyszukuje najkrótsze ścieżki pomiędzy dwoma dowolnymi wierzchołkam
+- wyszukuje najkrótsze ścieżki pomiędzy dwoma dowolnymi wierzchołkami w grafie
+- ścieżki są najkrótsze w obie strony
+#### Działanie algorytmu
+- Wejście: graf $(V,E)$, gdzie $wag(a,b)
