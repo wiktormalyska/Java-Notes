@@ -41,7 +41,8 @@ Potrzebne do tego są pomocnicze operacje: dzielenie węzła ,przesuwanie klucza
 ##### 1 metoda
 Dodaj/Usuń element a następnie odtwórz strukturę B-Drzewa wykorzystując pomocnicze operacje - analogia do metody dla [[Drzewo AVL]]
 ##### 2 metoda
-Schodząc w dół drzewa, szukaj węzła, gdzie należy 
+Schodząc w dół drzewa, szukaj węzła, gdzie należy dodać/usunąć klucz, dbając o to, aby w wyniku tej operacji nie została zaburzona struktura B-Drzewa
+- Analogicznie jak w [[Drzewo BST]] szukaj liścia w którym należy wstawić żądany 
 
 #### Dzielenie węzła
 Węzeł zawierający $2t-1$ kluczy można podzielić na 2 węzły przechowujące $t-1$ kluczy - środkowy przenosimy do ojca
