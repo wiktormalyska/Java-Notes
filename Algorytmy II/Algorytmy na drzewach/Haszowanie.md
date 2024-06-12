@@ -64,3 +64,6 @@ Kolizję nazywamy sytuację gdy dla różnych kluczy, funkcja h przyjmuje tę sa
 - return $r(i,k)$
 
 ###### INSERT(key) - próbuj dopóki nie znajdziesz pustego miejsca albo oznaczonego jako usunięty element
+- $i=0$
+- dopóki $(t[r(i,k))]!=NULL AND t[r(i,k)]!=DEL)$ - $i=i+1$
+- $t[r(i,k)]=k$
