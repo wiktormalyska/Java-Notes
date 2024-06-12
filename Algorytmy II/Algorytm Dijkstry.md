@@ -1,2 +1,3 @@
-- Przyjmij startowy wierzchołek o numerze v
-- Tablica pomocnicza 
+- Przyjmij startowy wierzchołek o numerze $v$
+- Tablica pomocnicza $d$, po zakończeniu działania algorytmu będzie zawierała odległości poszczególnych wierzchołków od źródła
+- wag(a,b) jest wagą krawędzi (a,b)
