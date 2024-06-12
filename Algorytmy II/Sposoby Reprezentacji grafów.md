@@ -3,8 +3,12 @@
 
 *oznacza to że istnieje macierz 2 wymiarowa o wielkości grafu gdzie wypełnione komórki odpowiadają krawędzi pomiędzy dwoma wierzchołkami*
 
- złożoność pamięciowa: $O(|V|^2)$
- - cz
+ - Złożoność pamięciowa: $O(|V|^2)$
+ - Czas wstawienia: $O(1)$
+ - Czas usunięcia: $O(1)$
+ - Czas zapytania: $O(1)$
+
+
 ## Lista sąsiedztwa (incydencji)
 ## Lista krawędzi
 ## Macierz incydencji
