@@ -11,4 +11,6 @@
 	 - wskaźnik do rodzica
 	 - wskaźnik do dzieci (left i right)
  - aby pamiętać drzewo przechowujemy wskaźnik do jego korzenia
- - dodatkowo zapamiętujemy węz
+ - dodatkowo zapamiętujemy węzły MAX i MIN odpowiednio o największym i najmniejszym kluczu
+
+Drzewo BST nie musi być zupełne - wolne miejsca mogą być nie tylko na ostatnim poziomiew
