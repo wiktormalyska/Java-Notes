@@ -39,3 +39,7 @@ Drzewo BST nie musi być zupełne - wolne miejsca mogą być nie tylko na ostatn
 
 #### Złożoność czasowa
 - proporcjonalna do wysokości drzewa
+- $O(\log n)$
+
+#### Pesymistyczna złożoność czasowa
+- 
