@@ -2,3 +2,7 @@ Szuka najkrótszych ścieżek z wierzchołka $v$ do pozostałych wierzchołków 
 Algorytm oparty jest na przeszukiwaniu grafu wszerz
 
 #### Działanie algorytmu
+- Wstaw na koniec kolejki wierzchołek $v$
+- Dopóki kolejka nie jest pusta powtarzaj:
+	- Weź z kolejki wierzchołek $w$ i dla każdego jego sąsiada $(q)$ wykonaj:
+		- jeżel
