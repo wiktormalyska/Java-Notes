@@ -48,4 +48,5 @@ Kolizję nazywamy sytuację gdy dla różnych kluczy, funkcja h przyjmuje tę sa
 - $r(i,k)=((h(k)+i*h`(k)))\mod m$
 - Funkcja ta powinna spełniać następujące warunki
 	- $h`(v)>0$
-	- $h`(v)$ względnie pierwsza z m (najlepiej )
+	- $h`(v)$ względnie pierwsza z m (najlepiej gdy m jest liczbą pierwszą)
+	- $h`$ istotnie różna od h, np. dla funkcji $h=k \mod m$ można wziąć funkcję $h`(k)=m-2-k \mod (m-2$ )
