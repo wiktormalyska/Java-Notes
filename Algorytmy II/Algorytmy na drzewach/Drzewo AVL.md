@@ -54,4 +54,7 @@ Węzeł B staje się lewym synem C i przejmuje lewego syna węzła C w miejsce s
 - Przy pomocy rotacji przywracaj zrównoważenie drzewa
 - Idź do wstawionego liścia ku górze aktualizując współczynniki zrównoważenia
 - Jeżeli gdzieś różnica w wysokości poddrzew wyniesie 0 to kończymy równoważenie
-- Jeżeli gdzieś różnica wynosi 2 (BF=2 )
+- Jeżeli gdzieś różnica wynosi 2 (BF=2 lub -2) to dokonaj jednej (pojedynczej lub podwójnej) rotacji i skończ równoważenie
+
+##### Operacja Delete
+- Wykonuj Dele
