@@ -15,3 +15,5 @@ potrafi obliczyć **najkrótsze odległości pomiędzy każdą parą wierzchołk
 
 Algorytm można zaimplementować w czasie $O(|V|^3)$
 Jest zależny tylko od liczby wierzchołków w grafie, dzięki czemu nie ma na niego wpływu ilość krawędzi, dzięki czemu świetnie nadaje się przy gęstych grafach
+
+Złożoność: $O(|V|^3)$
