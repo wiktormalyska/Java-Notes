@@ -26,4 +26,6 @@ Drzewo BST nie musi być zupełne - wolne miejsca mogą być nie tylko na ostatn
 - jeżeli dojdziesz do NULL to nie ma takiego klucza
 
 ##### Działanie insert(key, value)
-- nowy klucz 
+- nowy klucz zawsze wstawiamy jako liść
+- zacznij od korzenia i robisz tak jak z searchem aż dojdziesz do NULL
+- jeżeli doszedłeś do liścia wstaw tam nowy węzeł w miejsce NULL, podpinając 
