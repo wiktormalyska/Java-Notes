@@ -20,4 +20,10 @@ Drzewo BST nie musi być zupełne - wolne miejsca mogą być nie tylko na ostatn
 ##### Działanie search(key)
 - zacznij od korzenia
 - dopóki nie dojdziesz do NULL, porównuj key z kluczem bieżącego węzła
-- jeżeli jest równy to zwróć wartość prze
+- jeżeli jest równy to zwróć wartość przechowywaną w tym węźle
+- jeżeli jest mniejszy to idź do lewego syna
+- jeżeli jest większy to idź do prawego syna
+- jeżeli dojdziesz do NULL to nie ma takiego klucza
+
+##### Działanie insert(key, value)
+- nowy klucz 
