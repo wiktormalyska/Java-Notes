@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiMath",
       "SiSpringsecurity",
       "FasComputer",
       "FabJava",
@@ -70,5 +71,6 @@
   "Java Junior/Testy": "SiJunit5",
   "Java Junior/Zarządzanie pakietami": "FiPackage",
   "Java Junior/Zarządzanie pakietami/Gradle": "SiGradle",
-  "Java Junior/Zarządzanie pakietami/Maven": "SiApachemaven"
+  "Java Junior/Zarządzanie pakietami/Maven": "SiApachemaven",
+  "Algorytmy II/Algorytmy II.md": "TiMath"
 }
