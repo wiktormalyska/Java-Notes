@@ -13,4 +13,6 @@ Jest wolniejszy od algorytmu Dijkstry dla tego samego problemu, lecz jest bardzi
 	- dla każdej krawędzi $(a,b)$ powtarzaj:
 		- jeżeli $(d[b]>d[a]+wag(a,b))$, to $d[b]=d[a]+wag(a,b)$ oraz opcjonalnie $p[b]=a$
 - dla każdej krawędzi $(a,b)$ powtarzaj:
-	- jeżeli $(d[b]>d[a]+wag(a,b))$, to zwróć $false$
+	- jeżeli $(d[b]>d[a]+wag(a,b))$, to zwróć $false$(wystąpił cykl o ujemnej wadze)
+
+Algorytm działa poprawnie dla dowolnych grafów **bez cykli ujemnych(o ujemnej sumie wag krawędzi)**
