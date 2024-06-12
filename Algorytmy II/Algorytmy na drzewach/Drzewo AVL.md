@@ -33,4 +33,6 @@ W rotacji uczestniczą węzły A i B. Węzeł B zajmuje miejsce węzła A, węze
 
 ##### Przykład Rotacji LL (w prawo)
 ![[Pasted image 20240612220452.png]]
-Rotacja LL jest lustrzanym odbiciem rotacji RR
+Rotacja LL jest lustrzanym odbiciem rotacji RR. W rotacji uczestniczą węzły A i B. Węzeł B zajmuje miejsce węzła A, węzeł A staje się prawym synem węzła B. Prawy syn węzła B staje się lewym synem węzła A
+
+##### Przykład 
