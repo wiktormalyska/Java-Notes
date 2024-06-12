@@ -22,4 +22,7 @@ Jest to funkcja, która każdemu elementowi ze zbioru dopuszczalnych kluczy przy
 #### Tablica haszująca - Idea
 - n-elementowa tablica rekordów postaci (key, value)
 - h - funkcja haszująca
-- wstawienie pary $(k,v)$ 
+- wstawienie pary $(k,v)$ do tablicy haszującej to wykonanie przypisania $tab[(k)]=(k,v)$
+
+#### Konflikty
+- Obliczona wartość funkcji haszującej da
