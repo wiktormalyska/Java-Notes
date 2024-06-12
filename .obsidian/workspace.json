@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e2467df7bacf0c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring Security/Rest API i Spring Security (JWT).md",
+                "file": "UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring Security/Rest API i Spring Security (JWT).md",
+                "file": "UML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring Security/Rest API i Spring Security (JWT).md"
+                "file": "UML.md"
               }
             }
           }
@@ -147,8 +160,9 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "de5c793eabff11a9",
+  "active": "4e2467df7bacf0c8",
   "lastOpenFiles": [
+    "Bez nazwy",
     "Spring/Spring Security/Spring Security.md",
     "Spring/Spring.md",
     "Spring/Spring Security/Rest API i Spring Security (JWT).md",
@@ -178,7 +192,6 @@
     "Java/Java/Strumienie.md",
     "Java/Java/Klasy i Interfejsy.md",
     "Java/Java/Zmienne.md",
-    "Java/Java/Struktury Iteracji.md",
     "Java/Zaawansowana Java",
     "Java/Java",
     "Java",
