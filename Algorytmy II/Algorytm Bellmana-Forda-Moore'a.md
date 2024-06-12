@@ -12,3 +12,5 @@ Jest wolniejszy od algorytmu Dijkstry dla tego samego problemu, lecz jest bardzi
 - for $i=1$ to $|V|-1$ do:
 	- dla każdej krawędzi $(a,b)$ powtarzaj:
 		- jeżeli $(d[b]>d[a]+wag(a,b))$, to $d[b]=d[a]+wag(a,b)$ oraz opcjonalnie $p[b]=a$
+- dla każdej krawędzi $(a,b)$ powtarzaj:
+	- jeżeli $(d[b]>d[a]+wag(a,b))$, to zwróć $false$
