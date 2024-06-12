@@ -34,4 +34,5 @@ Drzewo BST nie musi być zupełne - wolne miejsca mogą być nie tylko na ostatn
 - zacznij od korzenia i postępuj tak jak przy operacji search aż znajdziesz węzeł do usunięcia 
 - gdy znajdziesz węzeł możliwe są 3 warianty:
 	- nie ma synów - usuń węzeł, wskaźnik od rodzica ustaw na NULL
-	- 1 syn - usuń węzeł, wy
+	- 1 syn - usuń węzeł, syna wraz z całym poddrzewem podepnij do rodzica usuniętego węzła
+	- 2 synów - usuń węzeł i zastąp go węzłem x zawierającym klucz, który jest bezpośrednim następnikiem klucza usuwanego węzła, potem p
