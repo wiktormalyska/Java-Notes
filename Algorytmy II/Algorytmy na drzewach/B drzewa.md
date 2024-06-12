@@ -53,7 +53,8 @@ Schodząc w dół drzewa, szukaj węzła, gdzie należy dodać/usunąć klucz, d
 - po odnalezieniu węzła zawierającego klucz wykonaj jedną z poniższych akcji
 	- jeżeli $k$ jest w liściu - usuń $k$
 	- jeżeli $k$ znajduje się w węźle wewnętrznym $W$ - odnajdź $x$ i $y$, synów $W$ sąsiadujących z $k$, a następnie
-		- weź ten węzeł ($x$ lub $y$) który zawiera co najmniej $t$ kluczy, znajdź w drzewie o wybranym korzeniu klucz najbliższy $k$, zamień go miejscami z $k$ 
+		- weź ten węzeł ($x$ lub $y$) który zawiera co najmniej $t$ kluczy, znajdź w drzewie o wybranym korzeniu klucz najbliższy $k$, zamień go miejscami z $k$ i rekurencyjnie usuń $k$ w drzewie o korzeniu w starym miejscu $k$ (wstawiliśmy tam $x$ lub $y$)
+		- jeżeli nie udało się w poprzednim kroku wybrać $x$ ani $y$, czyli oba z
 
 #### Dzielenie węzła
 Węzeł zawierający $2t-1$ kluczy można podzielić na 2 węzły przechowujące $t-1$ kluczy - środkowy przenosimy do ojca
