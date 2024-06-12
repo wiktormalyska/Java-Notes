@@ -28,4 +28,7 @@ Drzewo BST nie musi być zupełne - wolne miejsca mogą być nie tylko na ostatn
 ##### Działanie insert(key, value)
 - nowy klucz zawsze wstawiamy jako liść
 - zacznij od korzenia i robisz tak jak z searchem aż dojdziesz do NULL
-- jeżeli doszedłeś do liścia wstaw tam nowy węzeł w miejsce NULL, podpinając 
+- jeżeli doszedłeś do liścia wstaw tam nowy węzeł w miejsce NULL, podpinając wskaźnik do i od rodzica
+
+##### Działanie delete(key)
+- zacznij od korzenia i postępuj tak jak przy operacji search aż znajdziesz węzeł do usunięcia 
