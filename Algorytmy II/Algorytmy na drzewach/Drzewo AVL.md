@@ -51,5 +51,7 @@ Węzeł B staje się lewym synem C i przejmuje lewego syna węzła C w miejsce s
 
 ##### Operacja Insert
 - Insert jest taki jak w [[Drzewo BST]]
--  Przy pomocy rotacji przywracaj zrównoważenie drzewa
-- idź do wstawionego liścia ku górze aktualizując współczynniki zr
+- Przy pomocy rotacji przywracaj zrównoważenie drzewa
+- Idź do wstawionego liścia ku górze aktualizując współczynniki zrównoważenia
+- Jeżeli gdzieś różnica w wysokości poddrzew wyniesie 0 to kończymy równoważenie
+- Jeżeli gdzieś różnica wynosi 2 (BF=2 )
