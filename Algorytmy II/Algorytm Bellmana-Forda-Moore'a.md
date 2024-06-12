@@ -1,0 +1,1 @@
+Algorytm obliczający najkrótsze ścieżki z danego wierzchołka do wszystkich pozostałych wierzchołków w **skierowanym grafie z wagami**
