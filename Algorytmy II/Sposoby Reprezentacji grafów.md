@@ -9,13 +9,15 @@ oznacza to że istnieje macierz 2 wymiarowa o wielkości grafu gdzie wypełnione
  - Czas zapytania: $O(1)$
  
 ![[Zrzut ekranu 2024-06-12 170855.png]]
-![[Pasted image 20240612171014.png]]
+![[Pasted image 20240612171542.png]]
 
 ## Lista sąsiedztwa (incydencji)
 #### Graf $(V,R)$ przedstawiamy jako tablicę list taką że lista $tab[a]$ zawiera sąsiadów wierzchołka $a$
 
 - Złożoność pamięciowa $O(|V|+|E|)$ - list jest tyle co wierzchołków, a elementów list tyle co krawędzi
 - Czas wstawiania $O(1)$
-- Czas usunięcia, zapyt
+- Czas usunięcia, zapytania - jak na liście uporządkowanej
+![[Pasted image 20240612171521.png]]
+![[Pasted image 20240612171531.png]]
 ## Lista krawędzi
 ## Macierz incydencji
