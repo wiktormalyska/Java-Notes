@@ -10,4 +10,5 @@ Chcemy uzyskać czas stały $O(1)$
 ![[Pasted image 20240613004102.png]]
 - na pozycji $k$ znajduje się do elementu o kluczy $k$, lub cały element jest umieszczany w taj komórce tablicy
 - trywialna implementacja operacji słownikowych - search, insert, delete - każda działa w czasie $O(1)$
-- Problem 
+- Problem 1 - klucze mogą nie być dodatkowymi liczbami całkowitymi
+- Problem 2 - duże zużycie pamięci - jeżeli kluczy jest dużo lub chociaż niewiele, ale mają wartości z dużego zakresu
