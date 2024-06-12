@@ -15,4 +15,4 @@
 
 Algorytm składa się z dwóch głównych części:
 - sortowanie krawędzi - które bez dodatkowych założeń ma złożoność $O(|E|\log |E|)$
-- przeglądania krawędzi i scalania drzew - złożoność zale
+- przeglądania krawędzi i scalania drzew - złożoność zależna od implementacji zbiorów rozłącznych. Możliwe do uzyskania jest $O(|E|+|V|\log |V|)$, a z zastosowaniem lasu zbiorów rozłącznych 
