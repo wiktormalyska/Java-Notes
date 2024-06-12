@@ -1850,7 +1850,14 @@
   },
   "usage": {
     "initialized": true,
-    "codepoints": []
+    "codepoints": [
+      {
+        "firstUsed": "2024-06-12T14:56:39.047Z",
+        "lastUsed": "2024-06-12T14:56:39.047Z",
+        "useCount": 1,
+        "codepoint": "≠"
+      }
+    ]
   },
   "unicode": {
     "initialized": true,
