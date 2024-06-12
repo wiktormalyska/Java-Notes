@@ -22,4 +22,6 @@
 - Każdy węzeł różny od korzenia **musi** mieć co najmniej **t-1** kluczy
 - Każdy węzeł wewnętrzy różny od korzenia ma zatem **co najmniej t** synów
 - Jeśli drzewo jest niepuste to korzeń musi mieć co najmniej jeden klucz
-- Każdy węzeł może zawierać **co najwyżej 2t-1** kluczy to znaczy że każdy węzeł wewnętrzy
+- Każdy węzeł może zawierać **co najwyżej 2t-1** kluczy to znaczy że każdy węzeł wewnętrzny może mieć **co najwyżej 2t synów**
+- Powiemy że węzeł jest **pełny** jeżeli zawiera **dokładnie 2t-1** kluczy
+- Każdy węzeł różny od korzeni
