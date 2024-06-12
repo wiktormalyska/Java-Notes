@@ -36,3 +36,5 @@ Kolizję nazywamy sytuację gdy dla różnych kluczy, funkcja h przyjmuje tę sa
 
 ##### Haszowanie otwarte (chaining)
 Elementy tablicy haszującej **tab** to listy wskaźnikowe przechowujące pary **(k,v)**.
+Element tablicy **tab** o indeksie $I$ zawiera listę przechowującą pary **(k,v)** takie, że $h(k)=I)$ a $h$ jest funkcją haszującą
+
