@@ -1,2 +1,7 @@
 Algorytm obliczający najkrótsze ścieżki z danego wierzchołka do wszystkich pozostałych wierzchołków w **skierowanym grafie z wagami**
-Jest wolniejszy od algorytmu Dijkstry dla tego samego problemu, lecz jest bardziej uniwersalny, ponieważ obsługuje grafy, które zawierają krawędzie o 
+
+Jest wolniejszy od algorytmu Dijkstry dla tego samego problemu, lecz jest bardziej uniwersalny, ponieważ obsługuje grafy, które zawierają krawędzie o ujemnej wadze, ale nie zawierają ujemnych cykli
+
+#### Idea algorytmu
+- Wykorzystuje programowanie dynamiczne
+- Wyszukuje najkrót
