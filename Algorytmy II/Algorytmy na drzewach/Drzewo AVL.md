@@ -50,4 +50,6 @@ Węzeł A staje się prawym dzieckiem węzła C i przejmuje prawego syna węzła
 Węzeł B staje się lewym synem C i przejmuje lewego syna węzła C w miejsce swojego prawego syna
 
 ##### Operacja Insert
-- 
+- Insert jest taki jak w [[Drzewo BST]]
+-  Przy pomocy rotacji przywracaj zrównoważenie drzewa
+- idź do wstawionego liścia ku górze aktualizując współczynniki zr
