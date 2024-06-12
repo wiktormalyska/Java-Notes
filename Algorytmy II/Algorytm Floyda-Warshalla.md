@@ -13,4 +13,4 @@ potrafi obliczyć **najkrótsze odległości pomiędzy każdą parą wierzchołk
 	- dla każdej pary $(a,b)$ wykonaj:
 		- jeżeli $(M[a][b]>M[a][v]+M[v][b])$ to $M[a][b]=M[a][v]+M[v][b]$
 
-Algorytm można zaimplementować w czasie $
+Algorytm można zaimplementować w czasie $O(|V|^3)$
