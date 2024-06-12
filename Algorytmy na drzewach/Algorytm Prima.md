@@ -6,4 +6,5 @@
 - Algorytm działa poprawnie dla dowolnych grafów
 - Złożoność obliczeniowa zależy od przejętego sposobu wyszukiwania krawędzi dodawanej do drzewa i wynosi:
 	- $O(|V|^2)$ - przeszukanie tablicy $d$
-	- $O(|E|)
+	- $O(|E|*\log |V|)$ - kolejka priorytetowa z wykorzystaniem kopca
+	- $O(|E| + |V|*\log |V|)$ - kolejka priorytetowa z wykorzystaniem kopca Fibonacciego
