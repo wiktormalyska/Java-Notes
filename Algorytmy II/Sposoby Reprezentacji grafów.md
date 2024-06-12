@@ -11,6 +11,7 @@ oznacza to że istnieje macierz 2 wymiarowa o wielkości grafu gdzie wypełnione
 ![[Zrzut ekranu 2024-06-12 170855.png]]
 ![[Pasted image 20240612171542.png]]
 
+są preferowanym sposobem reprezentacji grafów gdy zagęszczenie krawędzi jest bliska maksymalnej możliwej ich liczbie
 ## Lista sąsiedztwa (incydencji)
 #### Graf $(V,R)$ przedstawiamy jako tablicę list taką że lista $tab[a]$ zawiera sąsiadów wierzchołka $a$
 
