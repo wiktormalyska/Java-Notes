@@ -32,4 +32,7 @@ Kolizję nazywamy sytuację gdy dla różnych kluczy, funkcja h przyjmuje tę sa
 
 #### Rozwiązywanie konfliktów
 - metoda łańcuchowa (haszowanie otwarte)
-- adr
+- adresowanie otwarte (haszowanie zamknięte)
+
+##### Haszowanie otwarte (chaining)
+Elementy tablicy haszującej **tab** to listy wskaźnikowe przechowujące pary **(k,v)**.
