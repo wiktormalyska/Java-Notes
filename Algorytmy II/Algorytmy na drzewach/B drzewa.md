@@ -44,4 +44,5 @@ Węzeł zawierający $2t-1$ kluczy można podzielić na 2 węzły przechowujące
 ![[Pasted image 20240613001949.png]]
 
 #### Przesuwanie klucza
-Jeżeli brakuje kluczy w węźle którego brat ma co najmiej
+Jeżeli brakuje kluczy w węźle którego brat ma co najmniej t kluczy, to można dokonać przesunięcia kluczy pomiędzy rodzeństwem a ojcem - klucz od brata przenosimy do ojca, a klucz ojca trafi do rozważanego węzła
+![[Pasted image 20240613002112.png]]
