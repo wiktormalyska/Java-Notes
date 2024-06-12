@@ -23,7 +23,9 @@ Funkcja mieszająca jest funkcją odwzorowującą uniwersum, z którego pochodz�
 Dobra funkcja haszująca powinna:
 - być łatwa w implementacji
 - łatwo obliczalna (złożoność obliczeniowa)
-- losowa - każdy indeks powinien być jed
+- losowa - każdy indeks powinien być jednakowo prawdopodobny jako wartość funkcji
+- bliskie klucze powinny dawać odległe wartości funkcji haszującej
+- gdyby to dane umieszczane w tablicy haszującej były losowe wówczas jako wy
 
 #### Tablica haszująca - Idea
 - n-elementowa tablica rekordów postaci (key, value)
