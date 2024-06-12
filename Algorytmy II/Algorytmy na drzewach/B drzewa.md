@@ -8,4 +8,5 @@
 
 ### Idea Algorytmu
 - Uogólnienie [[Drzewo BST]] poprzez zwiększenie liczby kluczy, które są przechowywane w pojedynczym węźle (arność drzewa)
-- BST - w wę
+- BST - w węźle mamy 2 wskaźniki: lewy i prawy syn oraz klucz, który rozdziela wartości przechowywane w lewym i prawym poddrzewie
+- 
