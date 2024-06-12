@@ -24,4 +24,9 @@
 - Jeśli drzewo jest niepuste to korzeń musi mieć co najmniej jeden klucz
 - Każdy węzeł może zawierać **co najwyżej 2t-1** kluczy to znaczy że każdy węzeł wewnętrzny może mieć **co najwyżej 2t synów**
 - Powiemy że węzeł jest **pełny** jeżeli zawiera **dokładnie 2t-1** kluczy
-- Każdy węzeł różny od korzeni
+- ##### Podsumowując:
+	- Liczba kluczy w węźle - od t-1 do 2t-1
+	- Liczba synów w węźle - od t do 2t
+
+#### Wyszukiwania (search)
+
