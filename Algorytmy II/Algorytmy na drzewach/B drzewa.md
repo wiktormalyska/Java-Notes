@@ -20,4 +20,6 @@
 
 #### t - Minimalny stopień B-Drzewa
 - Każdy węzeł różny od korzenia **musi** mieć co najmniej **t-1** kluczy
-- Każdy węzeł wewnętrzy różny od korzenia ma 
+- Każdy węzeł wewnętrzy różny od korzenia ma zatem **co najmniej t** synów
+- Jeśli drzewo jest niepuste to korzeń musi mieć co najmniej jeden klucz
+- Każdy węzeł może zawierać **co najwyżej 2t-1** kluczy to znaczy że każdy węzeł wewnętrzy
