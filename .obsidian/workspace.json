@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Sposoby Reprezentacji grafów.md",
+                "file": "Algorytmy II/Algorytm Dijkstry.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Sposoby Reprezentacji grafów.md",
+                "file": "Algorytmy II/Algorytm Dijkstry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Sposoby Reprezentacji grafów.md",
+                "file": "Algorytmy II/Algorytm Dijkstry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Sposoby Reprezentacji grafów.md"
+                "file": "Algorytmy II/Algorytm Dijkstry.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "4dc9328ad0fed964",
   "lastOpenFiles": [
-    "Zdjęcia notatek/Pasted image 20240612171542.png",
     "Algorytmy II/Sposoby Reprezentacji grafów.md",
+    "Algorytmy II/Algorytm Dijkstry.md",
+    "Zdjęcia notatek/Pasted image 20240612171542.png",
     "Zdjęcia notatek/Pasted image 20240612171531.png",
     "Zdjęcia notatek/Pasted image 20240612171521.png",
     "Zdjęcia notatek/Pasted image 20240612171014.png",

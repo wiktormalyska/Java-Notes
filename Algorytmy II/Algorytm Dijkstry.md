@@ -1,0 +1,2 @@
+- Przyjmij startowy wierzchołek o numerze v
+- Tablica pomocnicza 

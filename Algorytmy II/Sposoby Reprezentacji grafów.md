@@ -22,5 +22,5 @@ Dzięki temu sposobowi można szybciej stwierdzić, czy wierzchołki są połąc
 ![[Pasted image 20240612171521.png]]
 ![[Pasted image 20240612171531.png]]
 Preferowany sposób jeśli zagęszczenie krawędzi jest mniejsza, pozwala to zaoszczędzić pamięć
-## Lista krawędzi
-## Macierz incydencji
+## Lista krawędzi (nie omówiona)
+## Macierz incydencji (nie omówiona)
