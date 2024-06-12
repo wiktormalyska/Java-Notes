@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy na drzewach/Algorytm Prima.md",
+                "file": "Algorytmy na drzewach/Algorytm Kruskala.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy na drzewach/Algorytm Prima.md",
+                "file": "Algorytmy na drzewach/Algorytm Kruskala.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy na drzewach/Algorytm Prima.md",
+                "file": "Algorytmy na drzewach/Algorytm Kruskala.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy na drzewach/Algorytm Prima.md"
+                "file": "Algorytmy na drzewach/Algorytm Kruskala.md"
               }
             }
           }
@@ -174,10 +174,11 @@
   },
   "active": "16d27fe1cd667bbc",
   "lastOpenFiles": [
+    "Algorytmy na drzewach/Algorytm Prima.md",
+    "Algorytmy na drzewach/Algorytm Kruskala.md",
     "Zdjęcia w notatkach/Pasted image 20240612205341.png",
     "Zdjęcia w notatkach/Pasted image 20240612205328.png",
     "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
-    "Algorytmy na drzewach/Algorytm Prima.md",
     "Algorytmy na drzewach",
     "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
