@@ -1,0 +1,1 @@
+Są to drzewa BST, w których dla każdego węzła wysokość poddrzewa o korzeniu w lewym synu różni się od wysokości 
