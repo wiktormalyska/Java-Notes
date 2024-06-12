@@ -10,4 +10,5 @@ Jest wolniejszy od algorytmu Dijkstry dla tego samego problemu, lecz jest bardzi
 - Wyjście: tablica $d$ zawierająca odległości ze źródła $z$ do poszczególnych wierzchołków
 - zainicjuj wszystkie elementy tablic oprócz elementu źródła jako $∞$
 - for $i=1$ to $|V|-1$ do:
-	- dla każdej krawędzi 
+	- dla każdej krawędzi $(a,b)$ powtarzaj:
+		- jeżeli $(d[b]>d[a]+wag(a,b))->d[b]=d[a]+wag()
