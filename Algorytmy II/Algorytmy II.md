@@ -12,4 +12,5 @@
 	- #### [[Drzewo BST]]
 	- #### [[Drzewo AVL]]
 	- #### [[B drzewa]]
+	- #### [[Haszowanie]]
 	

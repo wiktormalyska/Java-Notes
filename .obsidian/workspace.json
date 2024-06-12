@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
+                "file": "Algorytmy II/Algorytmy II.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
+                "file": "Algorytmy II/Algorytmy II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
+                "file": "Algorytmy II/Algorytmy II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md"
+                "file": "Algorytmy II/Algorytmy II.md"
               }
             }
           }
@@ -149,11 +149,12 @@
   },
   "active": "6ab0d021a3b026fa",
   "lastOpenFiles": [
+    "Algorytmy II/Algorytmy na drzewach/Haszowanie.md",
+    "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
     "Algorytmy II/Algorytmy II.md",
     "README.md",
     "Java Junior/Podstawy Informatyki/Podstawy Informatyki/Algorytmy.md",
     "Java Junior/README.md",
-    "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
     "Zdjęcia w notatkach/Pasted image 20240613002302.png",
     "Zdjęcia w notatkach/Pasted image 20240613002243.png",
     "Zdjęcia w notatkach/Pasted image 20240613002119.png",
@@ -191,7 +192,6 @@
     "Java Junior/Spring/Spring Boot/Spring Boot.md",
     "Java Junior/Spring/Spring Boot/Spring AOP.md",
     "Java Junior/Spring/Spring Boot/Reaktywny model Web.md",
-    "Java Junior/Spring/Spring Boot/Cashowanie.md",
     "Java Junior/Spring/Spring Security",
     "Java Junior/Podstawy Informatyki/Koncepcja Messagingu",
     "Java Junior/Podstawy Informatyki/Podstawy Informatyki",
