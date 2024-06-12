@@ -13,5 +13,7 @@ oznacza to że istnieje macierz 2 wymiarowa o wielkości grafu gdzie wypełnione
 
 ## Lista sąsiedztwa (incydencji)
 #### Graf $(V,R)$ przedstawiamy jako tablicę list taką że lista $tab[a]$ zawiera sąsiadów wierzchołka $a$
+
+- Złożoność pamięciowa $
 ## Lista krawędzi
 ## Macierz incydencji
