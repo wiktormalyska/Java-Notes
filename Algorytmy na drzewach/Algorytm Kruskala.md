@@ -8,4 +8,5 @@
 - Wyjście: $D$ - zbiór drzew, na wyjściu zawierający drzewo rozpinające $G$
 - zainicjuj zbiór $D=V$, zbiór wierzchołków grafu interpretowany jako zbiór drzew o jednym wierzchołku
 - Dopóki $D$ zawiera więcej niż 1 element powtarzaj:
-	- Ze zbioru $D$ wybierz krawędź o minimalnej wadze łączącej dwa drzewa $
+	- Ze zbioru $D$ wybierz krawędź o minimalnej wadze łączącej dwa drzewa $(d1$ i $d2)$
+	- W zbiorze $D$ zastąp drzewa $d1$ i $d2$ przez jedno drzewo połączone krawędzią $e$
