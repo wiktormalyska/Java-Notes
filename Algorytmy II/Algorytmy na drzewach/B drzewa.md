@@ -49,4 +49,7 @@ Jeżeli brakuje kluczy w węźle którego brat ma co najmniej t kluczy, to możn
 ![[Pasted image 20240613002119.png]]
 
 #### Łączenie węzłów
-Jeżeli brakuje klucza w węźle, którego najbliższe rodzeństwo ma minimalną dopuszczalną liczbę kluczy, to można scalić ze sobą 2 węzły - poza k
+Jeżeli brakuje klucza w węźle, którego najbliższe rodzeństwo ma minimalną dopuszczalną liczbę kluczy, to można scalić ze sobą 2 węzły - poza kluczami z 2 braci do nowego węzła wchodzi jeden klucz od ojca
+![[Pasted image 20240613002243.png]]
+![[Pasted image 20240613002302.png]]
+
