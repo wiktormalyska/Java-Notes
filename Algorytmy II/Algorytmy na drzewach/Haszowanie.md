@@ -40,3 +40,5 @@ Element tablicy **tab** o indeksie $I$ zawiera listę przechowującą pary **(k,
 
 ##### Haszowanie zamknięte (liniowe/kwadratowe)
 - m (ilość miejsc) $>=$ n (liczba elementów)
+- w przypadku kolizji dokonaj rehaszowania czyli oblicz/znajdź kolejne miejsce, gdzie potencjalnie można umieścić zapisywany rekord
+- ponawiaj próbe
