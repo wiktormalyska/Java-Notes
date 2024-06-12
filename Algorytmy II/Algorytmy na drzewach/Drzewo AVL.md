@@ -58,4 +58,5 @@ Węzeł B staje się lewym synem C i przejmuje lewego syna węzła C w miejsce s
 
 ##### Operacja Delete
 - Delete jest taki jak w [[Drzewo BST]]
-- 
+- Przy pomocy rotacji przywracaj zrównoważenie drzewa
+- Idź do usuniętego liścia ku górze aktualizując wspołczynniki zrównoważenia BF
