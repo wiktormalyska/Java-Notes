@@ -8,4 +8,6 @@ Jest wolniejszy od algorytmu Dijkstry dla tego samego problemu, lecz jest bardzi
 #### Działanie algorytmu
 - Wejście: graf $(V,E)$, gdzie $wag(a,b)$ to waga krawędzi $(a,b)$
 - Wyjście: tablica $d$ zawierająca odległości ze źródła $z$ do poszczególnych wierzchołków
-- zainicjuj wszystkie elementy tablic oprócz elementu źródła jako $\infinity$
+- zainicjuj wszystkie elementy tablic oprócz elementu źródła jako $∞$
+- for $i=1$ to $|V|-1$ do:
+	- dla każdej krawędzi 
