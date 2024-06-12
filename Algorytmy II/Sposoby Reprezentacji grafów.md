@@ -14,6 +14,8 @@ oznacza to że istnieje macierz 2 wymiarowa o wielkości grafu gdzie wypełnione
 ## Lista sąsiedztwa (incydencji)
 #### Graf $(V,R)$ przedstawiamy jako tablicę list taką że lista $tab[a]$ zawiera sąsiadów wierzchołka $a$
 
-- Złożoność pamięciowa $
+- Złożoność pamięciowa $O(|V|+|E|)$ - list jest tyle co wierzchołków, a elementów list tyle co krawędzi
+- Czas wstawiania $O(1)$
+- Czas usunięcia, zapyt
 ## Lista krawędzi
 ## Macierz incydencji
