@@ -7,7 +7,7 @@
  - Czas wstawienia: $O(1)$
  - Czas usunięcia: $O(1)$
  - Czas zapytania: $O(1)$
-
+![[Zrzut ekranu 2024-06-12 170855.png]]
 
 ## Lista sąsiedztwa (incydencji)
 ## Lista krawędzi
