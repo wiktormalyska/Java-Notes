@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Sposoby Reprezentacji grafów.md",
+                "file": "Algorytmy II/Algorytmy na grafach/Algorytm Bellmana-Forda-Moore'a.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36db3fb68e1dfcbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16d27fe1cd667bbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Sposoby Reprezentacji grafów.md",
+                "file": "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Sposoby Reprezentacji grafów.md",
+                "file": "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Sposoby Reprezentacji grafów.md"
+                "file": "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md"
               }
             }
           }
@@ -147,21 +172,22 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "5c7540b09467c05e",
+  "active": "de5c793eabff11a9",
   "lastOpenFiles": [
-    "Algorytmy II/Algorytm BFS.md",
-    "Algorytmy II/Algorytm Bellmana-Forda-Moore'a.md",
-    "Algorytmy II/Algorytm Dijkstry.md",
-    "Algorytmy II/Algorytm Floyda-Warshalla.md",
-    "Algorytmy II/Sposoby Reprezentacji grafów.md",
-    "Zdjęcia notatek/Pasted image 20240612172935.png",
-    "Zdjęcia notatek/Pasted image 20240612173017.png",
-    "Zdjęcia notatek/Pasted image 20240612171542.png",
-    "Zdjęcia notatek/Pasted image 20240612171531.png",
-    "Zdjęcia notatek/Pasted image 20240612171521.png",
-    "Zdjęcia notatek/Pasted image 20240612171014.png",
-    "Zdjęcia notatek",
-    "Zdjęcia notatek/Zrzut ekranu 2024-06-12 170855.png",
+    "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
+    "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",
+    "Algorytmy II/Algorytmy na grafach/Algorytm Bellmana-Forda-Moore'a.md",
+    "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
+    "Algorytmy II/Algorytmy na grafach",
+    "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
+    "Zdjęcia w notatkach/Pasted image 20240612172935.png",
+    "Zdjęcia w notatkach/Pasted image 20240612173017.png",
+    "Zdjęcia w notatkach/Pasted image 20240612171542.png",
+    "Zdjęcia w notatkach/Pasted image 20240612171531.png",
+    "Zdjęcia w notatkach/Pasted image 20240612171521.png",
+    "Zdjęcia w notatkach/Pasted image 20240612171014.png",
+    "Zdjęcia w notatkach",
+    "Zdjęcia w notatkach/Zrzut ekranu 2024-06-12 170855.png",
     "Java Junior/UML.md",
     "Algorytmy II",
     "Java Junior",
@@ -188,10 +214,8 @@
     "Java Junior/Podstawy Informatyki/Podstawy Informatyki",
     "Java Junior/Podstawy Informatyki",
     "Java Junior/Java/Zaawansowana Java/Wielo wątkowość.md",
-    "Java Junior/Java/Zaawansowana Java/Programowanie funkcyjne.md",
     "Java Junior/Java/Zaawansowana Java",
     "Java Junior/Java/Java",
-    "Java Junior/Java",
     "Java Junior/Main.canvas"
   ]
 }
