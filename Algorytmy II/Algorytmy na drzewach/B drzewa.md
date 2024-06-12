@@ -46,3 +46,7 @@ Węzeł zawierający $2t-1$ kluczy można podzielić na 2 węzły przechowujące
 #### Przesuwanie klucza
 Jeżeli brakuje kluczy w węźle którego brat ma co najmniej t kluczy, to można dokonać przesunięcia kluczy pomiędzy rodzeństwem a ojcem - klucz od brata przenosimy do ojca, a klucz ojca trafi do rozważanego węzła
 ![[Pasted image 20240613002112.png]]
+![[Pasted image 20240613002119.png]]
+
+#### Łączenie węzłów
+Jeżeli brakuje klucza w węźle, którego najbliższe rodzeństwo ma minimalną dopuszczalną liczbę kluczy, to można scalić ze sobą 2 węzły - poza k
