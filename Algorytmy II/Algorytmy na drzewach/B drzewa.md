@@ -1,0 +1,1 @@
+[[Drzewo BST]] nawet w wersji [[Drzewo AVL]]
