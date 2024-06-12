@@ -1,8 +1,7 @@
 {
 	"nodes":[
-		{"id":"e51c92b319e690e2","type":"file","file":"Teoria Programowania/Wzorce Projektowe.md","x":-2000,"y":-1520,"width":400,"height":400},
 		{"id":"ecba2b722b85993b","type":"file","file":"Java Junior/Spring/Spring.md","x":-910,"y":-1620,"width":400,"height":400},
-		{"id":"10a4a3279219f24a","x":-910,"y":-1040,"width":400,"height":400,"type":"file","file":"Java Junior/Spring/Spring Boot/Spring Boot.md"}
+		{"id":"10a4a3279219f24a","type":"file","file":"Java Junior/Spring/Spring Boot/Spring Boot.md","x":-910,"y":-1040,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"72004a2f467e05fe","fromNode":"ecba2b722b85993b","fromSide":"bottom","toNode":"10a4a3279219f24a","toSide":"top"}

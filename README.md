@@ -1,2 +1,2 @@
 ## Zawartość:
-- ### [[Java Junior/README|README]]
+- ### [[Java Junior/README|Java Junior Notes]]
