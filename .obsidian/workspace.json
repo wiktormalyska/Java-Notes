@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "6ab0d021a3b026fa",
   "lastOpenFiles": [
+    "Algorytmy II/Algorytmy II.md",
     "README.md",
     "Java Junior/Podstawy Informatyki/Podstawy Informatyki/Algorytmy.md",
-    "Algorytmy II/Algorytmy II.md",
     "Java Junior/README.md",
     "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
     "Zdjęcia w notatkach/Pasted image 20240613002302.png",
