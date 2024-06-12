@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring Security/Rest API i Spring Security (JWT).md",
+                "file": "Java Junior/Spring/Spring Security/Rest API i Spring Security (JWT).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UML.md",
+                "file": "Java Junior/UML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d32bcb35e67c2d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bez nazwy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UML.md",
+                "file": "Bez nazwy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UML.md",
+                "file": "Bez nazwy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UML.md"
+                "file": "Bez nazwy.md"
               }
             }
           }
@@ -160,44 +172,44 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "4e2467df7bacf0c8",
+  "active": "8d32bcb35e67c2d1",
   "lastOpenFiles": [
-    "Bez nazwy",
-    "Spring/Spring Security/Spring Security.md",
-    "Spring/Spring.md",
-    "Spring/Spring Security/Rest API i Spring Security (JWT).md",
-    "Spring/Spring Boot/Spring Messaging.md",
-    "Spring/Spring Boot/Spring Cloud.md",
-    "Spring/Spring Boot/Spring Boot.md",
-    "Spring/Spring Boot/Spring AOP.md",
-    "Spring/Spring Boot/Reaktywny model Web.md",
-    "Spring/Spring Boot/Cashowanie.md",
-    "Spring/Spring Security",
-    "Podstawy Informatyki/Koncepcja Messagingu/Kafka.md",
-    "Podstawy Informatyki/Koncepcja Messagingu/Publikuj, Zasubskrybuj.md",
-    "Podstawy Informatyki/Koncepcja Messagingu/Kolejki.md",
-    "Podstawy Informatyki/Podstawy Informatyki/Algorytmy.md",
-    "Podstawy Informatyki/Podstawy Informatyki/Systemy Operacyjne.md",
-    "Podstawy Informatyki/Podstawy Informatyki/Sieci.md",
-    "Podstawy Informatyki/Podstawy Informatyki/Struktury Danych.md",
-    "Podstawy Informatyki/Podstawy Informatyki/Logika.md",
-    "Java/Zaawansowana Java/Serverlety, Filtry HTTP.md",
-    "Podstawy Informatyki/Koncepcja Messagingu",
-    "Podstawy Informatyki/Podstawy Informatyki",
-    "Podstawy Informatyki",
-    "Java/Zaawansowana Java/Wielo wątkowość.md",
-    "Java/Zaawansowana Java/Programowanie funkcyjne.md",
-    "Java/Zaawansowana Java/JVM.md",
-    "Java/Zaawansowana Java/Programowanie Asynchroniczne.md",
-    "Java/Java/Strumienie.md",
-    "Java/Java/Klasy i Interfejsy.md",
-    "Java/Java/Zmienne.md",
-    "Java/Zaawansowana Java",
-    "Java/Java",
-    "Java",
-    "Narzędzia",
-    "Zarządzanie pakietami/Maven/Monitorowanie i Logowanie",
-    "Zarządzanie pakietami/Maven/Maven",
-    "Main.canvas"
+    "Java Junior/UML.md",
+    "Bez nazwy.md",
+    "Algorytmy II",
+    "Java Junior",
+    "Java Junior/Spring/Spring Security/Spring Security.md",
+    "Java Junior/Spring/Spring.md",
+    "Java Junior/Spring/Spring Security/Rest API i Spring Security (JWT).md",
+    "Java Junior/Spring/Spring Boot/Spring Messaging.md",
+    "Java Junior/Spring/Spring Boot/Spring Cloud.md",
+    "Java Junior/Spring/Spring Boot/Spring Boot.md",
+    "Java Junior/Spring/Spring Boot/Spring AOP.md",
+    "Java Junior/Spring/Spring Boot/Reaktywny model Web.md",
+    "Java Junior/Spring/Spring Boot/Cashowanie.md",
+    "Java Junior/Spring/Spring Security",
+    "Java Junior/Podstawy Informatyki/Koncepcja Messagingu/Kafka.md",
+    "Java Junior/Podstawy Informatyki/Koncepcja Messagingu/Publikuj, Zasubskrybuj.md",
+    "Java Junior/Podstawy Informatyki/Koncepcja Messagingu/Kolejki.md",
+    "Java Junior/Podstawy Informatyki/Podstawy Informatyki/Algorytmy.md",
+    "Java Junior/Podstawy Informatyki/Podstawy Informatyki/Systemy Operacyjne.md",
+    "Java Junior/Podstawy Informatyki/Podstawy Informatyki/Sieci.md",
+    "Java Junior/Podstawy Informatyki/Podstawy Informatyki/Struktury Danych.md",
+    "Java Junior/Podstawy Informatyki/Podstawy Informatyki/Logika.md",
+    "Java Junior/Java/Zaawansowana Java/Serverlety, Filtry HTTP.md",
+    "Java Junior/Podstawy Informatyki/Koncepcja Messagingu",
+    "Java Junior/Podstawy Informatyki/Podstawy Informatyki",
+    "Java Junior/Podstawy Informatyki",
+    "Java Junior/Java/Zaawansowana Java/Wielo wątkowość.md",
+    "Java Junior/Java/Zaawansowana Java/Programowanie funkcyjne.md",
+    "Java Junior/Java/Zaawansowana Java/JVM.md",
+    "Java Junior/Java/Zaawansowana Java/Programowanie Asynchroniczne.md",
+    "Java Junior/Java/Java/Strumienie.md",
+    "Java Junior/Java/Java/Klasy i Interfejsy.md",
+    "Java Junior/Java/Zaawansowana Java",
+    "Java Junior/Java/Java",
+    "Java Junior/Java",
+    "Java Junior/Narzędzia",
+    "Java Junior/Main.canvas"
   ]
 }
