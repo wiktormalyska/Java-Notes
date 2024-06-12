@@ -14,3 +14,4 @@ potrafi obliczyć **najkrótsze odległości pomiędzy każdą parą wierzchołk
 		- jeżeli $(M[a][b]>M[a][v]+M[v][b])$ to $M[a][b]=M[a][v]+M[v][b]$
 
 Algorytm można zaimplementować w czasie $O(|V|^3)$
+Jest zależny tylko od liczby wierzchołków w grafie, dzięki czemu nie ma na niego wpłyti
