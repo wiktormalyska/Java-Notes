@@ -43,7 +43,10 @@ Dodaj/Usuń element a następnie odtwórz strukturę B-Drzewa wykorzystując pom
 ##### 2 metoda
 Schodząc w dół drzewa, szukaj węzła, gdzie należy dodać/usunąć klucz, dbając o to, aby w wyniku tej operacji nie została zaburzona struktura B-Drzewa
 - Analogicznie jak w [[Drzewo BST]] szukaj liścia w którym należy wstawić żądany klucz
-- Jeżeli napotykasz węzeł zawierający $2t-1$ kluczy to rozbij go na 2 węzły
+- Jeżeli napotykasz węzeł zawierający $2t-1$ kluczy to rozbij go na 2 węzły dzięki czemu zagwarantujemy, że liść będzie miał wolne miejsce na klucz
+- Dopisz klucz do odpowiedniego liścia
+
+- Szukaj usuwanego klu
 
 #### Dzielenie węzła
 Węzeł zawierający $2t-1$ kluczy można podzielić na 2 węzły przechowujące $t-1$ kluczy - środkowy przenosimy do ojca
