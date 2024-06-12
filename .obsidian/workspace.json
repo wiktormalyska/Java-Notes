@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",
+                "file": "Algorytmy na drzewach/Algorytm Prima.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",
+                "file": "Algorytmy na drzewach/Algorytm Prima.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",
+                "file": "Algorytmy na drzewach/Algorytm Prima.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md"
+                "file": "Algorytmy na drzewach/Algorytm Prima.md"
               }
             }
           }
@@ -174,11 +174,13 @@
   },
   "active": "16d27fe1cd667bbc",
   "lastOpenFiles": [
-    "Algorytmy II/Algorytmy na grafach/Algorytm Bellmana-Forda-Moore'a.md",
-    "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",
-    "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
-    "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
     "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
+    "Algorytmy na drzewach/Algorytm Prima.md",
+    "Algorytmy na drzewach",
+    "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
+    "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
+    "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",
+    "Algorytmy II/Algorytmy na grafach/Algorytm Bellmana-Forda-Moore'a.md",
     "Algorytmy II/Algorytmy na grafach",
     "Zdjęcia w notatkach/Pasted image 20240612172935.png",
     "Zdjęcia w notatkach/Pasted image 20240612173017.png",
@@ -215,7 +217,6 @@
     "Java Junior/Podstawy Informatyki",
     "Java Junior/Java/Zaawansowana Java/Wielo wątkowość.md",
     "Java Junior/Java/Zaawansowana Java",
-    "Java Junior/Java/Java",
     "Java Junior/Main.canvas"
   ]
 }
