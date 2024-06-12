@@ -1,0 +1,1 @@
+Szuka najkrótszych ścieżek z wierzchołka $v$ do pozostałych wierzchołk

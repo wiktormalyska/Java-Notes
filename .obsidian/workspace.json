@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Algorytm Dijkstry.md",
+                "file": "Algorytmy II/Algorytm BFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytm Dijkstry.md",
+                "file": "Algorytmy II/Algorytm BFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytm Dijkstry.md",
+                "file": "Algorytmy II/Algorytm BFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytm Dijkstry.md"
+                "file": "Algorytmy II/Algorytm BFS.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "5c7540b09467c05e",
   "lastOpenFiles": [
+    "Algorytmy II/Algorytm Bellmana-Forda-Moore'a.md",
+    "Algorytmy II/Algorytm BFS.md",
+    "Algorytmy II/Algorytm Dijkstry.md",
     "Algorytmy II/Algorytm Floyda-Warshalla.md",
     "Algorytmy II/Sposoby Reprezentacji grafów.md",
-    "Algorytmy II/Algorytm Bellmana-Forda-Moore'a.md",
-    "Algorytmy II/Algorytm Dijkstry.md",
     "Zdjęcia notatek/Pasted image 20240612172935.png",
     "Zdjęcia notatek/Pasted image 20240612173017.png",
     "Zdjęcia notatek/Pasted image 20240612171542.png",
@@ -188,7 +189,6 @@
     "Java Junior/Podstawy Informatyki",
     "Java Junior/Java/Zaawansowana Java/Wielo wątkowość.md",
     "Java Junior/Java/Zaawansowana Java/Programowanie funkcyjne.md",
-    "Java Junior/Java/Zaawansowana Java/JVM.md",
     "Java Junior/Java/Zaawansowana Java",
     "Java Junior/Java/Java",
     "Java Junior/Java",
