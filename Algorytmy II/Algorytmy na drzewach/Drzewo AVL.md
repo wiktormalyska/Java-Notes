@@ -24,4 +24,7 @@ Istnieję 4 rodzaje rotacji - dwie pojedyncze oraz dwie podwójne będące fakty
 - Rotacja podwójna - RL - LEWO-PRAWO
 - Rotacja podwójna - LR - PRAWO-LEWO
 
-RR,LL,RL,LR określają sposób połącznenia węzłów przed wykonaniem rot
+RR,LL,RL,LR określają sposób połączenia węzłów przed wykonaniem rotacji
+Jeśli węzły łączą się prawymi krawędziami to przypadek RR, jeśli tylko lewymi to przypadek LL, Mieszane połączenia to LR i RL\
+
+Przykład Rotacji RR (w lewo)
