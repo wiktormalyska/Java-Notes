@@ -3,6 +3,7 @@
 
 *oznacza to że istnieje macierz 2 wymiarowa o wielkości grafu gdzie wypełnione komórki odpowiadają krawędzi pomiędzy dwoma wierzchołkami*
 
+złożoność pamięciowa: O(|V|^2)
 ## Lista sąsiedztwa (incydencji)
 ## Lista krawędzi
 ## Macierz incydencji
