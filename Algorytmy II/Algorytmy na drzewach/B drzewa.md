@@ -39,7 +39,9 @@ Należy dbać aby zachowane były warunki na liczbę kluczy w węzłach i aby ws
 Potrzebne do tego są pomocnicze operacje: dzielenie węzła ,przesuwanie klucza i łączenie węzłów
 
 ##### 1 metoda
-
+Dodaj/Usuń element a następnie odtwórz strukturę B-Drzewa wykorzystując pomocnicze operacje - analogia do metody dla [[Drzewo AVL]]
+##### 2 metoda
+Schodząc w dół drzewa, szukaj węzła, gdzie należy 
 
 #### Dzielenie węzła
 Węzeł zawierający $2t-1$ kluczy można podzielić na 2 węzły przechowujące $t-1$ kluczy - środkowy przenosimy do ojca
