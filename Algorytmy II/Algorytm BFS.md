@@ -1,1 +1,1 @@
-Szuka najkrótszych ścieżek z wierzchołka $v$ do pozostałych wierzchołk
+Szuka najkrótszych ścieżek z wierzchołka $v$ do pozostałych wierzchołków w grafie **bez wag**
