@@ -52,7 +52,8 @@ Schodząc w dół drzewa, szukaj węzła, gdzie należy dodać/usunąć klucz, d
 - w ten sposób uzyskujemy pewność, że w chwili odnalezienia węzła zawierającego $k$ będzie można usunąć klucz nie zaburzając warunku na minimalną liczbę kluczy w węźle
 - po odnalezieniu węzła zawierającego klucz wykonaj jedną z poniższych akcji
 	- jeżeli $k$ jest w liściu - usuń $k$
-	- jeżeli $k$ znajduje się w węźle wewnętrznym $W$ - odnajdź $x$ i $y$, synów 
+	- jeżeli $k$ znajduje się w węźle wewnętrznym $W$ - odnajdź $x$ i $y$, synów $W$ sąsiadujących z $k$, a następnie
+		- weź ten węzeł ($x$ lub $y$) który zawiera co najmniej $t$ kluczy, znajdź w drzewie o wybranym korzeniu klucz najbliższy $k$, zamień go miejscami z $k$ 
 
 #### Dzielenie węzła
 Węzeł zawierający $2t-1$ kluczy można podzielić na 2 węzły przechowujące $t-1$ kluczy - środkowy przenosimy do ojca
