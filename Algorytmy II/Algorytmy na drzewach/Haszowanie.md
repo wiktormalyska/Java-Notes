@@ -14,4 +14,7 @@ Chcemy uzyskać czas stały $O(1)$
 - Problem 2 - duże zużycie pamięci - jeżeli kluczy jest dużo lub chociaż niewiele, ale mają wartości z dużego zakresu
 
 Chcemy skorzystać z małej tablicy w której za pomocą funkcji $h$ będziemy przechowywać klucze z $S$
-Jeśli $h$ będzie od
+Jeśli $h$ będzie odwzorowaniem losowym, to możemy liczyć na mało kolizji
+
+#### Funkcja haszująca
+Jest to funkcja, która każdemu elementowi ze zbioru dopuszczalnych kluczy przyporządkowuje liczbę całkowitą
