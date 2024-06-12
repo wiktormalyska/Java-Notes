@@ -5,4 +5,13 @@
 	- DELETE(S,x)
 - można ten zbiór rozszerzyć o operacje dodatkowe wspomagające pracę:
 	- CREATE()
-	- 
+	- EMPTY(S)
+	- BROWSE(S)
+	- MINIMUM, MAXIMUM, SUCCESSOR, PREDECESOR
+
+#### Implementacje
+- Listy lub tablice (naiwne)
+	- nieuporządkowane
+	- uporządkowane
+- Drzewa
+- 
