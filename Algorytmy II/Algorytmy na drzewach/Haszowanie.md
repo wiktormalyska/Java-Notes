@@ -44,4 +44,5 @@ Kolizję nazywamy sytuację gdy dla różnych kluczy, funkcja h przyjmuje tę sa
 - ponawiaj próbę aż znajdziesz wolne miejsce
 
 #### Haszowanie zamknięte - podwójne (double hashing)
-- Zamiast przyrostu 1 (l)
+- Zamiast przyrostu 1 (lub kwadrat) można wziąć przyrost określony przez drugą funkcję mieszającą $h`(v)$
+- $r(i,k)=((h(k)+i*h`(k)))
