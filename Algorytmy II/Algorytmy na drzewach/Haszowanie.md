@@ -82,4 +82,11 @@ Kolizję nazywamy sytuację gdy dla różnych kluczy, funkcja h przyjmuje tę sa
 - zwiększenie stopnia wypełnienia tablicy zwiększa czas wykonywania poszczególnych operacji
 - dla haszowania otwartego czas wykonywania operacji rośnie liniowo w stosunku do współczynnika wypełnienia tablicy
 - ##### Rozwiązanie:
-	- Przy implementacji tablic haszujących ustala się stopień wypełnienia tablicy przy którym należy powiększyć
+	- Przy implementacji tablic haszujących ustala się stopień wypełnienia tablicy przy którym należy powiększyć tablicę haszującą
+
+#### Zalety sposobów haszowania
+
+| haszowanie OTWARTE         | haszowanie ZAMKNIĘTE |
+| -------------------------- | -------------------- |
+| łatwa implementacja        |                      |
+| mała wrażliwość na przełęn |                      |
