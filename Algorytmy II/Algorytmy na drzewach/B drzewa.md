@@ -14,4 +14,8 @@
 ### Idea Algorytmu prościej
 - skrajnie lewy syn jest korzeniem poddrzewa zawierającego klucze mniejsze od kluczy przechowywanych w ojcu
 - skrajnie prawy syn robi dosłownie odwrotnie to co lewy syn czyli trzyma większe klucze od ojca
-- i-ty syn jest korzeniem drzewa zawierające klucze należące do przedziału pomiędzy $()
+- i-ty syn jest korzeniem drzewa zawierające klucze należące do przedziału pomiędzy $(i-1)$-tym a $i$-tym kluczem ojca
+
+![[Pasted image 20240613000038.png]]
+
+
