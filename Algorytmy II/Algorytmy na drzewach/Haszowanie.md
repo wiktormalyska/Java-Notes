@@ -19,7 +19,8 @@ Jeśli $h$ będzie odwzorowaniem losowym, to możemy liczyć na mało kolizji
 #### Funkcja haszująca
 Jest to funkcja, która każdemu elementowi ze zbioru dopuszczalnych kluczy przyporządkowuje liczbę całkowitą
 
-Funkcja
+Funkcja mieszająca jest funkcją odwzorowującą uniwersum, z którego pochodzą elementy zbioru $S$, w zbiór adresów dla pewnej liczby naturalnej $m$.
+Dobra funkcja 
 
 #### Tablica haszująca - Idea
 - n-elementowa tablica rekordów postaci (key, value)
