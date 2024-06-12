@@ -39,4 +39,5 @@ Rotacja LL jest lustrzanym odbiciem rotacji RR. W rotacji uczestniczą węzły A
 ![[Pasted image 20240612220640.png]]
 Rotacja RL jest połączeniem rotacji LL i rotacji RR
 Węzeł C zastępuje węzeł A
-Węzeł A staje się lewym dzieckiem węzła C
+Węzeł A staje się lewym dzieckiem węzła C i przejmuje syna węzła C w miejsce swojego prawego syna
+Węzeł B staje się prawym synem C i przejmuje prawego syna węzła C w miejsce swojego lewego ssy
