@@ -6,4 +6,6 @@
 #### Działanie algorytmu
 - Wejście : graf $(V,E)$
 - Wyjście: $D$ - zbiór drzew, na wyjściu zawierający drzewo rozpinające $G$
-- zainicjuj zbiór $D=V$, zbiór
+- zainicjuj zbiór $D=V$, zbiór wierzchołków grafu interpretowany jako zbiór drzew o jednym wierzchołku
+- Dopóki $D$ zawiera więcej niż 1 element powtarzaj:
+	- Ze zbioru $D$ wybierz krawędź o minimalnej wadze łączącej dwa drzewa $
