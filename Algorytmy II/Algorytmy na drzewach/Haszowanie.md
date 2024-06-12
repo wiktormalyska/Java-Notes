@@ -20,7 +20,10 @@ Jeśli $h$ będzie odwzorowaniem losowym, to możemy liczyć na mało kolizji
 Jest to funkcja, która każdemu elementowi ze zbioru dopuszczalnych kluczy przyporządkowuje liczbę całkowitą
 
 Funkcja mieszająca jest funkcją odwzorowującą uniwersum, z którego pochodzą elementy zbioru $S$, w zbiór adresów dla pewnej liczby naturalnej $m$.
-Dobra funkcja 
+Dobra funkcja haszująca powinna:
+- być łatwa w implementacji
+- łatwo obliczalna (złożoność obliczeniowa)
+- losowa - każdy indeks powinien być jed
 
 #### Tablica haszująca - Idea
 - n-elementowa tablica rekordów postaci (key, value)
