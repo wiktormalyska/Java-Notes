@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c7540b09467c05e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorytmy II/Algorytmy na grafach/Algorytm Bellmana-Forda-Moore'a.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36db3fb68e1dfcbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "16d27fe1cd667bbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach BST/Algorytmy na drzewach BST.md",
+                "file": "Algorytmy II/Algorytmy na drzewach BST/Drzewo BST.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach BST/Algorytmy na drzewach BST.md",
+                "file": "Algorytmy II/Algorytmy na drzewach BST/Drzewo BST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach BST/Algorytmy na drzewach BST.md",
+                "file": "Algorytmy II/Algorytmy na drzewach BST/Drzewo BST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach BST/Algorytmy na drzewach BST.md"
+                "file": "Algorytmy II/Algorytmy na drzewach BST/Drzewo BST.md"
               }
             }
           }
@@ -172,10 +147,13 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "de5c793eabff11a9",
+  "active": "16d27fe1cd667bbc",
   "lastOpenFiles": [
-    "Algorytmy II/Algorytmy na drzewach/Algorytm Kruskala.md",
+    "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",
+    "Algorytmy II/Algorytmy na drzewach BST/Drzewo BST.md",
     "Algorytmy II/Algorytmy na drzewach BST/Algorytmy na drzewach BST.md",
+    "Algorytmy II/Algorytmy na grafach/Algorytm Bellmana-Forda-Moore'a.md",
+    "Algorytmy II/Algorytmy na drzewach/Algorytm Kruskala.md",
     "Algorytmy II/Algorytmy na drzewach BST",
     "Zdjęcia w notatkach/Pasted image 20240612210122.png",
     "Algorytmy II/Algorytmy na drzewach/Algorytm Prima.md",
@@ -185,8 +163,6 @@
     "Algorytmy II/Algorytmy na drzewach",
     "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
-    "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",
-    "Algorytmy II/Algorytmy na grafach/Algorytm Bellmana-Forda-Moore'a.md",
     "Algorytmy II/Algorytmy na grafach",
     "Zdjęcia w notatkach/Pasted image 20240612172935.png",
     "Zdjęcia w notatkach/Pasted image 20240612173017.png",
@@ -216,7 +192,6 @@
     "Java Junior/Podstawy Informatyki/Podstawy Informatyki/Systemy Operacyjne.md",
     "Java Junior/Podstawy Informatyki/Podstawy Informatyki/Sieci.md",
     "Java Junior/Podstawy Informatyki/Podstawy Informatyki/Struktury Danych.md",
-    "Java Junior/Podstawy Informatyki/Podstawy Informatyki/Logika.md",
     "Java Junior/Podstawy Informatyki/Koncepcja Messagingu",
     "Java Junior/Podstawy Informatyki/Podstawy Informatyki",
     "Java Junior/Podstawy Informatyki",
