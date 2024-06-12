@@ -9,4 +9,4 @@ potrafi obliczyć **najkrótsze odległości pomiędzy każdą parą wierzchołk
 - Wejście: graf $(V,E)$, gdzie $wag(a,b)$ oznacza wagę krawędzi $(a,b)$
 - tablica $M$, gdzie $M[a][b]=wag(a,b)$, jeżeli krawędź $(a,b)$ należy do grafu, w przeciwnym wypadku wartość jest równa $∞$
 - Wyjście: tablica $M$, gdzie $M[a][b]$ jest najkrótszą odległością od wierzchołka $a$ do $b$
-- Dla każdego wierzchołka $v$ należącego do 
+- Dla każdego wierzchołka $v$ należącego do grafu
