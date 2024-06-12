@@ -28,3 +28,5 @@ RR,LL,RL,LR określają sposób połączenia węzłów przed wykonaniem rotacji
 Jeśli węzły łączą się prawymi krawędziami to przypadek RR, jeśli tylko lewymi to przypadek LL, Mieszane połączenia to LR i RL\
 
 Przykład Rotacji RR (w lewo)
+![[Pasted image 20240612220323.png]]
+W rotacji uczestniczą węzły A i B. Węzeł B zajmuje miejsce węzła A, węzeł A staje się lewym synem węzła B, Lewy syn węzła B (BL) staje się 
