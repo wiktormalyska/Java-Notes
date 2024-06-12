@@ -18,3 +18,8 @@ Jeśli $h$ będzie odwzorowaniem losowym, to możemy liczyć na mało kolizji
 
 #### Funkcja haszująca
 Jest to funkcja, która każdemu elementowi ze zbioru dopuszczalnych kluczy przyporządkowuje liczbę całkowitą
+
+#### Tablica haszująca - Idea
+- n-elementowa tablica rekordów postaci (key, value)
+- h - funkcja haszująca
+- wstawienie pary $(k,v)$ 
