@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Algorytmy II.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/Haszowanie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytmy II.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/Haszowanie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytmy II.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/Haszowanie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytmy II.md"
+                "file": "Algorytmy II/Algorytmy na drzewach/Haszowanie.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "6ab0d021a3b026fa",
   "lastOpenFiles": [
+    "Algorytmy II/Algorytmy II.md",
     "Algorytmy II/Algorytmy na drzewach/Haszowanie.md",
     "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
-    "Algorytmy II/Algorytmy II.md",
     "README.md",
     "Java Junior/Podstawy Informatyki/Podstawy Informatyki/Algorytmy.md",
     "Java Junior/README.md",
