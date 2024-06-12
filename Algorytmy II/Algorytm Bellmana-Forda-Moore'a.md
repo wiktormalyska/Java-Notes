@@ -7,4 +7,5 @@ Jest wolniejszy od algorytmu Dijkstry dla tego samego problemu, lecz jest bardzi
 - Wyszukuje najkrótsze ścieżki z wybranego wierzchołka do wszystkich wierzchołków w grafie
 #### Działanie algorytmu
 - Wejście: graf $(V,E)$, gdzie $wag(a,b)$ to waga krawędzi $(a,b)$
-- Wyjście: tablic
+- Wyjście: tablica $d$ zawierająca odległości ze źródła $z$ do poszczególnych wierzchołków
+- zainicjuj wszystkie elementy tablict
