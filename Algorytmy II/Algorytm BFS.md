@@ -5,4 +5,6 @@ Algorytm oparty jest na przeszukiwaniu grafu wszerz
 - Wstaw na koniec kolejki wierzchołek $v$
 - Dopóki kolejka nie jest pusta powtarzaj:
 	- Weź z kolejki wierzchołek $w$ i dla każdego jego sąsiada $(q)$ wykonaj:
-		- jeżel
+		- jeżeli $d[q] == ∞$: 
+			- $d[q]=d[w]+1$
+			- dodaj $q$ na koniec kolejki
