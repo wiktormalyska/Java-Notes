@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "392edc78e833b773",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bez nazwy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
+                "file": "Bez nazwy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
+                "file": "Bez nazwy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md"
+                "file": "Bez nazwy.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "8ce45ac4deb23200",
+  "active": "392edc78e833b773",
   "lastOpenFiles": [
-    "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
     "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
+    "Bez nazwy.md",
+    "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
     "Zdjęcia w notatkach/Pasted image 20240612220917.png",
     "Zdjęcia w notatkach/Pasted image 20240612220640.png",
     "Zdjęcia w notatkach/Pasted image 20240612220452.png",
@@ -191,7 +205,6 @@
     "Java Junior/Podstawy Informatyki/Koncepcja Messagingu/Kafka.md",
     "Java Junior/Podstawy Informatyki/Koncepcja Messagingu/Publikuj, Zasubskrybuj.md",
     "Java Junior/Podstawy Informatyki/Koncepcja Messagingu/Kolejki.md",
-    "Java Junior/Podstawy Informatyki/Podstawy Informatyki/Algorytmy.md",
     "Java Junior/Podstawy Informatyki/Koncepcja Messagingu",
     "Java Junior/Podstawy Informatyki/Podstawy Informatyki",
     "Java Junior/Podstawy Informatyki",
