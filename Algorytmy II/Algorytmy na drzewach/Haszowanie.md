@@ -54,7 +54,10 @@ Kolizję nazywamy sytuację gdy dla różnych kluczy, funkcja h przyjmuje tę sa
 ##### Haszowanie zamknięte - DELETE(key)
 - usuwając jakiś element z tablicy nie usuwamy go fizycznie - ryzyko utraty możliwości odnalezienia w tablicy innych elementów jeżeli zbyt wcześnie zakończymy rehaszowanie
 - zamiast tego - oznacz elementy jako usunięte
-	- indeks = Search(key)
+	- $indeks = Search(key)$
 	- if $(t[indeks]) != NULL)$ - oznacz $t[indeks]$ jako usunięty
 
-##### Haszowanie zamknięte - SEARCH(key), INSERT
+##### Haszowanie zamknięte - SEARCH(key), INSERT(key)
+###### SEARCH(key) - próbuj dopóki nie znajdziesz k lub pustego miejsca
+- $i=0$
+- dopóki $(t[r(i,k)]!=k AND )
