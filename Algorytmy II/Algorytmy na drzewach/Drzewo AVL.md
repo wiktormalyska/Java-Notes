@@ -11,4 +11,8 @@ Każdy węzeł drzewa AVL posiada dodatkowe pole tzw. **współczynnik równowag
 
 #### Operacje na drzewach AVL
 - Operacje nie wymagające modyfikacji wykonujemy w drzewach AVL tak samo jak w [[Drzewo BST]]
-- W przypadku INSERT i DELETE, po odpowiednio wst
+- W przypadku INSERT i DELETE, po odpowiednio wstawieniu lub usunięciu węzła trzeba jeszcze zrównoważyć drzewo
+
+
+#### Rotacje
+Jeżeli w wyniku jakiejś operacji na drzewie zostaje zachwiana własność drzewa AVL (BF=2 lub -2), przywracamy ją za pomocą
