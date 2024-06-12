@@ -4,4 +4,6 @@ Jest wolniejszy od algorytmu Dijkstry dla tego samego problemu, lecz jest bardzi
 
 #### Idea algorytmu
 - Wykorzystuje programowanie dynamiczne
-- Wyszukuje najkrót
+- Wyszukuje najkrótsze ścieżki z wybranego wierzchołka do wszystkich wierzchołków w grafie
+#### Działanie algorytmu
+- Wejście: graf $(V,E)
