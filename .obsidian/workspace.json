@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "313aab8207296a43",
+        "id": "b082c7981e00ca55",
         "type": "tabs",
         "children": [
           {
-            "id": "4dc9328ad0fed964",
+            "id": "5c7540b09467c05e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,12 +147,12 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "4dc9328ad0fed964",
+  "active": "5c7540b09467c05e",
   "lastOpenFiles": [
-    "Pasted image 20240612173017.png",
-    "Pasted image 20240612172935.png",
-    "Algorytmy II/Sposoby Reprezentacji grafów.md",
+    "Zdjęcia notatek/Pasted image 20240612172935.png",
     "Algorytmy II/Algorytm Dijkstry.md",
+    "Zdjęcia notatek/Pasted image 20240612173017.png",
+    "Algorytmy II/Sposoby Reprezentacji grafów.md",
     "Zdjęcia notatek/Pasted image 20240612171542.png",
     "Zdjęcia notatek/Pasted image 20240612171531.png",
     "Zdjęcia notatek/Pasted image 20240612171521.png",
