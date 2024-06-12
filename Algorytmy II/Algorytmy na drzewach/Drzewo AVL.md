@@ -3,7 +3,8 @@ Są to drzewa BST, w których dla każdego węzła wysokość poddrzewa o korzen
 ![[Pasted image 20240612215416.png]]
 
 $BF=hl-hr$, gdzie hl, hr to odpowiednio wysokości lewego i prawego poddrzewa
-- BF=1 - lewe poddrzewo jest wyższe o 1 poziom od prawego hl>hr
+- BF=1 - lewe poddrzewo jest wyższe o 1 poziom od prawego hl > hr
 - BF=0 - oba poddrzewa są równej wysokości hl=hr
-- BF=-1 - prawe poddrzewo jest wyższe o 1 poziom od lewego hl<hr
-- 
+- BF=-1 - prawe poddrzewo jest wyższe o 1 poziom od lewego hl < hr
+
+Każdy węzeł drzewa AVL posiada dodatkowe pole tzw. **współczynnik równowagi** - BF *(balance factor)* - czyli różnicę pomiędzy wysokościami lewego i prawego
