@@ -12,6 +12,7 @@ oznacza to że istnieje macierz 2 wymiarowa o wielkości grafu gdzie wypełnione
 ![[Pasted image 20240612171542.png]]
 
 Preferowany sposób reprezentacji grafów gdy zagęszczenie krawędzi jest bliska maksymalnej możliwej ich liczbie
+Dzięki temu sposobowi można szybciej st
 ## Lista sąsiedztwa (incydencji)
 #### Graf $(V,R)$ przedstawiamy jako tablicę list taką że lista $tab[a]$ zawiera sąsiadów wierzchołka $a$
 
@@ -20,5 +21,6 @@ Preferowany sposób reprezentacji grafów gdy zagęszczenie krawędzi jest blisk
 - Czas usunięcia, zapytania - jak na liście uporządkowanej
 ![[Pasted image 20240612171521.png]]
 ![[Pasted image 20240612171531.png]]
+Preferowany sposób jeśli zagęszczenie krawędzi jest mniejsza, pozwala to zaoszczędzić pamięć
 ## Lista krawędzi
 ## Macierz incydencji
