@@ -29,4 +29,5 @@
 	- Liczba synów w węźle - od t do 2t
 
 #### Wyszukiwania (search)
-
+Wyszukiwanie elementu odbywa się analogicznie do [[Drzewo BST]]
+Różnica polega na tym, że w każdym węźle B-Drzewa dokonuje się wyboru poddrzewa, w którym ma być kon
