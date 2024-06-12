@@ -39,3 +39,4 @@ Należy dbać aby zachowane były warunki na liczbę kluczy w węzłach i aby ws
 Potrzebne do tego są pomocnicze operacje: dzielenie węzła ,przesuwanie klucza i łączenie węzłów
 
 #### Dzielenie węzła
+Węzeł zawierający $2t-1$ kluczy można podzielić na 2 węzły przechowujące 
