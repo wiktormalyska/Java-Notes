@@ -16,3 +16,4 @@ Jest wolniejszy od algorytmu Dijkstry dla tego samego problemu, lecz jest bardzi
 	- jeżeli $(d[b]>d[a]+wag(a,b))$, to zwróć $false$(wystąpił cykl o ujemnej wadze)
 
 Algorytm działa poprawnie dla dowolnych grafów **bez cykli ujemnych(o ujemnej sumie wag krawędzi)**
+w przypadku grafów skierowanych wymóg oznacza ż
