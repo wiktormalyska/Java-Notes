@@ -20,4 +20,8 @@ Jeżeli w wyniku jakiejś operacji na drzewie zostaje zachwiana własność drze
 Istnieję 4 rodzaje rotacji - dwie pojedyncze oraz dwie podwójne będące faktycznie złożeniem rotacji pojedynczych
 
 - Rotacja pojedyncza LL - PRAWO
-- Rotacja pojedyncza 
+- Rotacja pojedyncza RR - LEWO
+- Rotacja podwójna - RL - LEWO-PRAWO
+- Rotacja podwójna - LR - PRAWO-LEWO
+
+RR,LL,RL,LR określają sposób połącznenia węzłów przed wykonaniem rot
