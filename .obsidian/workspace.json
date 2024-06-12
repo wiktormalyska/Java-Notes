@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bez nazwy.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bez nazwy.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bez nazwy.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bez nazwy.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,10 +160,10 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "392edc78e833b773",
+  "active": "de5c793eabff11a9",
   "lastOpenFiles": [
     "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
-    "Bez nazwy.md",
+    "README.md",
     "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
     "Zdjęcia w notatkach/Pasted image 20240612220917.png",
     "Zdjęcia w notatkach/Pasted image 20240612220640.png",
