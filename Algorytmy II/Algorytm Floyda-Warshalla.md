@@ -10,4 +10,6 @@ potrafi obliczyć **najkrótsze odległości pomiędzy każdą parą wierzchołk
 - tablica $M$, gdzie $M[a][b]=wag(a,b)$, jeżeli krawędź $(a,b)$ należy do grafu, w przeciwnym wypadku wartość jest równa $∞$
 - Wyjście: tablica $M$, gdzie $M[a][b]$ jest najkrótszą odległością od wierzchołka $a$ do $b$
 - Dla każdego wierzchołka $v$ należącego do grafu potarzaj:
-	- dla każdej pary $(a,b)$
+	- dla każdej pary $(a,b)$ wykonaj:
+		- jeżeli $(M[a][b]>M[a][v]+M[v][b])$ to $M[a][b]=M[a][v]+M[v][b]$
+- 
