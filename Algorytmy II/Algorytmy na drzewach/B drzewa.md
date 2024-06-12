@@ -36,4 +36,6 @@ Takich poddrzew w węźle x jest x.n+1, podczas gry w [[Drzewo BST]] zawsze wybi
 #### Insert i Delete
 Insert i Delete jest w B-Drzewie jest bardziej skomplikowane niż w przypadku [[Drzewo BST]]
 Należy dbać aby zachowane były warunki na liczbę kluczy w węzłach i aby wszystkie liście były na tym samym poziomie.
-Potrzebne do tego są pomocniczne operacje
+Potrzebne do tego są pomocnicze operacje: dzielenie węzła ,przesuwanie klucza i łączenie węzłów
+
+#### Dzielenie węzła
