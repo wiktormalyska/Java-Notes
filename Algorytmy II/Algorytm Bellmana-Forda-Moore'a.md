@@ -6,4 +6,5 @@ Jest wolniejszy od algorytmu Dijkstry dla tego samego problemu, lecz jest bardzi
 - Wykorzystuje programowanie dynamiczne
 - Wyszukuje najkrótsze ścieżki z wybranego wierzchołka do wszystkich wierzchołków w grafie
 #### Działanie algorytmu
-- Wejście: graf $(V,E)
+- Wejście: graf $(V,E)$, gdzie $wag(a,b)$ to waga krawędzi $(a,b)$
+- Wyjście: tablic
