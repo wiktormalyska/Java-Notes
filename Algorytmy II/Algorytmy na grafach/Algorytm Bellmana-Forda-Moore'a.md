@@ -18,4 +18,4 @@ Jest wolniejszy od algorytmu Dijkstry dla tego samego problemu, lecz jest bardzi
 Algorytm działa poprawnie dla dowolnych grafów **bez cykli ujemnych(o ujemnej sumie wag krawędzi)**
 w przypadku grafów skierowanych wymóg oznacza grafy o nieujemnych wagach krawędzi
 
-Złożoność czasowa to $O(|V|*|E|)$ *(ilość wierzchołków razy ilość krawędzi)*
+Złożonoś: $O(|V|*|E|)$

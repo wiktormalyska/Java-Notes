@@ -11,6 +11,4 @@ Dopóki istnieje nieodwiedzony wierzchołek powtarzaj:
 ![[Pasted image 20240612172935.png]]
 ![[Pasted image 20240612173017.png]]
 
-Złożoność:
-- Czasowa: $O(E*\log V)$
-- Pamięciowa: $O(E+V*\log V)$
+Złożoność: $O(|V|^2), O(|E|\log |V|)$
