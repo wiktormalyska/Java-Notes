@@ -52,4 +52,6 @@ Kolizję nazywamy sytuację gdy dla różnych kluczy, funkcja h przyjmuje tę sa
 	- $h`$ istotnie różna od h, np. dla funkcji $h=k \mod m$ można wziąć funkcję $h`(k)=m-2-k \mod (m-2)$ gdzie $m$ jest liczbą pierwszą
 
 ##### Haszowanie zamknięte - DELETE(key)
-- usuwając jakiś element z tablicy nie usuwamy go fizycznie - ryzyko utraty możliwości odnalezienia w r
+- usuwając jakiś element z tablicy nie usuwamy go fizycznie - ryzyko utraty możliwości odnalezienia w tablicy innych elementów jeżeli zbyt wcześnie zakończymy rehaszowanie
+- zamiast tego - oznacz elementy jako usunięte
+	- 
