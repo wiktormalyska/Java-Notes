@@ -86,8 +86,9 @@ Kolizję nazywamy sytuację gdy dla różnych kluczy, funkcja h przyjmuje tę sa
 
 #### Zalety sposobów haszowania
 
-| haszowanie OTWARTE                       | haszowanie ZAMKNIĘTE                     |
-| ---------------------------------------- | ---------------------------------------- |
-| łatwa implementacja                      | oszczędność miejsca przy małych kluczach |
-| mała wrażliwość na przepełnienie tablicy | możliwość wykorzystania efektu cachy     |
-| brak problemu z usuniętymi elementami    |                                          |
+| haszowanie OTWARTE                       | haszowanie ZAMKNIĘTE                                    |
+| ---------------------------------------- | ------------------------------------------------------- |
+| łatwa implementacja                      | oszczędność miejsca przy małych kluczach                |
+| mała wrażliwość na przepełnienie tablicy | możliwość wykorzystania efektu cachu                    |
+| brak problemu z usuniętymi elementami    | mniejsza liczba operacji przy małym wypełnieniu tablicy |
+|                                          | łatwiejsze zrównoleglenie operacji                      |
