@@ -28,4 +28,8 @@ Jest to funkcja, która każdemu elementowi ze zbioru dopuszczalnych kluczy przy
 - Obliczona wartość funkcji haszującej daje indeks w tablicy, pod którym można odnaleźć poszukiwany element
 - Jeżeli okaże się że na pozycji o danym indeksie znajduje się kilka elementów zbioru $S$, mówimy o wystąpieniu zjawiska KOLIZJI
 
-Ko
+Kolizję nazywamy sytuację gdy dla różnych kluczy, funkcja h przyjmuje tę samą wartość
+
+#### Rozwiązywanie konfliktów
+- metoda łańcuchowa (haszowanie otwarte)
+- adr
