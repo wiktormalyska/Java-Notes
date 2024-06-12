@@ -25,7 +25,7 @@ Dobra funkcja haszująca powinna:
 - łatwo obliczalna (złożoność obliczeniowa)
 - losowa - każdy indeks powinien być jednakowo prawdopodobny jako wartość funkcji
 - bliskie klucze powinny dawać odległe wartości funkcji haszującej
-- gdyby to dane umieszczane w tablicy haszującej były losowe wówczas jako wy
+- gdyby to dane umieszczane w tablicy haszującej były losowe wówczas jako wynik funkcji haszującej można wziąć wybrane bity z klucza
 
 #### Tablica haszująca - Idea
 - n-elementowa tablica rekordów postaci (key, value)
@@ -75,3 +75,6 @@ Kolizję nazywamy sytuację gdy dla różnych kluczy, funkcja h przyjmuje tę sa
 - $i=0$
 - dopóki $(t[r(i,k))]!=NULL AND t[r(i,k)]!=DEL)$ - $i=i+1$
 - $t[r(i,k)]=k$
+
+#### Wypełnienie tablicy
+- stopień wypełnienia tablicy haszującej to stosunek liczby przechowywanych elementów do jej rozmiaru
