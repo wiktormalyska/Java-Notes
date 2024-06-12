@@ -46,4 +46,8 @@ Węzeł B staje się prawym synem C i przejmuje prawego syna węzła C w miejsce
 ![[Pasted image 20240612220917.png]]
 Rotacja RL jest połączeniem rotacji LL i rotacji RR
 Węzeł C zastępuje węzeł A
-Węzeł A staje się prawym dzieckiem węzła C i przejmuje prawego syna węzła C w miejsce swojego lewego 
+Węzeł A staje się prawym dzieckiem węzła C i przejmuje prawego syna węzła C w miejsce swojego lewego syna
+Węzeł B staje się lewym synem C i przejmuje lewego syna węzła C w miejsce swojego prawego syna
+
+##### Operacja Insert
+- 
