@@ -64,4 +64,4 @@ Węzeł B staje się lewym synem C i przejmuje lewego syna węzła C w miejsce s
 - Jeżeli różnica wynosi 2 lub -2 dokonaj rotacji i w zależności od przypadku zakończ działanie algorytmu lub kontynuuj aktualizację współczynników zrównoważenia BF
 - **Możliwe jest to że będzie więcej niż 1 rotacja**
 
-Złożoność operacji rotacji: $O()
+Złożoność operacji rotacji: $O(\log n)$

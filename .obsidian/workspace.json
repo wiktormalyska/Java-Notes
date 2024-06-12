@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md"
+                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md"
               }
             }
           }
@@ -149,12 +149,13 @@
   },
   "active": "8ce45ac4deb23200",
   "lastOpenFiles": [
+    "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
+    "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
     "Zdjęcia w notatkach/Pasted image 20240612220917.png",
     "Zdjęcia w notatkach/Pasted image 20240612220640.png",
     "Zdjęcia w notatkach/Pasted image 20240612220452.png",
     "Zdjęcia w notatkach/Pasted image 20240612220323.png",
     "Drzewo.md",
-    "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
     "Algorytmy II/Algorytmy na drzewach/Słownik.md",
     "Algorytmy II/Algorytmy na drzewach/Drzewo BST.md",
     "Zdjęcia w notatkach/Pasted image 20240612215416.png",
@@ -173,7 +174,6 @@
     "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
     "Algorytmy II/Algorytmy na grafach",
     "Zdjęcia w notatkach/Pasted image 20240612172935.png",
-    "Zdjęcia w notatkach/Pasted image 20240612173017.png",
     "Zdjęcia w notatkach",
     "Java Junior/UML.md",
     "Algorytmy II",
