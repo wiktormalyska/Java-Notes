@@ -14,4 +14,9 @@
 	- nieuporządkowane
 	- uporządkowane
 - Drzewa
-- 
+	- BST
+	- AVL, (czerwono-czarne)
+	- B-drzewa
+	- samoorganizujące drzewa BST $(*)$
+	- (a,b) -drzewa (w szczególności 2-3trees) $(*)$
+		- 
