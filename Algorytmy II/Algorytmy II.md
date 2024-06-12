@@ -1,6 +1,10 @@
 ## Spis treści:
 - ### Algorytmy na grafach
-	- #### Algo
+	- #### [[Sposoby Reprezentacji grafów]]
+	- #### [[Algorytm BFS]]
+	- #### [[Algorytm Dijkstry]]
+	- #### [[Algorytm Bellmana-Forda-Moore'a]]
+	- #### [[Algorytm Floyda-Warshalla]]
 - ### Algorytmy na drzewach
 	- #### [[Słownik]]
 	- #### [[Algorytm Prima]]

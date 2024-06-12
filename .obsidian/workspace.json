@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "be11121f06ff04fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytmy II.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytmy II.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytmy II.md"
+                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md"
               }
             }
           }
@@ -147,10 +160,10 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "8ce45ac4deb23200",
+  "active": "be11121f06ff04fc",
   "lastOpenFiles": [
-    "Algorytmy II/Algorytmy na drzewach/Słownik.md",
     "Algorytmy II/Algorytmy II.md",
+    "Algorytmy II/Algorytmy na drzewach/Słownik.md",
     "README.md",
     "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
     "Java Junior/Main.canvas",
