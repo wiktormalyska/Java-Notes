@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach BST/Słownik.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/Słownik.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach BST/Słownik.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/Drzewo BST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a274679246115cbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorytmy II/Algorytmy na drzewach/Bez nazwy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach BST/Słownik.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/Bez nazwy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach BST/Słownik.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/Bez nazwy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach BST/Słownik.md"
+                "file": "Algorytmy II/Algorytmy na drzewach/Bez nazwy.md"
               }
             }
           }
@@ -160,10 +172,11 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "2254814a8076ccfe",
+  "active": "a274679246115cbe",
   "lastOpenFiles": [
-    "Algorytmy II/Algorytmy na drzewach BST/Drzewo BST.md",
-    "Algorytmy II/Algorytmy na drzewach BST/Słownik.md",
+    "Algorytmy II/Algorytmy na drzewach/Słownik.md",
+    "Algorytmy II/Algorytmy na drzewach/Bez nazwy.md",
+    "Algorytmy II/Algorytmy na drzewach/Drzewo BST.md",
     "Zdjęcia w notatkach/Pasted image 20240612211822.png",
     "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm Bellmana-Forda-Moore'a.md",
