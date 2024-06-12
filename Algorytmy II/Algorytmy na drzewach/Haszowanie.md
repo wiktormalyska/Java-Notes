@@ -25,4 +25,7 @@ Jest to funkcja, która każdemu elementowi ze zbioru dopuszczalnych kluczy przy
 - wstawienie pary $(k,v)$ do tablicy haszującej to wykonanie przypisania $tab[(k)]=(k,v)$
 
 #### Konflikty
-- Obliczona wartość funkcji haszującej da
+- Obliczona wartość funkcji haszującej daje indeks w tablicy, pod którym można odnaleźć poszukiwany element
+- Jeżeli okaże się że na pozycji o danym indeksie znajduje się kilka elementów zbioru $S$, mówimy o wystąpieniu zjawiska KOLIZJI
+
+Ko
