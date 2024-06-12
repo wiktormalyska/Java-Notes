@@ -15,4 +15,9 @@ Każdy węzeł drzewa AVL posiada dodatkowe pole tzw. **współczynnik równowag
 
 
 #### Rotacje
-Jeżeli w wyniku jakiejś operacji na drzewie zostaje zachwiana własność drzewa AVL (BF=2 lub -2), przywracamy ją za pomocą
+Jeżeli w wyniku jakiejś operacji na drzewie zostaje zachwiana własność drzewa AVL (BF=2 lub -2), przywracamy ją za pomocą dodatkowych operacji zwanymi ROTACJAMI, które odpowiednio przemieszczają 3 węzły
+
+Istnieję 4 rodzaje rotacji - dwie pojedyncze oraz dwie podwójne będące faktycznie złożeniem rotacji pojedynczych
+
+- Rotacja pojedyncza LL - PRAWO
+- Rotacja pojedyncza 
