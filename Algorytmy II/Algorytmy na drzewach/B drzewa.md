@@ -30,4 +30,4 @@
 
 #### Wyszukiwania (search)
 Wyszukiwanie elementu odbywa się analogicznie do [[Drzewo BST]]
-Różnica polega na tym, że w każdym węźle B-Drzewa dokonuje się wyboru poddrzewa, w którym ma być kon
+Różnica polega na tym, że w każdym węźle B-Drzewa dokonuje się wyboru poddrzewa, w którym ma być kontynuowane wyszukiwanie, spośród poddrzew, których liczba zależy od liczby kluczy w tym węźle
