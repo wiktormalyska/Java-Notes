@@ -12,6 +12,6 @@ oznacza to że istnieje macierz 2 wymiarowa o wielkości grafu gdzie wypełnione
 ![[Pasted image 20240612171014.png]]
 
 ## Lista sąsiedztwa (incydencji)
-#### Graf $(V,R)$ przedstawiamy jako tasb
+#### Graf $(V,R)$ przedstawiamy jako tablicę list taką że lista $tab[a]$ zawiera sąsiadów wierzchołka $a$
 ## Lista krawędzi
 ## Macierz incydencji
