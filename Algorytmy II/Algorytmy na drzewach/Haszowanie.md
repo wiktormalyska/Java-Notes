@@ -78,3 +78,6 @@ Kolizję nazywamy sytuację gdy dla różnych kluczy, funkcja h przyjmuje tę sa
 
 #### Wypełnienie tablicy
 - stopień wypełnienia tablicy haszującej to stosunek liczby przechowywanych elementów do jej rozmiaru
+- optymalne wypełnienie dla haszowania zamkniętego, które jest szczególnie wrażliwe na wypełnienie tablicy, to 70%-80%
+- zwiększenie stopnia wypełnienia tablicy zwiększa czas wykonywania poszczególnych operacji
+- dla haszowania otwartego czas wy
