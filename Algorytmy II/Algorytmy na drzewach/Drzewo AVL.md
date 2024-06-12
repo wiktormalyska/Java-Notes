@@ -61,4 +61,7 @@ Węzeł B staje się lewym synem C i przejmuje lewego syna węzła C w miejsce s
 - Przy pomocy rotacji przywracaj zrównoważenie drzewa
 - Idź do usuniętego liścia ku górze aktualizując współczynniki zrównoważenia BF
 - Jeżeli różnica poddrzew wynosi 1 lub -1 skończ równoważenie
-- Jeżeli różnica wynosi 2 lub -2 dokonaj rotacji i w zależności od przypadku zakończ działanie algorytmu lub kontunuuj aktuali
+- Jeżeli różnica wynosi 2 lub -2 dokonaj rotacji i w zależności od przypadku zakończ działanie algorytmu lub kontynuuj aktualizację współczynników zrównoważenia BF
+- **Możliwe jest to że będzie więcej niż 1 rotacja**
+
+Złożoność operacji rotacji: $O()
