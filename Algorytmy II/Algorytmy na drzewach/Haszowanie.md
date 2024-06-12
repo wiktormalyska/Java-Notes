@@ -35,10 +35,13 @@ Kolizję nazywamy sytuację gdy dla różnych kluczy, funkcja h przyjmuje tę sa
 - adresowanie otwarte (haszowanie zamknięte)
 
 ##### Haszowanie otwarte (chaining)
-Elementy tablicy haszującej **tab** to listy wskaźnikowe przechowujące pary **(k,v)**.
-Element tablicy **tab** o indeksie $I$ zawiera listę przechowującą pary **(k,v)** takie, że $h(k)=I)$ a $h$ jest funkcją haszującą
+- Elementy tablicy haszującej **tab** to listy wskaźnikowe przechowujące pary **(k,v)**.
+- Element tablicy **tab** o indeksie $I$ zawiera listę przechowującą pary **(k,v)** takie, że $h(k)=I)$ a $h$ jest funkcją haszującą
 
-##### Haszowanie zamknięte (liniowe/kwadratowe)
+##### Haszowanie zamknięte - adresowanie liniowe/kwadratowe
 - m (ilość miejsc) $>=$ n (liczba elementów)
 - w przypadku kolizji dokonaj rehaszowania czyli oblicz/znajdź kolejne miejsce, gdzie potencjalnie można umieścić zapisywany rekord
-- ponawiaj próbe
+- ponawiaj próbę aż znajdziesz wolne miejsce
+
+#### Haszowanie zamknięte - podwójne (double hashing)
+- Zamiast przyrostu 1 (l)
