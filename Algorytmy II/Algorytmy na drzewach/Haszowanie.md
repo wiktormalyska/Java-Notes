@@ -60,4 +60,7 @@ Kolizję nazywamy sytuację gdy dla różnych kluczy, funkcja h przyjmuje tę sa
 ##### Haszowanie zamknięte - SEARCH(key), INSERT(key)
 ###### SEARCH(key) - próbuj dopóki nie znajdziesz k lub pustego miejsca
 - $i=0$
-- dopóki $(t[r(i,k)]!=k AND )
+- dopóki $(t[r(i,k)]!=k AND t[r(i,k)]!=NULL)$ - $i=i+1$
+- return $r(i,k)$
+
+###### INSERT(key) - próbuj dopóki nie znajdziesz pustego miejsca albo oznaczonego jako usunięty element
