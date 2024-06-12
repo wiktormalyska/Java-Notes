@@ -57,4 +57,5 @@ Węzeł B staje się lewym synem C i przejmuje lewego syna węzła C w miejsce s
 - Jeżeli gdzieś różnica wynosi 2 (BF=2 lub -2) to dokonaj jednej (pojedynczej lub podwójnej) rotacji i skończ równoważenie
 
 ##### Operacja Delete
-- Wykonuj Dele
+- Delete jest taki jak w [[Drzewo BST]]
+- 
