@@ -7,7 +7,7 @@ Dopóki istnieje nieodwiedzony wierzchołek powtarzaj:
 - dla każdego $q$ sąsiada $w$ wykonaj:
 	- jeżeli $d[q]>d[w]+wag(w,d)$ przypisz $d[q]=d[w]+wag(w,q)$
 Złożoność:
-- Czasowa: $O(E*\log_V)$
+- Czasowa: $O(E*\log V)$
 
 ![[Pasted image 20240612172935.png]]
 ![[Pasted image 20240612173017.png]]
