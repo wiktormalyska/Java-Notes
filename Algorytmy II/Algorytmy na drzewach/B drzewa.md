@@ -18,4 +18,6 @@
 
 ![[Pasted image 20240613000038.png]]
 
-
+#### t - Minimalny stopień B-Drzewa
+- Każdy węzeł różny od korzenia **musi** mieć co najmniej **t-1** kluczy
+- Każdy węzeł wewnętrzy różny od korzenia ma 
