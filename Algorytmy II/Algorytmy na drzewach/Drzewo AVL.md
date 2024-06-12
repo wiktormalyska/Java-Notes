@@ -44,3 +44,6 @@ Węzeł B staje się prawym synem C i przejmuje prawego syna węzła C w miejsce
 
 ##### Przykład Rotacji RL
 ![[Pasted image 20240612220917.png]]
+Rotacja RL jest połączeniem rotacji LL i rotacji RR
+Węzeł C zastępuje węzeł A
+Węzeł A staje się prawym dzieckiem węzła C i przejmuje prawego syna węzła C w miejsce swojego lewego 
