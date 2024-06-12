@@ -6,4 +6,7 @@
 - **prawy syn jest zawsze większy**
 
 #### Implementacja
- - można zaimplementować za pomocą struktury dowiązaniowej, gdzie 
+ - można zaimplementować za pomocą struktury dowiązaniowej, gdzie każdy węzeł jest obiektem klasy posiadającym następujące pola:
+	 - dane węzła (key i value)
+	 - wskaźnik do rodzica
+	 - wskaźnik do dzieci (left)
