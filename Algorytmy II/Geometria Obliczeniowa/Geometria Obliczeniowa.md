@@ -3,4 +3,7 @@ Dział algorytmiki zajmujący się algorytmami i strukturami danych pozwalający
 Najczęściej rozpatrywane są problemy na płaszczyźnie czy też przestrzeni
 - kiedy 2 odcinki się przecinają
 - kiedy punkt należy do wielokąta
-- jak znaleźć otoczkę wypun
+- jak znaleźć otoczkę wypukłą zbioru punktów na płaszczyźnie
+- jak stwierdzić czy istnieję przecinające się pary odcinków
+
+Szukanie przecinających się par odcink
