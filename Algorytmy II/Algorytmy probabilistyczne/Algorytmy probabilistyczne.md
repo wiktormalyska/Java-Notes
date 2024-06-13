@@ -22,4 +22,6 @@ Zachowanie algorytmu jest zmienną losową zależną od wartości losowych - mo�
 - Random Quick Sort - LV
 - znajdź  liczbę pierwszą w podanym przedziale - LV
 - policz pole figury $F$ - MC
-- problem najmniejszego rozcięcia ( zbiór rozspajający krawędzi grafu)
+- problem najmniejszego rozcięcia ( zbiór rozspajający krawędzi grafu ) - MC
+- problem długiej ścieżki (długości $k$)
+- problem ucztujących filozofów

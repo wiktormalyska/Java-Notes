@@ -1,0 +1,1 @@
+Algorytmy ewolucyjne nie gwarantują znalezienia 

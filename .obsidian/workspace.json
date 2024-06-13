@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
+                "file": "Algorytmy II/Algorytmy genetyczne/Algorytmy genetyczne.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
+                "file": "Algorytmy II/Algorytmy genetyczne/Algorytmy genetyczne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
+                "file": "Algorytmy II/Algorytmy genetyczne/Algorytmy genetyczne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md"
+                "file": "Algorytmy II/Algorytmy genetyczne/Algorytmy genetyczne.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "710a3afb772f637f",
   "lastOpenFiles": [
-    "Algorytmy II/Geometria Obliczeniowa/Algorytm Grahama.md",
     "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
+    "Algorytmy II/Algorytmy genetyczne/Algorytmy genetyczne.md",
+    "Algorytmy II/Algorytmy genetyczne",
+    "Algorytmy II/Geometria Obliczeniowa/Algorytm Grahama.md",
     "Algorytmy II/Algorytmy probabilistyczne",
     "Zdjęcia w notatkach/Pasted image 20240613100219.png",
     "Zdjęcia w notatkach/Pasted image 20240613100217.png",
@@ -193,8 +195,6 @@
     "Java Junior/UML.md",
     "Algorytmy II",
     "Java Junior",
-    "Java Junior/Spring/Spring Security/Spring Security.md",
-    "Java Junior/Spring/Spring.md",
-    "Java Junior/Spring/Spring Security"
+    "Java Junior/Spring/Spring Security/Spring Security.md"
   ]
 }
