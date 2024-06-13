@@ -16,4 +16,5 @@ Zachowanie algorytmu jest zmienną losową zależną od wartości losowych - mo�
 - Prostsze i szybsze od swoich deterministycznych wersji
 
 #### Typy algorytmów probabilistycznych
-- Monte Carlo - ograniczony czas działania, poprawne wyniki z dużym prawdopodo
+- Monte Carlo - ograniczony czas działania, poprawne wyniki z dużym prawdopodobieństwem, nie ma gwarancji ustalenia wyniku
+- Las Vegas - zawsze dobre wyniki, randomizacja służy poprawieniu szybkości działania, np. szukanie
