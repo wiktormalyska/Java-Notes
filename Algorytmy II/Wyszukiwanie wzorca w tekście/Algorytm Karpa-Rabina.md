@@ -6,4 +6,7 @@
 - $h(a[i...i+n-2])=(h(a[i-1...i+n-1])-ai−1r^(n−1) )r + ai+n)$ ← WAŻNA WŁASNOŚĆ
 
 ### Przykład funkcji h
-- Alfabet : 
+- Alfabet : $[A,B,C]$
+- Badany tekst: $CBBAB$
+- czyli $r=3$, cyfry posiadają wartości $A=0$,$B=1$,$C=2$
+- jako $q$ możemy przxu
