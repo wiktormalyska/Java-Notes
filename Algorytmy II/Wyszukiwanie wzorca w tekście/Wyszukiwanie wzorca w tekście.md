@@ -6,10 +6,11 @@ Jeśli dany łańcuch posiada prefikso-sufiks o długości $k$ to okresem nazywa
 ![[Pasted image 20240613091157.png]]
 
 W algorytmie naiwnym nie wykorzystujemy informacji uzyskanych podczas nieudanych prób dopasowania wzorca, a chcielibyśmy wiedzieć ile znaków tekstu można pominąć przy kolejnych porównaniach
+Rozważamy tablicę $P$ o rozmiarze wielkości wzorca, która w komórkach o indeksie $j$ będzie zawierała maksymalną długość prefikso-sufiksu dla pierwszych $j$ znaków wzorca
 
 #### Złożoność algorytmu
 - 2 pętle sugerują złożoność $O(|wzorzec|*|tekst|)$ ale
-- Algorytm wypełniania tablicy $P$ działa w $O(|wzorzec|)
+- Algorytm wypełniania tablicy $P$ działa w $O(|wzorzec|)$
 ## Algorytm Morrisa-Pratta
 ## Algorytm Knutha-Morrisa-Pratta
 ## Algorytm Karpa-Rabina
