@@ -28,3 +28,4 @@ czas działania algorytmu jest wrażliwy na rozmiar rozwiązania (liczbę przeci
 - założenia upraszczające - żaden odcinek nie jest pionowy i żadne 3 odcinki nie przecinają się w 1 miejscu
 
 #### Układ współrzędnych polarnych
+Układ współrzędnych na płaszczyźnie wyznaczony przez pewien punkt $O$ zwany biegunem oraz półprostą o początku w punkcie 
