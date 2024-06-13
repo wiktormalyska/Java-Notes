@@ -31,3 +31,4 @@ Algorytm RS - naiwny
 ![[Pasted image 20240613104436.png]]
 
 #### Twierdzenie o 4 kolorach
+Każdy graf planarny mo
