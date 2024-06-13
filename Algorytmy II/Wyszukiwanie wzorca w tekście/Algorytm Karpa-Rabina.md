@@ -18,4 +18,4 @@
 - oczekiwana $O(|wzorzec|+|tekst|)$
 - w praktyce $O(|tekst|)$
 
-Algorytm może mieć problem przy obliczaniu dużych wa
+Algorytm może mieć problem przy obliczaniu dużych wartości np. wszystkie znaki z alfabetu ASCII - rozwiązaniem jest algorytm szybkiego potęgowania modulo
