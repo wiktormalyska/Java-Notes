@@ -13,4 +13,8 @@ Najczęściej rozpatrywane są problemy na płaszczyźnie czy też przestrzeni
 
 #### Metoda zamiatania - przemyślenia
 - w praktyce większość odcinków nie ma przecięć lub jest ich niewielka liczba
-- czas działania algorytmu powinien zależeć nie tylko od liczby odcinków ale także od liczby punktów przecię
+- czas działania algorytmu powinien zależeć nie tylko od liczby odcinków ale także od liczby punktów przecięcia
+- należy uwzględnić geometrię układu
+
+Algorytm wrażliwy na wynik
+czas działania algorytmu jest wrażliwy na rozmiar rozwiązania (liczbę przecię
