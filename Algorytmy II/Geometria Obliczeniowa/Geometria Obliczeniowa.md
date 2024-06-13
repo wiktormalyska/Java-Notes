@@ -28,4 +28,9 @@ czas działania algorytmu jest wrażliwy na rozmiar rozwiązania (liczbę przeci
 - założenia upraszczające - żaden odcinek nie jest pionowy i żadne 3 odcinki nie przecinają się w 1 miejscu
 
 #### Układ współrzędnych polarnych
-Układ współrzędnych na płaszczyźnie wyznaczony przez pewien punkt $O$ zwany biegunem oraz półprostą o początku w punkcie 
+Układ współrzędnych na płaszczyźnie wyznaczony przez pewien punkt $O$ zwany biegunem oraz półprostą o początku w punkcie $O$ tzw. oś biegunowa
+
+Sortowanie względem współrzędnych biegunowych wektorów - promień i kąt nachylenia do osi OX
+
+#### Zamiatanie polarne
+- miotła to półprosta umocowana w biegunie, wy
