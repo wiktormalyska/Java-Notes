@@ -29,3 +29,7 @@ GENOTYP - punkt w przestrzeni kodów
 - ocena
 - sukcesja
 
+#### Strategia Ewolucyjna - Schemat Działania
+- Utwórz losową populację złożoną z N osobników
+- Wygeneruj M osobników potomnych dla losowo wybranych osobników poprzedniego pokolenia z zastosowaniem mutacji i krzyżowania
+- Spośród M+N oso
