@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md"
+                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "710a3afb772f637f",
   "lastOpenFiles": [
+    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
     "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
     "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
@@ -170,7 +171,6 @@
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
     "Algorytmy II/Geometria Obliczeniowa",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
-    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście",
     "Zdjęcia w notatkach/Pasted image 20240613091157.png",
     "Algorytmy II/Algorytmy na drzewach/Haszowanie.md",
