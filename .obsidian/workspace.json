@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md"
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "710a3afb772f637f",
   "lastOpenFiles": [
+    "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
@@ -156,7 +157,6 @@
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
     "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
     "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
-    "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
     "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
     "Algorytmy II/Kolorowanie/Kolorowanie.md",
     "Algorytmy II/Algorytmy Numeryczne",
