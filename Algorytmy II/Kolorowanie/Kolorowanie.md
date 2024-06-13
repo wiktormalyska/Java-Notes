@@ -22,3 +22,6 @@ Algorytm RS - naiwny
 	- for $k=2$ to $n$
 		- dla wierzchołka $vk$ użyj pierwszego dostępnego koloru
 
+#### Własności algorytmu RS
+- Algorytm statyczny (nie modyfikuje już raz przyznanego koloru)
+- złożoność #O(|V|+|E|)$
