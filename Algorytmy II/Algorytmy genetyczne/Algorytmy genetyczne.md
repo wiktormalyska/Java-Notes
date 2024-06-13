@@ -6,4 +6,8 @@ Stąd głównym zastosowaniem tych algorytmów powinny być problemy, dla który
 - Osobniki żyjące w środowisku rozmnażają się
 - Osobniki, które najlepiej rywalizują o zasobu mają największą szansę na rozmnożenie się
 - U potomstwa występują niewielkie losowe zmiany (mutacje), które mogą poprowadzić do powstania osobników lepiej dopasowanych do środowiska
-- W wyniku zmian mogą powstać osobniki słabo dopasowane do środo
+- W wyniku zmian mogą powstać osobniki słabo dopasowane do środowiska - małe szanse na przeżycie i potomstwo
+- Wraz z upływem czasu dobór naturalny sprawia, że przystosowanie osobników w populacji rośnie
+
+#### Algorytmy Ewolucyjne (EA)
+Są procedurami heuretycznego pr
