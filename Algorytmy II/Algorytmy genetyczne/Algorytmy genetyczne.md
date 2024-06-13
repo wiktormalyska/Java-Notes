@@ -14,4 +14,6 @@ Są procedurami heurystycznego przeszukiwania opartymi na mechanizmach doboru na
 Od klasycznych metod odróżnia je kilka istotnych cech:
 - Nie przetwarzają bezpośrednio parametrów zadania lecz ich zakodowaną postać
 - Nie wychodzą z pojedynczego punktu, lecz wykorzystuję pewną ich populację
-- Nie korzystają z pochodn
+- Nie korzystają z pochodnych ani innych informacji pomocniczych
+- Nie stosują reguł deterministycznych lecz probabilistyczne
+Algorytm ewolucyjne przetwarza populację **osobników**, z których każdy jest propozycją rozwiązania postawionego pr
