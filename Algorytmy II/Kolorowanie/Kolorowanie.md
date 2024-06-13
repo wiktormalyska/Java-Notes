@@ -10,4 +10,8 @@ Najmniejszą liczbę $k$ różnych kolorów potrzebnych do pokolorowania wierzch
 - jeżeli warunek spełniony - zakończ
 - w przeciwnym wypadku zwiększ liczbę kolorów i powtórz proceduję aż do znalezienia właściwej kombinacji
 
-- Sprawdza wszystkie możliwe układy kolorów wierzchołków i wybiera ten z najmniejszą liczbą użytych koloró
+- Sprawdza wszystkie możliwe układy kolorów wierzchołków i wybiera ten z najmniejszą liczbą użytych kolorów
+- złożoność wykładnicza - realnie możliwy do wykonania jedynie dla bardzo małych grafów - około 10 wierzchołków
+
+#### Zachłanny algorytm kolorowania wierzchołków grafu
+Algorytm RM 0 naiwny
