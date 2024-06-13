@@ -44,4 +44,8 @@ GENOTYP - punkt w przestrzeni kodów
 - Selekcja - populacja poddawana jest ocenie, najlepiej przystosowane osobniki mają największe szanse wylosowania do grupy rodziców, którzy wezmą udział w rekombinacji genów
 - Zastosowanie operatorów genetycznych
 	- Krzyżowanie - proces rekombinacji genów, prowadzący do powstania nowych chromosomów w wyniku wymiany fragmentów chromosomów rodziców
-	- Mutacja - proces zmiany pojedynczego genu w chromosomie, występuje na ogół z bardzo małym prawdo
+	- Mutacja - proces zmiany pojedynczego genu w chromosomie, występuje na ogół z bardzo małym prawdopodobieństwem np. 0,01
+- Selekcja przeżywających osobników i utworzenie populacji potomnej
+- Powrót do punktu 2
+
+![[Pasted image 20240613103430.png]]
