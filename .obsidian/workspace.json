@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
+                "file": "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
+                "file": "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
+                "file": "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md"
+                "file": "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md"
               }
             }
           }
@@ -149,9 +149,13 @@
   },
   "active": "710a3afb772f637f",
   "lastOpenFiles": [
-    "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
-    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
+    "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
+    "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
+    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
+    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
+    "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
+    "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
     "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
     "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
     "Algorytmy II/Kolorowanie/Kolorowanie.md",
@@ -161,7 +165,6 @@
     "Algorytmy II/Kolorowanie",
     "Zdjęcia w notatkach/Pasted image 20240613103430.png",
     "Zdjęcia w notatkach/Pasted image 20240613102919.png",
-    "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
     "Algorytmy II/Algorytmy genetyczne",
     "Algorytmy II/Geometria Obliczeniowa/Algorytm Grahama.md",
     "Algorytmy II/Algorytmy probabilistyczne",
@@ -169,9 +172,7 @@
     "Zdjęcia w notatkach/Pasted image 20240613100217.png",
     "Algorytmy II/Geometria Obliczeniowa/Geometria Obliczeniowa.md",
     "Zdjęcia w notatkach/Pasted image 20240613095555.png",
-    "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
     "Algorytmy II/Geometria Obliczeniowa",
-    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście",
     "Zdjęcia w notatkach/Pasted image 20240613091157.png",
     "Algorytmy II/Algorytmy na drzewach/Haszowanie.md",
@@ -193,7 +194,6 @@
     "Algorytmy II/Algorytmy na drzewach BST",
     "Algorytmy II/Algorytmy na drzewach/Algorytm Prima.md",
     "Algorytmy II/Algorytmy na drzewach",
-    "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
     "Algorytmy II/Algorytmy na grafach",
     "Zdjęcia w notatkach"
   ]
