@@ -24,4 +24,6 @@ Algorytm RS - naiwny
 
 #### Własności algorytmu RS
 - Algorytm statyczny (nie modyfikuje już raz przyznanego koloru)
-- złożoność #O(|V|+|E|)$
+- złożoność $O(|V|+|E|)$
+- najmniejszy dość trudny graf - taki dla którego algorytm może użyć więcej kolorów niż droga $P4$
+- nie istnieje graf trudny - najmniejszy graf dla któreg
