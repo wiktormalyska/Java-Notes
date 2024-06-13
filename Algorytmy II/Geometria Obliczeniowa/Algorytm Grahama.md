@@ -13,4 +13,5 @@ Algorytm rozwiązujący problem otoczki wypukłej powinien zwrócić jej wierzch
 #### Działanie algorytmu
 - Wybierz punkt $p0$ o najmniejszej wartości drugiej współrzędnej $(y)$ - jeżeli jest ich kilka, weź ten o najmniejszej wartości pierwszej współrzędnej $(x)$
 - wyznacz współrzędne biegunowa wszystkich punktów w biegunowym układzie współrzędnych o środku w punkcie $p0$, a następnie posortuj je malejąco względem amplitudy
-- Jeżeli są punkty o takiej samej amplitu
+- Jeżeli są punkty o takiej samej amplitudzie, pozostaw te o największym promieniu wodzącym, a pozostałe usuń
+![[Pasted image 20240613100219.png]]
