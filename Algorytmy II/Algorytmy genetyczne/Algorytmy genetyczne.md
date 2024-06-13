@@ -10,4 +10,5 @@ Stąd głównym zastosowaniem tych algorytmów powinny być problemy, dla który
 - Wraz z upływem czasu dobór naturalny sprawia, że przystosowanie osobników w populacji rośnie
 
 #### Algorytmy Ewolucyjne (EA)
-Są procedurami heuretycznego pr
+Są procedurami heurystycznego przeszukiwania opartymi na mechanizmach doboru naturalnego i dziedziczenia, wykorzystując zasadę przeżycia osobników najlepiej przystosowanych
+Od klasycznych metod odró
