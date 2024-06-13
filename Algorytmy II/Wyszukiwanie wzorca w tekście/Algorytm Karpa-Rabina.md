@@ -3,3 +3,4 @@
 - $q$ - największa liczba pierwsza taka, że $(r+1)*q$ nie przekracza zakresu
 - $h$ - funkcja haszująca, zwraca pewną wartość
 - $h(a[i..i+n-1])=(ai+n−1 + ai+n−2r + ai+n−3r^2 + ... + air^n−1) mod q$
+- $h(a[i...i+n-2])=(h(a[i-1...i+n-1])-ai−1r^(n−1) )r + ai+n)$ ← WAŻNA WŁASNOŚĆ
