@@ -7,4 +7,7 @@ Najmniejszą liczbę $k$ różnych kolorów potrzebnych do pokolorowania wierzch
 #### Algorytm dokładny kolorowania wierzchołków
 - koloruj wierzchołki kombinacjami 2 kolorów
 - przy każdej kombinacji sprawdź warunek pokolorowania
-- jeżel
+- jeżeli warunek spełniony - zakończ
+- w przeciwnym wypadku zwiększ liczbę kolorów i powtórz proceduję aż do znalezienia właściwej kombinacji
+
+- Sprawdza wszystkie możliwe układy kolorów wierzchołków i wybiera ten z najmniejszą liczbą użytych koloró
