@@ -10,3 +10,6 @@ Zachowanie algorytmu jest zmienną losową zależną od wartości losowych - mo�
 
 #### Po co losowość
 - Możemy zrezygnować z pełnej poprawności wyników na rzecz ich dużego prawdopodobieństwa
+- Zredukować przestrzeń przeglądanych rozwiązań na rzecz krótkiego oczekiwania na odpowiedź
+- Niedeterministyczne - wymagają przypadkowego wskazania potencjalnego rozwiązania
+- Stosunkowo odporne na dane zł
