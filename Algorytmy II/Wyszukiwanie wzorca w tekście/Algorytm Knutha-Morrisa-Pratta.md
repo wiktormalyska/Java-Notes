@@ -12,4 +12,5 @@ Aby uniknąć po przesunięciu wzorca natychmiastowej niezgodności musimy dodat
 - algorytm MP jest prostszy ze względu na łatwiejsze wypełnianie tablicy $P$
 
 - jeżeli drogą operacyjną jest dla nas sprawdzenie równoważności napisów - uniwersum możliwych napisów długości $s$ jest duże
-- to może możemy porów
+- to może możemy porównać funkcje haszujące dla tych stringów - rzutując je na obszar rozsądnego rozmiaru
+- potrzebujemy pewnej struktury wspomagającej te operacje aby uniknąć przesuwanie się po jednm
