@@ -13,4 +13,7 @@ Aby uniknąć po przesunięciu wzorca natychmiastowej niezgodności musimy dodat
 
 - jeżeli drogą operacyjną jest dla nas sprawdzenie równoważności napisów - uniwersum możliwych napisów długości $s$ jest duże
 - to może możemy porównać funkcje haszujące dla tych stringów - rzutując je na obszar rozsądnego rozmiaru
-- potrzebujemy pewnej struktury wspomagającej te operacje aby uniknąć przesuwanie się po jednm
+- potrzebujemy pewnej struktury wspomagającej te operacje aby uniknąć przesuwanie się po jednym znaku i obliczania za każdym razem funkcji haszującej (chcemy to robić w czasie stałym)
+
+### Rolling hash - haszowanie rekurencyjne
+- abstrakcyjna struktura danych $r$ przechowująca napis udo
