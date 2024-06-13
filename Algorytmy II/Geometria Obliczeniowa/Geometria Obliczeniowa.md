@@ -25,4 +25,6 @@ czas działania algorytmu jest wrażliwy na rozmiar rozwiązania (liczbę przeci
 	- przetworzony (na lewo od miotły)
 	- aktywny (na lewo od miotły)
 	- oczekujący (na prawo od miotły)
-- założenia upraszczające 
+- założenia upraszczające - żaden odcinek nie jest pionowy i żadne 3 odcinki nie przecinają się w 1 miejscu
+
+#### Układ współrzędnych polarnych
