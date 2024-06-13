@@ -11,4 +11,6 @@ Najczęściej rozpatrywane są problemy na płaszczyźnie czy też przestrzeni
 - problem - nakładając na siebie 2 mapy - dróg i rzek znajdź wszystkie przecięcia par odcinków
 - rozwiązanie siłowe - weź każdą parę odcinków, oblicz czy się nie przecinają, jeśli tak to podaj ich punkt przecięcia - $O(n^2)$
 
-#### Metoda zamiatania - przemyśleni
+#### Metoda zamiatania - przemyślenia
+- w praktyce większość odcinków nie ma przecięć lub jest ich niewielka liczba
+- czas działania algorytmu powinien zależeć nie tylko od liczby odcinków ale także od liczby punktów przecię
