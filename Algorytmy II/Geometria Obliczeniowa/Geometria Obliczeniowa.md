@@ -33,4 +33,8 @@ Układ współrzędnych na płaszczyźnie wyznaczony przez pewien punkt $O$ zwan
 Sortowanie względem współrzędnych biegunowych wektorów - promień i kąt nachylenia do osi OX
 
 #### Zamiatanie polarne
-- miotła to półprosta umocowana w biegunie, wy
+- miotła to półprosta umocowana w biegunie, wykonująca wokół niego obrót
+- czyli punkty przeglądane są w kolejności wyznaczonej przez ich współrzędne w biegunowym układzie współrzędnych
+
+#### Otoczka wypukła
+Dla zbioru
