@@ -14,4 +14,9 @@ Metody numeryczne zajmują się konstruowaniem algorytmów, których obiektami s
 Załóżmy, że wartość $x$ jest reprezentowana jako $x〜$ Wówczas
 - Błąd bezwzględny reprezentacji jest równy $x〜-x$
 - Błąd względny (%) reprezentacji jest równy $\frac{x〜-x}{x}$$*100\%,x≠0$
-- Wartość $ϵ=max|
+- Wartość $ϵ=max|x-x〜|$ nazywamy **maksymalnym błędem bezwzględnym** lub **błędem granicznym**
+
+- obliczanie całek
+- obliczanie wartości wielomianu
+- przybliżanie miejsc zerowych
+- p
