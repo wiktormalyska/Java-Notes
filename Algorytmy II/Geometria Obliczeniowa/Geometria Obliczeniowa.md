@@ -17,4 +17,7 @@ Najczęściej rozpatrywane są problemy na płaszczyźnie czy też przestrzeni
 - należy uwzględnić geometrię układu
 
 Algorytm wrażliwy na wynik
-czas działania algorytmu jest wrażliwy na rozmiar rozwiązania (liczbę przecię
+czas działania algorytmu jest wrażliwy na rozmiar rozwiązania (liczbę przecięć)
+
+- Przeszukujemy płaszczyznę na której wyznaczony jest zbiór punktów od strony lewej do prawej - z wzór pionowej miotły która przesuwa się po płaszczyźnie
+- s
