@@ -16,4 +16,7 @@ Aby uniknąć po przesunięciu wzorca natychmiastowej niezgodności musimy dodat
 - potrzebujemy pewnej struktury wspomagającej te operacje aby uniknąć przesuwanie się po jednym znaku i obliczania za każdym razem funkcji haszującej (chcemy to robić w czasie stałym)
 
 ### Rolling hash - haszowanie rekurencyjne
-- abstrakcyjna struktura danych $r$ przechowująca napis udo
+- abstrakcyjna struktura danych $r$ przechowująca napis udostępnia operacje
+	- r.append(c) - dołącz c do końca napisu
+	- r.skip(d) - usuń pierwszy znak z napisu d
+	- r() - zwróć wartość funkcji haszującej $h(x)$ dla aktu
