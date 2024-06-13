@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/Wyszukiwanie wzorca w tekście.md",
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/Wyszukiwanie wzorca w tekście.md",
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/Wyszukiwanie wzorca w tekście.md",
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/Wyszukiwanie wzorca w tekście.md"
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md"
               }
             }
           }
@@ -147,10 +147,12 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "6ab0d021a3b026fa",
+  "active": "de5c793eabff11a9",
   "lastOpenFiles": [
+    "Algorytmy II/Wyszukiwanie wzorca w tekście",
+    "Zdjęcia w notatkach/Pasted image 20240613091157.png",
     "Algorytmy II/Algorytmy na drzewach/Haszowanie.md",
-    "Algorytmy II/Algorytmy na drzewach/Wyszukiwanie wzorca w tekście.md",
+    "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
     "Zdjęcia w notatkach/Pasted image 20240613004102.png",
     "Zdjęcia w notatkach/Pasted image 20240613004100.png",
     "Algorytmy II/Algorytmy II.md",
@@ -168,7 +170,6 @@
     "Algorytmy II/Algorytmy na drzewach/Słownik.md",
     "Java Junior/Main.canvas",
     "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
-    "Zdjęcia w notatkach/Pasted image 20240612220917.png",
     "Drzewo.md",
     "Algorytmy II/Algorytmy na drzewach/Drzewo BST.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",
@@ -191,7 +192,6 @@
     "Java Junior/Spring/Spring Boot/Spring Messaging.md",
     "Java Junior/Spring/Spring Boot/Spring Cloud.md",
     "Java Junior/Spring/Spring Boot/Spring Boot.md",
-    "Java Junior/Spring/Spring Boot/Spring AOP.md",
     "Java Junior/Spring/Spring Security",
     "Java Junior/Podstawy Informatyki/Koncepcja Messagingu",
     "Java Junior/Podstawy Informatyki/Podstawy Informatyki",
