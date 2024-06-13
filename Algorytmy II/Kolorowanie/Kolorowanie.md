@@ -14,4 +14,7 @@ Najmniejszą liczbę $k$ różnych kolorów potrzebnych do pokolorowania wierzch
 - złożoność wykładnicza - realnie możliwy do wykonania jedynie dla bardzo małych grafów - około 10 wierzchołków
 
 #### Zachłanny algorytm kolorowania wierzchołków grafu
-Algorytm RM 0 naiwny
+Algorytm RS - naiwny
+- Wejście: graf prosty $G$ o $n$ wierzchołkach
+- Wyjście: pokolorowany graf $G$ - do wierzchołków przypisano liczbę oznaczającą kolor
+- 
