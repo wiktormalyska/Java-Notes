@@ -32,4 +32,10 @@ GENOTYP - punkt w przestrzeni kodów
 #### Strategia Ewolucyjna - Schemat Działania
 - Utwórz losową populację złożoną z N osobników
 - Wygeneruj M osobników potomnych dla losowo wybranych osobników poprzedniego pokolenia z zastosowaniem mutacji i krzyżowania
-- Spośród M+N oso
+- Spośród M+N osobników wybierz N najlepszych względem funkcji dopasowania
+- Wróć do punktu 2
+
+![[Pasted image 20240613102919.png]]
+
+#### Algorytm Genetyczny - Schemat Działania
+- Inicjacja pętli ewolucji - utworzenie pop
