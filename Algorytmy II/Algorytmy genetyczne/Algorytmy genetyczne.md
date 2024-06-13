@@ -21,4 +21,6 @@ W środowisku każdemu osobnikowi jest przyporządkowana wartość liczbowa, okr
 Każdy osobnik jest wyposażony w informację stanowiącą jego **genotyp**, będący przepisem na utworzenie **fenotypu** - zestawu cech określanych przez genotyp, podlegających ocenie środowiska.
 Mówi się o kodowaniu fenotypu przez genotyp
 FENOTYP - punkt w przestrzeni rozwiązań
-GENOTYP - punkt 
+GENOTYP - punkt w przestrzeni kodów
+
+Środowisko można opisać **funkcją przystosowania**, za pomocą której osobnikowi przypisuje się przystosowanie na podstawie jego fenotypu. Może ona być stacjonarna lub zmienna w czasie, moż
