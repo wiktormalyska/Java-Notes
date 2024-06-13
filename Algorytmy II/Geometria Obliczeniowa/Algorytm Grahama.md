@@ -11,4 +11,5 @@ Algorytm rozwiązujący problem otoczki wypukłej powinien zwrócić jej wierzch
 - analizując kolejne punkty sprawdzaj czy leżą na prawo czy na lewo od ostatnio wyznaczonej krawędzi
 
 #### Działanie algorytmu
-- Wybierz 
+- Wybierz punkt $p0$ o najmniejszej wartości drugiej współrzędnej $(y)$ - jeżeli jest ich kilka, weź ten o najmniejszej wartości pierwszej współrzędnej $(x)$
+- w
