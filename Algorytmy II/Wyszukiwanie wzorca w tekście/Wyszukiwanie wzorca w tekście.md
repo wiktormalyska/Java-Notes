@@ -15,5 +15,5 @@ Rozważamy tablicę $P$ o rozmiarze wielkości wzorca, która w komórkach o ind
 - Jeżeli zostaje stwierdzona niezgodność ze wzorcem i zostaje zwiększone i co najmniej 1
 - złożoność algorytmu MP jest rzędu $O(|tekst|)$
 ## Algorytm Morrisa-Pratta
-## Algorytm Knutha-Morrisa-Pratta
+## [[Algorytm Knutha-Morrisa-Pratta]]
 ## Algorytm Karpa-Rabina

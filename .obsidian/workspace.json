@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md"
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "6ab0d021a3b026fa",
   "lastOpenFiles": [
-    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
+    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście",
     "Zdjęcia w notatkach/Pasted image 20240613091157.png",
     "Algorytmy II/Algorytmy na drzewach/Haszowanie.md",
