@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ab0d021a3b026fa",
+            "id": "710a3afb772f637f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,7 +147,7 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "6ab0d021a3b026fa",
+  "active": "710a3afb772f637f",
   "lastOpenFiles": [
     "Algorytmy II/Geometria Obliczeniowa/Geometria Obliczeniowa.md",
     "Algorytmy II/Geometria Obliczeniowa/Otoczka wypukła.md",
