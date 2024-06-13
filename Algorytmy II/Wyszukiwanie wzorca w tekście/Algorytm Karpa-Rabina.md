@@ -9,4 +9,5 @@
 - Alfabet : $[A,B,C]$
 - Badany tekst: $CBBAB$
 - czyli $r=3$, cyfry posiadają wartości $A=0$,$B=1$,$C=2$
-- jako $q$ możemy przxu
+- jako $q$ możemy przyjąć np.23
+- $h(CBBAB) = (1* 3^0 + 0*3^1 + 1*3^2 + 1*3^3)$
