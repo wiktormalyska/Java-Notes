@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
+                "file": "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
+                "file": "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
+                "file": "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md"
+                "file": "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "710a3afb772f637f",
   "lastOpenFiles": [
-    "Algorytmy II/Kolorowanie/Kolorowanie.md",
+    "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
     "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
+    "Algorytmy II/Kolorowanie/Kolorowanie.md",
     "Algorytmy II/Algorytmy Numeryczne",
     "Zdjęcia w notatkach/Pasted image 20240613104436.png",
     "Algorytmy II/Algorytmy genetyczne/Algorytmy genetyczne.md",
@@ -190,7 +191,6 @@
     "Algorytmy II/Algorytmy na drzewach/Algorytm Kruskala.md",
     "Algorytmy II/Algorytmy na drzewach BST",
     "Algorytmy II/Algorytmy na drzewach/Algorytm Prima.md",
-    "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
     "Algorytmy II/Algorytmy na drzewach",
     "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
