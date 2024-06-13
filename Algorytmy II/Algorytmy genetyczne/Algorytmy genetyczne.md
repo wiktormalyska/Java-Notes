@@ -1,2 +1,2 @@
 Algorytmy ewolucyjne nie gwarantują znalezienia optimum globalnego, jednak generalnie zapewniają znalezienie rozwiązania wystarczająco dobrego w akceptowalnym przedziale czasu
-Stąd g
+Stąd głównym zastosowaniem tych algorytmów powinny być problemy, dla których nie istnieję techniki specjalizowane. Nawet jeśli techniki takie istnieją, można osiągnąć poprawę ich działania poprzez ich połączenie z algorytmami ewo
