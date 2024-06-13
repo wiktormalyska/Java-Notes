@@ -30,4 +30,4 @@ Algorytm RS - naiwny
 
 ![[Pasted image 20240613104436.png]]
 
-#### Twierdzenie o 4 kolora
+#### Twierdzenie o 4 kolorach
