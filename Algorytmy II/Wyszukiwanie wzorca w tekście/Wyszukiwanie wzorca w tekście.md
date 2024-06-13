@@ -5,7 +5,9 @@ Jeśli dany łańcuch posiada prefikso-sufiks o długości $k$ to okresem nazywa
 
 ![[Pasted image 20240613091157.png]]
 
-W algorytmie naiwnym n
+W algorytmie naiwnym nie wykorzystujemy informacji uzyskanych podczas nieudanych prób dopasowania wzorca, a chcielibyśmy wiedzieć ile znaków tekstu można pominąć przy kolejnych porównaniach
+
+$
 ## Algorytm Morrisa-Pratta
 ## Algorytm Knutha-Morrisa-Pratta
 ## Algorytm Karpa-Rabina
