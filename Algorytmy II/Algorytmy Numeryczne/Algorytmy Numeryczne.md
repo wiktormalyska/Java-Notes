@@ -11,5 +11,7 @@ Metody numeryczne zajmują się konstruowaniem algorytmów, których obiektami s
 - Błędy programisty
 
 #### Błędy względne i bezwzględne
-Załóżmy, że wartość $x$ jest reprezentowana jakol $x^~$
+Załóżmy, że wartość $x$ jest reprezentowana jako $x^~$ Wówczas
+- Błąd bezwzględny reprezentacji jest równy $-x$
+
 
