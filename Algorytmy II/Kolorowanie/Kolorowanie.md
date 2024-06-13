@@ -26,4 +26,8 @@ Algorytm RS - naiwny
 - Algorytm statyczny (nie modyfikuje już raz przyznanego koloru)
 - złożoność $O(|V|+|E|)$
 - najmniejszy dość trudny graf - taki dla którego algorytm może użyć więcej kolorów niż droga $P4$
-- nie istnieje graf trudny - najmniejszy graf dla któreg
+- nie istnieje graf trudny - najmniejszy graf dla którego algorytm MUSI użyć więcej kolorów niż jego liczba chromatyczna
+
+![[Pasted image 20240613104436.png]]
+
+#### Twierdzenie o 4 kolora
