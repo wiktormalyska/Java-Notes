@@ -5,4 +5,7 @@ Tablicę $P`$ definiujemy jako
 - jeżeli dla danego i takiego prefikso-sufiksu nie ma to $P`[i]=-1$
 - dla $i=|wzorzec|$ to $P`[i]=P[i]$
 
-Aby uniknąć po przesunięciu wzorca natychmiastowej niezgodności musimy dodatkowo zażądać, aby znak le
+Aby uniknąć po przesunięciu wzorca natychmiastowej niezgodności musimy dodatkowo zażądać, aby znak leżący tuż za prefikso-sufiksem prefiksu we wzorcu był różny od znaku za wzorcem
+
+Złożoność obu algorytmów jest taka sama
+Dokładana liczba poró
