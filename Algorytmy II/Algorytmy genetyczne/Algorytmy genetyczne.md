@@ -38,4 +38,5 @@ GENOTYP - punkt w przestrzeni kodów
 ![[Pasted image 20240613102919.png]]
 
 #### Algorytm Genetyczny - Schemat Działania
-- Inicjacja pętli ewolucji - utworzenie pop
+- Inicjacja pętli ewolucji - utworzenie poprzez wybór lub wylosowanie populacji bazowej z opcjonalnym uwzględnieniem wpływu środowiska złożonej z osobników reprezentowanych przez ciągi binarne określonej długości
+- Ocena przys
