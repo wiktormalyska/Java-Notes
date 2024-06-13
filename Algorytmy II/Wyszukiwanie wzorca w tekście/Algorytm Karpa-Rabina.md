@@ -15,4 +15,7 @@
 
 #### Złożoność
 - pesymistyczna $O(|wzorzec|*|tekst|)$
-- oczekiwana
+- oczekiwana $O(|wzorzec|+|tekst|)$
+- w praktyce $O(|tekst|)$
+
+Algorytm może mieć problem przy obliczaniu dużych wa
