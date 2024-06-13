@@ -16,4 +16,5 @@ Od klasycznych metod odróżnia je kilka istotnych cech:
 - Nie wychodzą z pojedynczego punktu, lecz wykorzystuję pewną ich populację
 - Nie korzystają z pochodnych ani innych informacji pomocniczych
 - Nie stosują reguł deterministycznych lecz probabilistyczne
-Algorytm ewolucyjne przetwarza populację **osobników**, z których każdy jest propozycją rozwiązania postawionego pr
+Algorytm ewolucyjne przetwarza populację **osobników**, z których każdy jest propozycją rozwiązania postawionego problemu. Działa on w **środowisku**, które można zdefiniować na podstawie problemu rozwiązywanego przez algorytm
+W środowisku każdemu osobnikowi jest przyporządkowana wartość liczbowa, określająca jakość reprezentowan
