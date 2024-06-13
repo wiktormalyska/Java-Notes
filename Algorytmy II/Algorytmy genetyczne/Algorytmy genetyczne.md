@@ -39,4 +39,6 @@ GENOTYP - punkt w przestrzeni kodów
 
 #### Algorytm Genetyczny - Schemat Działania
 - Inicjacja pętli ewolucji - utworzenie poprzez wybór lub wylosowanie populacji bazowej z opcjonalnym uwzględnieniem wpływu środowiska złożonej z osobników reprezentowanych przez ciągi binarne określonej długości
-- Ocena przys
+- Ocena przystosowania osobników na podstawie obliczonej funkcji przystosowania
+- Sprawdzenie warunku zatrzymania na podstawie jakości przystosowania najlepszego osobnika w populacji lub stwierdzenia stagnacji algorytmu
+- Selekcja - 
