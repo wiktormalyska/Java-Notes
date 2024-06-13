@@ -11,4 +11,7 @@ Stąd głównym zastosowaniem tych algorytmów powinny być problemy, dla który
 
 #### Algorytmy Ewolucyjne (EA)
 Są procedurami heurystycznego przeszukiwania opartymi na mechanizmach doboru naturalnego i dziedziczenia, wykorzystując zasadę przeżycia osobników najlepiej przystosowanych
-Od klasycznych metod odró
+Od klasycznych metod odróżnia je kilka istotnych cech:
+- Nie przetwarzają bezpośrednio parametrów zadania lecz ich zakodowaną postać
+- Nie wychodzą z pojedynczego punktu, lecz wykorzystuję pewną ich populację
+- Nie korzystają z pochodn
