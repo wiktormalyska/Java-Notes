@@ -17,4 +17,8 @@ Najmniejszą liczbę $k$ różnych kolorów potrzebnych do pokolorowania wierzch
 Algorytm RS - naiwny
 - Wejście: graf prosty $G$ o $n$ wierzchołkach
 - Wyjście: pokolorowany graf $G$ - do wierzchołków przypisano liczbę oznaczającą kolor
-- 
+- $ZAKG(G)$
+	- przypisz kolor 1 do wierzchołka $v1$
+	- for $k=2$ to $n$
+		- dla wierzchołka $vk$ użyj pierwszego dostępnego koloru
+
