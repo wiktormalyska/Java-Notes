@@ -19,4 +19,5 @@ Aby uniknąć po przesunięciu wzorca natychmiastowej niezgodności musimy dodat
 - abstrakcyjna struktura danych $r$ przechowująca napis udostępnia operacje
 	- r.append(c) - dołącz c do końca napisu
 	- r.skip(d) - usuń pierwszy znak z napisu d
-	- r() - zwróć wartość funkcji haszującej $h(x)$ dla aktu
+	- r() - zwróć wartość funkcji haszującej $h(x)$ dla aktualnego napisu
+	- kluczowy jest szybki sposób obliczenia wartości $h(x)$ wykorzystując starą wartość funkcji, oraz usunięty i dodany znak do $x$
