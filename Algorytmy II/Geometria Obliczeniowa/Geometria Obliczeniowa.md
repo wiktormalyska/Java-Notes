@@ -37,4 +37,4 @@ Sortowanie względem współrzędnych biegunowych wektorów - promień i kąt na
 - czyli punkty przeglądane są w kolejności wyznaczonej przez ich współrzędne w biegunowym układzie współrzędnych
 
 #### Otoczka wypukła
-Dla zbioru
+Dla zbioru $S$ n-punktów określonych przez ich współrzędne kartezjańskie, **WYPUKŁĄ OTOCZKĄ** nazywamy najmniejszy wielokąt wypukły zawierający wszystkie punkty ze zbioru $S$
