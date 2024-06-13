@@ -13,4 +13,4 @@ Metody numeryczne zajmują się konstruowaniem algorytmów, których obiektami s
 #### Błędy względne i bezwzględne
 Załóżmy, że wartość $x$ jest reprezentowana jako $x〜$ Wówczas
 - Błąd bezwzględny reprezentacji jest równy $x〜-x$
-- Błąd względny (%) reprezentacji jest równy $(x〜-x)/x * 100%
+- Błąd względny (%) reprezentacji jest równy $\frac{x〜-x}{x}*100%$
