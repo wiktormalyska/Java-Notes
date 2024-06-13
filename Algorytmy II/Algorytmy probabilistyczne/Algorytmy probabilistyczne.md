@@ -9,4 +9,4 @@ Zachowanie algorytmu jest zmienną losową zależną od wartości losowych - mo�
 - Jeśli uzyskane rozwiązanie nie jest akceptowalne, przejdź do etapu pierwszego
 
 #### Po co losowość
-- Możemy zrezygnować z pełnej poprawności wyników na rzecz 
+- Możemy zrezygnować z pełnej poprawności wyników na rzecz ich dużego prawdopodobieństwa
