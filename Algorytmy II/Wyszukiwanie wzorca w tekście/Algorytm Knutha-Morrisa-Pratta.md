@@ -7,5 +7,6 @@ Tablicę $P`$ definiujemy jako
 
 Aby uniknąć po przesunięciu wzorca natychmiastowej niezgodności musimy dodatkowo zażądać, aby znak leżący tuż za prefikso-sufiksem prefiksu we wzorcu był różny od znaku za wzorcem
 
-Złożoność obu algorytmów jest taka sama
-Dokładana liczba poró
+- Złożoność obu algorytmów jest taka sama
+- Dokładana liczba porównań symboli we właściwe części KMP nie może być mniejsza niż w algorytmie MP
+- algorytm MP jest prostszy ze względu na łatwiejsze wypełnio
