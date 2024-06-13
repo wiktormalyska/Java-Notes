@@ -6,4 +6,6 @@ Najczęściej rozpatrywane są problemy na płaszczyźnie czy też przestrzeni
 - jak znaleźć otoczkę wypukłą zbioru punktów na płaszczyźnie
 - jak stwierdzić czy istnieję przecinające się pary odcinków
 
-Szukanie przecinających się par odcink
+Szukanie przecinających się par odcinków - czy jakakolwiek para odcinków w zbiorze się przecina
+- dane - odcinki reprezentują krzywą na mapie - drogę lub rzekę
+- problem - nakładając na siebie 2 mapy - dróg i rzek znajdź wszystkie przeci
