@@ -4,4 +4,6 @@ Stąd głównym zastosowaniem tych algorytmów powinny być problemy, dla który
 #### Ewolucja Darwinowska - survival of the fittest
 - Każde środowisko ma ograniczone zasoby
 - Osobniki żyjące w środowisku rozmnażają się
-- Osobniki, które najlepiej rywalizują o zasobu mają największą s
+- Osobniki, które najlepiej rywalizują o zasobu mają największą szansę na rozmnożenie się
+- U potomstwa występują niewielkie losowe zmiany (mutacje), które mogą poprowadzić do powstania osobników lepiej dopasowanych do środowiska
+- W wyniku zmian mogą powstać osobniki słabo dopasowane do środo
