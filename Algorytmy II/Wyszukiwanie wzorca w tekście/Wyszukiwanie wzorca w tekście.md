@@ -11,6 +11,9 @@ Rozważamy tablicę $P$ o rozmiarze wielkości wzorca, która w komórkach o ind
 #### Złożoność algorytmu
 - 2 pętle sugerują złożoność $O(|wzorzec|*|tekst|)$ ale
 - Algorytm wypełniania tablicy $P$ działa w $O(|wzorzec|)$
+- Każdy znak tekstu który znajduje swój odpowiednik we wzorcu nie jest więcej porównywany
+- Jeżeli zostaje stwierdzona niezgodność ze wzorcem i zostaje zwiększone i co najmniej 1
+- 
 ## Algorytm Morrisa-Pratta
 ## Algorytm Knutha-Morrisa-Pratta
 ## Algorytm Karpa-Rabina
