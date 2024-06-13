@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Kolorowanie/Kolorowanie.md",
+                "file": "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Kolorowanie/Kolorowanie.md",
+                "file": "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Kolorowanie/Kolorowanie.md",
+                "file": "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Kolorowanie/Kolorowanie.md"
+                "file": "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   },
   "active": "710a3afb772f637f",
   "lastOpenFiles": [
+    "Algorytmy II/Kolorowanie/Kolorowanie.md",
+    "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
+    "Algorytmy II/Algorytmy Numeryczne",
     "Zdjęcia w notatkach/Pasted image 20240613104436.png",
     "Algorytmy II/Algorytmy genetyczne/Algorytmy genetyczne.md",
-    "Algorytmy II/Kolorowanie/Kolorowanie.md",
     "Algorytmy II/Kolorowanie",
     "Zdjęcia w notatkach/Pasted image 20240613103430.png",
     "Zdjęcia w notatkach/Pasted image 20240613102919.png",
@@ -178,7 +180,6 @@
     "Java Junior/Podstawy Informatyki/Podstawy Informatyki/Algorytmy.md",
     "Java Junior/README.md",
     "Zdjęcia w notatkach/Pasted image 20240613002302.png",
-    "Zdjęcia w notatkach/Pasted image 20240613002243.png",
     "Algorytmy II/Algorytmy na drzewach/Słownik.md",
     "Java Junior/Main.canvas",
     "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
@@ -194,7 +195,6 @@
     "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
     "Algorytmy II/Algorytmy na grafach",
-    "Zdjęcia w notatkach",
-    "Algorytmy II"
+    "Zdjęcia w notatkach"
   ]
 }
