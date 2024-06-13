@@ -16,4 +16,4 @@ Rozważamy tablicę $P$ o rozmiarze wielkości wzorca, która w komórkach o ind
 - złożoność algorytmu MP jest rzędu $O(|tekst|)$
 ## Algorytm Morrisa-Pratta
 ## [[Algorytm Knutha-Morrisa-Pratta]]
-## Algorytm Karpa-Rabina
+## [[Algorytm Karpa-Rabina]]

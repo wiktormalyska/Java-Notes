@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md"
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md"
               }
             }
           }
@@ -147,9 +147,10 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "6ab0d021a3b026fa",
+  "active": "de5c793eabff11a9",
   "lastOpenFiles": [
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
+    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście",
     "Zdjęcia w notatkach/Pasted image 20240613091157.png",
@@ -192,7 +193,6 @@
     "Java Junior/Spring/Spring Security/Rest API i Spring Security (JWT).md",
     "Java Junior/Spring/Spring Boot/Spring Messaging.md",
     "Java Junior/Spring/Spring Boot/Spring Cloud.md",
-    "Java Junior/Spring/Spring Boot/Spring Boot.md",
     "Java Junior/Spring/Spring Security",
     "Java Junior/Podstawy Informatyki/Koncepcja Messagingu",
     "Java Junior/Podstawy Informatyki/Podstawy Informatyki"
