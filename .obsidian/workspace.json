@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
+                "file": "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
+                "file": "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
+                "file": "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/B drzewa.md"
+                "file": "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "710a3afb772f637f",
   "lastOpenFiles": [
+    "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
     "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
@@ -177,7 +178,6 @@
     "Zdjęcia w notatkach/Pasted image 20240613004102.png",
     "Zdjęcia w notatkach/Pasted image 20240613004100.png",
     "Algorytmy II/Algorytmy II.md",
-    "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
     "README.md",
     "Java Junior/Podstawy Informatyki/Podstawy Informatyki/Algorytmy.md",
     "Java Junior/README.md",
