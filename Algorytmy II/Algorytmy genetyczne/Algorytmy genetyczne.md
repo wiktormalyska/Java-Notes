@@ -43,4 +43,5 @@ GENOTYP - punkt w przestrzeni kodów
 - Sprawdzenie warunku zatrzymania na podstawie jakości przystosowania najlepszego osobnika w populacji lub stwierdzenia stagnacji algorytmu
 - Selekcja - populacja poddawana jest ocenie, najlepiej przystosowane osobniki mają największe szanse wylosowania do grupy rodziców, którzy wezmą udział w rekombinacji genów
 - Zastosowanie operatorów genetycznych
-	- Krzyżowanie - proc
+	- Krzyżowanie - proces rekombinacji genów, prowadzący do powstania nowych chromosomów w wyniku wymiany fragmentów chromosomów rodziców
+	- Mutacja - proces zmiany pojedynczego genu w chromosomie, występuje na ogół z bardzo małym prawdo
