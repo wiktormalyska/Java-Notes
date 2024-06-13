@@ -8,4 +8,7 @@ Algorytm rozwiązujący problem otoczki wypukłej powinien zwrócić jej wierzch
 - zastosuj zamiatanie polarne
 - weź punkt który na pewno należy do otoczki wypukłej i ustal go jako biegun w biegunowym układzie współrzędnyvh
 - przeglądaj pozostałe wierzchołki w kolejności wyznaczonej przez ich amplitudę (kąt) w przyjętym biegunowym układzie współrzędnych o środku $P$
-- analizując kolejne punktu
+- analizując kolejne punkty sprawdzaj czy leżą na prawo czy na lewo od ostatnio wyznaczonej krawędzi
+
+#### Działanie algorytmu
+- Wybierz 
