@@ -20,4 +20,5 @@ Algorytm wrażliwy na wynik
 czas działania algorytmu jest wrażliwy na rozmiar rozwiązania (liczbę przecięć)
 
 - Przeszukujemy płaszczyznę na której wyznaczony jest zbiór punktów od strony lewej do prawej - z wzór pionowej miotły która przesuwa się po płaszczyźnie
-- s
+- Stan miotły zmienia się w sposób dyskretny w miejscach nazywanych punktami zdarzeń - są nimi współrzędne napotykanych punktów
+- Wszystkie obiekty na płaszczyźnie są w jednym z 3 stanów
