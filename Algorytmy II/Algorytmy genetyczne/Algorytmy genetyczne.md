@@ -23,4 +23,4 @@ Mówi się o kodowaniu fenotypu przez genotyp
 FENOTYP - punkt w przestrzeni rozwiązań
 GENOTYP - punkt w przestrzeni kodów
 
-Środowisko można opisać **funkcją przystosowania**, za pomocą której osobnikowi przypisuje się przystosowanie na podstawie jego fenotypu. Może ona być stacjonarna lub zmienna w czasie, moż
+Środowisko można opisać **funkcją przystosowania**, za pomocą której osobnikowi przypisuje się przystosowanie na podstawie jego fenotypu. Może ona być stacjonarna lub zmienna w czasie, może też zawierać element losowości, Funkcja przystosowania jest określona dla genotypów. Genotyp osobnika składa się z **chromosomów**. Każdy z chromosomów składa się z elementar
