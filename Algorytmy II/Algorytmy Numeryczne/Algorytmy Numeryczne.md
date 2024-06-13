@@ -7,4 +7,9 @@ Metody numeryczne zajmują się konstruowaniem algorytmów, których obiektami s
 - Błędy wejściowe
 - Błędy obcięcia
 - Błędy zaokrągleń
-- Up
+- Uproszczenie modelu matematycznego
+- Błędy programisty
+
+#### Błędy względne i bezwzględne
+Załóżmy, że wartość $x$ jest reprezentowana jakol $x^~$
+
