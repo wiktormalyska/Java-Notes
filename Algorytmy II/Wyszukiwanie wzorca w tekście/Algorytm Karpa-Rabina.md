@@ -10,4 +10,5 @@
 - Badany tekst: $CBBAB$
 - czyli $r=3$, cyfry posiadają wartości $A=0$,$B=1$,$C=2$
 - jako $q$ możemy przyjąć np.23
-- $h(CBBAB) = (1* 3^0 + 0*3^1 + 1*3^2 + 1*3^3)$
+- $h(CBBAB) = (1* 3^0 + 0*3^1 + 1*3^2 + 1*3^3 + 2*3^4)\mod23=199\mod23=15$
+- Funkcja haszująca musi być taka aby w prosty sposób hasz okna po przesuni
