@@ -1,1 +1,1 @@
-Dział algorytmi
+Dział algorytmiki zajmujący się algorytmami i strukturami danych pozwalającymi efektywnie wykonać działania na obiektach geometrycznych, takich jak zbiory punktów, odcinków, wielokątów, okręgów
