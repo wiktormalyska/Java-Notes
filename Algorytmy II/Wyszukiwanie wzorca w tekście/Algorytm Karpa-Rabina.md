@@ -1,2 +1,4 @@
 - $n=|wzorzec|$
-- 
+- $r$ - krotność używanego alfabetu
+- $q$ - największa liczba pierwsza taka, że $(r+1)*q$ nie przekracza zakresu
+- $h$ - funkcja haszująca, zwraca
