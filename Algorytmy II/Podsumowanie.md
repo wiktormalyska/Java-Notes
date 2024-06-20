@@ -121,3 +121,6 @@
 - Przypisujemy każdemu wierzchołkowi kolor w taki sposób że sąsiadujące wierzchołki nie mają tego samego koloru
 - k-chromatyczny jeżeli graf można pokolorować 3 kolorami
 - liczba chromatyczna to minimalna ilość kolorów
+- Twierdzenie o 4 kolorach - każdy graf może być pokolorowany 4 kolorami
+- Algorytm RS
+- Zachłanny algorytm kolorowania w
