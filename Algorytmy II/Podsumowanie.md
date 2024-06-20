@@ -31,4 +31,7 @@
 
 #### Minimalne drzewo rozpinające
 - ##### [[Algorytm Kruskala]]
+	- Złożoność taka jak [[Algorytm Dijkstry]]
 - ##### [[Algorytm Prima]]
+	- Złożoność taka jak [[Algorytm Dijkstry]]
+- 
