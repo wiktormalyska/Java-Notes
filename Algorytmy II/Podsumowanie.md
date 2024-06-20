@@ -58,4 +58,7 @@
 - Proces jest realizowany przez funkcję haszującą
 - funkcja haszująca powinna mieć stały czas wykonania $O(1)$
 - ##### Rozwiązywanie konfliktów
-	- Rolling hash - 
+	- ###### Haszowanie otwarte (metoda łańcuchowa)
+		- 
+	- ###### Haszowanie zamknięte (adresowanie otwarte)
+		- 
