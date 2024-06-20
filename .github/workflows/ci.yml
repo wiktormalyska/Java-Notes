@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:    
       - name: Create docs directory
-        run: mkdir /docs
+        run: mkdir docs
         
       - name: Move files from main to web to docs
         run: |
