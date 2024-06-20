@@ -133,4 +133,6 @@
 - Algorytmy numeryczne
 	- Całkowanie numeryczne
 - Radzenie z funkcjami ciągłymi
+	- interpolacja
+	- dyskretyzacja
 
