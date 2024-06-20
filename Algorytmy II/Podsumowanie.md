@@ -105,3 +105,6 @@
 
 #### [[Algorytmy probabilistyczne]]
 - Monte Carlo
+	- Ograniczony czas działania
+	- Poprawne wyniki z dużym prawdopowobieństwem
+	- Losuje wyniki z zakresu 
