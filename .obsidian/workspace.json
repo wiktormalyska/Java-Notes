@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
+                    "file": "Algorytmy II/Podsumowanie.md",
                     "mode": "source",
                     "source": false
                   }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
+                "file": "Algorytmy II/Podsumowanie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
+                "file": "Algorytmy II/Podsumowanie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md"
+                "file": "Algorytmy II/Podsumowanie.md"
               }
             }
           }
@@ -199,6 +199,7 @@
   },
   "active": "710a3afb772f637f",
   "lastOpenFiles": [
+    "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
     "Algorytmy II/Algorytmy na drzewach/Drzewo BST.md",
     "Algorytmy II/Podsumowanie.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm Bellmana-Forda-Moore'a.md",
@@ -238,7 +239,6 @@
     "Zdjęcia w notatkach/Pasted image 20240613002302.png",
     "Algorytmy II/Algorytmy na drzewach/Słownik.md",
     "Java Junior/Main.canvas",
-    "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
     "Drzewo.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",
     "Algorytmy II/Algorytmy na drzewach/Algorytm Kruskala.md",
