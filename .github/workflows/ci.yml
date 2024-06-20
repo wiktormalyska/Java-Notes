@@ -8,8 +8,22 @@ on:
 permissions:
   contents: write
 jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:    
+      - name: Create docs directory
+        run: mkdir /docs
+        
+      - name: Move files from main to web to docs
+        run: |
+          git fetch origin web:web
+          git checkout web
+          git merge master --no-comit --no-ff
+          rsync -av --exclude='docs*/' --exclude='mkdocs.yml' --exclude='LICENSE' --exclude='.github*/' --exclude='.vscode*/' . docs/
+        
   deploy:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
