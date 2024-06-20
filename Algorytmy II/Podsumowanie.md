@@ -79,7 +79,8 @@
 	- Efektywna metoda wyszukiwania wzorców
 	- Przodek [[Algorytm Knutha-Morrisa-Pratta]]
 	- Buduje tablicę prefiksów dla wzorca
-	- Używa tablicy aby przeskakiwać w tekście unikając n
+	- Używa tablicy aby przeskakiwać w tekście
+	- Unika niepotrzebnych porównań
 - ##### [[Algorytm Knutha-Morrisa-Pratta]]
 	- Wypełnianie tablicy prefiksów jest bardziej zaawansowane niż w [[Algorytm Morrisa-Prata]]
 	- Tworzy tablicę prefiksów, która przechowuje info o najdłuższych prefiksach wzorca
@@ -91,3 +92,6 @@
 	- W przypadku kolizji porównuje wnętrze
 	- Po znalezieniu tego samego hasza, sprawdza wnętrze
 	- Najbardziej wydajny
+
+#### Algorytmy Geometryczne
+[[]]
