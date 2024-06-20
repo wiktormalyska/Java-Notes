@@ -30,4 +30,5 @@
 	- współpracuje z wagami
 
 #### Minimalne drzewo rozpinające
-- 
+- ##### [[Algorytm Kruskala]]
+- ##### [[Algorytm Prima]]
