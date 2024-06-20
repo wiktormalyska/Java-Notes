@@ -106,7 +106,7 @@
 #### [[Algorytmy probabilistyczne]]
 - Monte Carlo
 	- Ograniczony czas działania
-	- Poprawne wyniki z dużym prawdopowobieństwem
+	- Poprawne wyniki z dużym prawdopodobieństwem
 	- Losuje wyniki z zakresu określoną ilość razy i bierze ich średnią
 - Las Vegas
 	- Zawsze poprawny wynik
