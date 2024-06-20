@@ -16,7 +16,7 @@
 - Drzewa
 	- [[Drzewo BST]]
 	- [[Drzewo AVL]], (czerwono-czarne)
-	- B-drzewa
+	- [[B drzewa]]
 	- samoorganizujące drzewa BST $(*)$
 	- (a,b) -drzewa (w szczególności 2-3trees) $(*)$
 - Tablice haszujące

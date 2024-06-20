@@ -22,8 +22,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "b8c481d4e027e750",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "f677457e2840808d",
@@ -147,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/Słownik.md",
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/Słownik.md",
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/Słownik.md"
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md"
               }
             }
           }
@@ -209,9 +222,10 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "d8bc16ada9e25bfb",
+  "active": "b8c481d4e027e750",
   "lastOpenFiles": [
     "Algorytmy II/Podsumowanie.md",
+    "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
     "Algorytmy II/Algorytmy na drzewach/Słownik.md",
     "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
     "Algorytmy II/Algorytmy na drzewach/Drzewo BST.md",
@@ -235,7 +249,6 @@
     "Zdjęcia w notatkach/Pasted image 20240613100217.png",
     "Algorytmy II/Geometria Obliczeniowa/Geometria Obliczeniowa.md",
     "Zdjęcia w notatkach/Pasted image 20240613095555.png",
-    "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
     "Algorytmy II/Geometria Obliczeniowa",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",

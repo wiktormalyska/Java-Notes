@@ -50,3 +50,7 @@
 	- Drzewa
 		- [[Drzewo BST]]
 		- [[Drzewo AVL]]
+		- [[B drzewa]]
+	- Tablice haszujące
+
+#### Haszowanie
