@@ -80,6 +80,8 @@
 	- Przodek [[Algorytm Knutha-Morrisa-Pratta]]
 - ##### [[Algorytm Knutha-Morrisa-Pratta]]
 	- Wypełnianie tablicy prefiksów jest bardziej zaawansowane niż w [[Algorytm Morrisa-Prata]]
+	- Tworzy tablicę prefiksów, która przechowuje info o najdłuższych prefiksach wzorca
+	- P
 - ##### [[Algorytm Karpa-Rabina]]
 	- Wykorzystuje technikę [[Haszowanie]]
 	- Haszuje wzorzec i stopniowo przechodzi po tekście
