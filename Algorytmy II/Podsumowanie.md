@@ -99,3 +99,6 @@
 - [[Algorytm Grahama]] 
 	- Szukanie wypukłej otoczki z punktów
 	- $O(n\log n)$
+- Metoda zamiatania
+	- większość odcinków nie ma przecięć lub jest ich niewielka liczba
+	- czas działania powinien zależeć od przecięć i liczby odcinków
