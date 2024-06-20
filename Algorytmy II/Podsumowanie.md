@@ -72,3 +72,8 @@
 		- łatwa w implementacji
 		- łatwo obliczalna co do złożoności
 		- losowa
+
+#### [[Wyszukiwanie wzorca w tekście]]
+- Morris-Prat
+- ##### [[Algorytm Knutha-Morrisa-Pratta]]
+- ##### [[Algorytm Karpa-Rabina]]
