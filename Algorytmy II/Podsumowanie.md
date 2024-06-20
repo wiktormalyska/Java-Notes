@@ -68,3 +68,7 @@
 - ##### Funkcja haszująca
 	- powinna mieć stały czas wykonania $O(1)$
 	- każdemu elementowi ze zbioru dopuszczalnych kluczy daje liczbę całkowitą
+	- powinna być
+		- łatwa w implementacji
+		- łatwo obliczalna co do złożoności
+		- 
