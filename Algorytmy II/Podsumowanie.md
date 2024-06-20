@@ -43,3 +43,4 @@
 	- Search
 	- Insert
 	- Delete
+- Sposo
