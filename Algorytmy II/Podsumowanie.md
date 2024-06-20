@@ -64,4 +64,4 @@
 		- Kwadratowe próbkowanie - przesuwa według rosnącego kwadratu liczb
 		- Podwójne haszowanie - użycie drugiej funkcji haszującej do określenia kroku przesunięcia
 	- ###### Haszowanie zamknięte (adresowanie otwarte)
-		- 
+		-  podczas kolizji robi rehash, czyli szuka kolejne miejsce, gdzie potencjalnie można umieścić zapisywany rekord
