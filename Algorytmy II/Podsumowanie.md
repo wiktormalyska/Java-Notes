@@ -54,3 +54,4 @@
 	- Tablice haszujące
 
 #### Haszowanie
+- Przekszt
