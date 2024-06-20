@@ -42,4 +42,4 @@
 - Operacje:
 	- Search
 	- Insert
-	- Dele
+	- Delete
