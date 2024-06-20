@@ -132,6 +132,7 @@
 - Dział matematyki stosowanej
 - Algorytmy numeryczne
 	- Całkowanie numeryczne
+	- Wartości wielomianu
 - Radzenie z funkcjami ciągłymi
 	- interpolacja
 	- dyskretyzacja
