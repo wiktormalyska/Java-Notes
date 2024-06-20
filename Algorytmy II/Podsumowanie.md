@@ -71,4 +71,4 @@
 	- powinna być
 		- łatwa w implementacji
 		- łatwo obliczalna co do złożoności
-		- 
+		- losowa
