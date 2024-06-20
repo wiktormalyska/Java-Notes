@@ -28,3 +28,5 @@
 - Relaksacja krawędzi
 	- Próba poprawienia obecnie znanej najkrótszej odległości do danego wierzchołka poprzez przejście przez inną krawędź
 	- współpracuje z wagami
+
+#### Minimalne drzewo rozpinające
