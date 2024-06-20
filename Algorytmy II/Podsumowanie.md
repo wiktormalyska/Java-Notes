@@ -2,7 +2,9 @@
 - ##### Macierz sąsiedztwa
 	- 2 wymiarowa tablica gdzie zapisywane są łączenia
 	- Duża złożoność pamięciowa
+	- ![[Zrzut ekranu 2024-06-12 170855.png]]
 - ##### Lista sąsiedztwa
-	- Lista posiadająca elementy sąsiadujące
+	- Lista posiadająca wierzchołki sąsiadujące
+	- ![[Pasted image 20240612171521.png]]
 - ##### Lista krawędzi (nie omówione)
 - ##### Macierz incydencji (nie omówione)
