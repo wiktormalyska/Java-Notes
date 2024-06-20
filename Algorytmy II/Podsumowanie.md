@@ -60,6 +60,8 @@
 - ##### Rozwiązywanie konfliktów
 	- ###### Haszowanie otwarte (metoda łańcuchowa)
 		- po kolizji szuka kolejnego wolnego miejsca w tablicy według określonego schematu
-		- Liniowe próbkowanie - przesuwa o 1 
+		- Liniowe próbkowanie - przesuwa o jedno miejsce aż do znalezienia
+		- Kwadratowe próbkowanie - przesuwa według rosnącego kwadratu liczb
+		- Podwójne haszowanie - użycie drugiej funkcji haszującej do określenia kroku przesunięcia
 	- ###### Haszowanie zamknięte (adresowanie otwarte)
 		- 
