@@ -15,4 +15,8 @@
 - Dijkstra
 	- algorytm zachłanny
 	- zawsze poprawny wynik
-	- wyszukuje od pierwszego wierzchołka
+	- wyszukuje od pierwszego wierzchołka do wszystkich innych
+- Ford-Bellman
+	- dla grafu skierowanego z wagami
+	- wolniejszy od [[Algorytm Dijkstry]]
+	- 
