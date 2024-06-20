@@ -16,15 +16,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
         
-      - name: Create docs directory
-        run: mkdir docs
-        
       - name: Fetch and merge changes from master to web
         run: |
           cd $GITHUB_WORKSPACE
           git pull origin master
           git checkout web
           git merge master --no-comit --no-ff
+          
+      - name: Create docs directory
+        run: mkdir docs
           
       - name: Move files from main to docs
         run: |
