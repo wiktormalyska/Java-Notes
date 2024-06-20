@@ -36,5 +36,10 @@
 	- Złożoność taka jak [[Algorytm Dijkstry]]
 - Dla jednego drzewa może istnieć wiele drzew rozpinających
 
-#### Słowniki
-- Abstr
+#### [[Słownik]]
+- Abstrakcyjna struktura danych
+- Elementy są złożone z (key, value)
+- Operacje:
+	- Search
+	- Insert
+	- Dele
