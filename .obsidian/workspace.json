@@ -22,21 +22,8 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "b8c481d4e027e750",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "f677457e2840808d",
@@ -67,6 +54,18 @@
                 }
               },
               {
+                "id": "b8c481d4e027e750",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "4f1c471f76850124",
                 "type": "leaf",
                 "state": {
@@ -91,7 +90,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -224,8 +223,15 @@
   },
   "active": "b8c481d4e027e750",
   "lastOpenFiles": [
-    "Algorytmy II/Podsumowanie.md",
+    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
+    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
+    "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
+    "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
+    "Algorytmy II/Geometria Obliczeniowa/Algorytm Grahama.md",
+    "Algorytmy II/Geometria Obliczeniowa/Geometria Obliczeniowa.md",
+    "Algorytmy II/Kolorowanie/Kolorowanie.md",
+    "Algorytmy II/Podsumowanie.md",
     "Algorytmy II/Algorytmy na drzewach/Słownik.md",
     "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
     "Algorytmy II/Algorytmy na drzewach/Drzewo BST.md",
@@ -233,25 +239,18 @@
     "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
     "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
-    "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
-    "Algorytmy II/Kolorowanie/Kolorowanie.md",
     "Algorytmy II/Algorytmy Numeryczne",
     "Zdjęcia w notatkach/Pasted image 20240613104436.png",
     "Algorytmy II/Algorytmy genetyczne/Algorytmy genetyczne.md",
     "Algorytmy II/Kolorowanie",
     "Zdjęcia w notatkach/Pasted image 20240613103430.png",
     "Zdjęcia w notatkach/Pasted image 20240613102919.png",
-    "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
     "Algorytmy II/Algorytmy genetyczne",
-    "Algorytmy II/Geometria Obliczeniowa/Algorytm Grahama.md",
     "Algorytmy II/Algorytmy probabilistyczne",
     "Zdjęcia w notatkach/Pasted image 20240613100219.png",
     "Zdjęcia w notatkach/Pasted image 20240613100217.png",
-    "Algorytmy II/Geometria Obliczeniowa/Geometria Obliczeniowa.md",
     "Zdjęcia w notatkach/Pasted image 20240613095555.png",
     "Algorytmy II/Geometria Obliczeniowa",
-    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
-    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście",
     "Zdjęcia w notatkach/Pasted image 20240613091157.png",
     "Algorytmy II/Algorytmy na drzewach/Haszowanie.md",
