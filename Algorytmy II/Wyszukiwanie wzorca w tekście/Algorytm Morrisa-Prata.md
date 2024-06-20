@@ -7,3 +7,6 @@
 - Tworzy tablicę prefixów dla wzorca
 - Pomaga określić ile znaków można pominąć po znalezieniu niezgodności
 - Przechodzi tekst korzystając z tablicy prefixów, aby uniknąć niepotrzebnych porównań
+
+#### Różnice między [[Algorytm Knutha-Morrisa-Pratta]]
+- KMP jest bardziej zoptymali
