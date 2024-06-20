@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Algorytmy II/Podsumowanie.md",
+                    "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Morrisa-Prata.md",
                     "mode": "source",
                     "source": false
                   }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Podsumowanie.md",
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Morrisa-Prata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Podsumowanie.md",
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Morrisa-Prata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Podsumowanie.md"
+                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Morrisa-Prata.md"
               }
             }
           }
@@ -223,6 +223,8 @@
   },
   "active": "710a3afb772f637f",
   "lastOpenFiles": [
+    "Algorytmy II/Podsumowanie.md",
+    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Morrisa-Prata.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Haszowanie.md",
     "Algorytmy II/Algorytmy na drzewach/Słownik.md",
     "Algorytmy II/Algorytmy na drzewach/Algorytm Prima.md",
@@ -237,7 +239,6 @@
     "Algorytmy II/Kolorowanie/Kolorowanie.md",
     "Algorytmy II/Algorytmy II.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
-    "Algorytmy II/Podsumowanie.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
     "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
@@ -265,7 +266,6 @@
     "Java Junior/README.md",
     "Zdjęcia w notatkach/Pasted image 20240613002302.png",
     "Java Junior/Main.canvas",
-    "Drzewo.md",
     "Algorytmy II/Algorytmy na drzewach BST",
     "Algorytmy II/Algorytmy na drzewach",
     "Algorytmy II/Algorytmy na grafach",

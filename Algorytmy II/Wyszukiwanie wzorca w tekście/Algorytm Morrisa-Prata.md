@@ -1,0 +1,2 @@
+- Blisko spokrewniony z [[Algorytm Knutha-Morrisa-Pratta]]
+- Mniej popularny
