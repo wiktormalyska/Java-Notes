@@ -74,6 +74,9 @@
 		- losowa
 
 #### [[Wyszukiwanie wzorca w tekście]]
-- Morris-Prat
+- [[Algorytm Morrisa-Prata]]
+	- Liniowy czas przetwarzania
+	- Efektywna metoda wyszukiwania wzorców
+	- Przodek [[Algorytm Knutha-Morrisa-Pratta]]
 - ##### [[Algorytm Knutha-Morrisa-Pratta]]
 - ##### [[Algorytm Karpa-Rabina]]

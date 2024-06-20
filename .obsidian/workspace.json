@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Morrisa-Prata.md",
+                    "file": "Algorytmy II/Podsumowanie.md",
                     "mode": "source",
                     "source": false
                   }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Morrisa-Prata.md",
+                "file": "Algorytmy II/Podsumowanie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Morrisa-Prata.md",
+                "file": "Algorytmy II/Podsumowanie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Morrisa-Prata.md"
+                "file": "Algorytmy II/Podsumowanie.md"
               }
             }
           }
@@ -223,8 +223,8 @@
   },
   "active": "710a3afb772f637f",
   "lastOpenFiles": [
-    "Algorytmy II/Podsumowanie.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Morrisa-Prata.md",
+    "Algorytmy II/Podsumowanie.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Haszowanie.md",
     "Algorytmy II/Algorytmy na drzewach/Słownik.md",
     "Algorytmy II/Algorytmy na drzewach/Algorytm Prima.md",
