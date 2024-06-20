@@ -142,4 +142,10 @@
 	- Błędy algorytmiczne
 
 #### Algorytmy Liczbowe
-- 
+[[Algorytmy genetyczne]]
+- Optymalizacja obliczeniowa
+- Przetwarzanie danych
+- Kryptografia
+- Symulacje naukowe
+- Analiza ryzyka finansowego
+- Automatyzacja procesów

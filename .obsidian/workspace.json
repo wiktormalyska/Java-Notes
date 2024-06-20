@@ -4,146 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "304dee2be84a1a59",
-        "type": "split",
+        "id": "a41a71dade30d784",
+        "type": "tabs",
         "children": [
           {
-            "id": "a41a71dade30d784",
-            "type": "tabs",
-            "dimension": 64.36781609195403,
-            "children": [
-              {
-                "id": "c88665ca388af7ea",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Algorytmy II/Podsumowanie.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "c88665ca388af7ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorytmy II/Podsumowanie.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "f677457e2840808d",
-            "type": "tabs",
-            "dimension": 35.63218390804598,
-            "children": [
-              {
-                "id": "b1e5927f2ac46891",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d8bc16ada9e25bfb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Algorytmy II/Algorytmy na drzewach/Słownik.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "b8c481d4e027e750",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Haszowanie.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "2fe24408ef2668c3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "91308758189e2677",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Algorytmy II/Kolorowanie/Kolorowanie grafów.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "710a3afb772f637f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "1076578d85f4fba6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Algorytmy II/Geometria Obliczeniowa/Geometria Obliczeniowa.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "4f1c471f76850124",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "4a7747bb561b4621",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 3
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
