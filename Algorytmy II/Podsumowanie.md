@@ -12,21 +12,22 @@
 - ##### Macierz incydencji (nie omówione)
 
 #### Problem szukania najkrótszej ścieżki
-- Dijkstra
+- ##### Dijkstra
 	- algorytm zachłanny
 	- zawsze poprawny wynik
 	- wyszukuje od pierwszego wierzchołka do wszystkich innych
 	- Złożoność
 		- $O(|E|\log |V|)$ - oczekiwana
 		- $O(|V|^2)$ - pesymistyczna
-- Ford-Bellman
+- ##### Ford-Bellman
 	- dla grafu skierowanego z wagami
 	- wolniejszy od [[Algorytm Dijkstry]]
 	- bardziej uniwersalny
 	- Złożoność
 		- $O(|V|*|E|)$
-- Relaksacja krawędzi
+- ##### Relaksacja krawędzi
 	- Próba poprawienia obecnie znanej najkrótszej odległości do danego wierzchołka poprzez przejście przez inną krawędź
 	- współpracuje z wagami
 
 #### Minimalne drzewo rozpinające
+- 
