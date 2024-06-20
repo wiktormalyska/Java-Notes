@@ -53,12 +53,13 @@
 		- [[B drzewa]]
 	- Tablice haszujące
 
-#### Haszowanie
+#### [[Haszowanie]]
 - Proces przekształcania danych wejściowych dowolnej długości w dane wyjściowe o stałej długości, zwane **kodem haszującym**
 - Proces jest realizowany przez funkcję haszującą
 - funkcja haszująca powinna mieć stały czas wykonania $O(1)$
 - ##### Rozwiązywanie konfliktów
 	- ###### Haszowanie otwarte (metoda łańcuchowa)
-		- 
+		- po kolizji szuka kolejnego wolnego miejsca w tablicy według określonego schematu
+		- Liniowe próbkowanie - przesuwa o 1 
 	- ###### Haszowanie zamknięte (adresowanie otwarte)
 		- 
