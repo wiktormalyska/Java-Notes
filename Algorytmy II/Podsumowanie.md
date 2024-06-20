@@ -123,4 +123,7 @@
 - liczba chromatyczna to minimalna ilość kolorów
 - Twierdzenie o 4 kolorach - każdy graf może być pokolorowany 4 kolorami
 - Algorytm RS
-- Zachłanny algorytm kolorowania w
+	- Naiwny
+	- Zachłanny
+	- statyczny (nie modyfikuje poprzednio danych wartości)
+	- $O(|V|+|E|)$
