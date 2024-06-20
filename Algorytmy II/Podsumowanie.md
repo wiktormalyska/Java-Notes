@@ -82,3 +82,6 @@
 	- Wypełnianie tablicy prefiksów jest bardziej zaawansowane niż w [[Algorytm Morrisa-Prata]]
 	- Najbardziej wydajny
 - ##### [[Algorytm Karpa-Rabina]]
+	- Wykorzystuje technikę [[Haszowanie]]
+	- Haszuje wzorzec i stopniowo przechodzi po tekście
+	- 
