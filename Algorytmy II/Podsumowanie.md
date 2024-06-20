@@ -54,4 +54,4 @@
 	- Tablice haszujące
 
 #### Haszowanie
-- Przekszt
+- Proces przekształcania danych wejściowych dowolnej długości w dane wyjściowe o stałej długości, zwane **kodem haszującym**
