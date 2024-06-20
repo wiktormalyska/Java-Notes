@@ -10,3 +10,5 @@
 	- ![[Pasted image 20240612171521.png]]
 - ##### Lista krawędzi (nie omówione)
 - ##### Macierz incydencji (nie omówione)
+
+#### Prob
