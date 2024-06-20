@@ -116,3 +116,6 @@
 	- Proste w implementacji
 	- Niedeterministyczne
 	- Mniejsza złożoność obliczeniowa
+
+#### [[Kolorowanie grafów]]
+- Przypisu
