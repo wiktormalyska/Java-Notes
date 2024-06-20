@@ -19,4 +19,4 @@ Załóżmy, że wartość $x$ jest reprezentowana jako $x〜$ Wówczas
 - obliczanie całek
 - obliczanie wartości wielomianu
 - przybliżanie miejsc zerowych
-- p
+- przybliżanie funkcji - wzór Taylora
