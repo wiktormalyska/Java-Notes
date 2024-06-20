@@ -79,5 +79,6 @@
 	- Efektywna metoda wyszukiwania wzorców
 	- Przodek [[Algorytm Knutha-Morrisa-Pratta]]
 - ##### [[Algorytm Knutha-Morrisa-Pratta]]
-	- 
+	- Wypełnianie tablicy prefiksów jest bardziej zaawansowane niż w [[Algorytm Morrisa-Prata]]
+	- Najbardziej wydajny
 - ##### [[Algorytm Karpa-Rabina]]
