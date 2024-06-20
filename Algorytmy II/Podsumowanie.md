@@ -79,4 +79,5 @@
 	- Efektywna metoda wyszukiwania wzorców
 	- Przodek [[Algorytm Knutha-Morrisa-Pratta]]
 - ##### [[Algorytm Knutha-Morrisa-Pratta]]
+	- 
 - ##### [[Algorytm Karpa-Rabina]]

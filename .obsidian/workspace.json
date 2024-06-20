@@ -90,7 +90,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -223,9 +223,10 @@
   },
   "active": "710a3afb772f637f",
   "lastOpenFiles": [
-    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Morrisa-Prata.md",
-    "Algorytmy II/Podsumowanie.md",
+    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Haszowanie.md",
+    "Algorytmy II/Podsumowanie.md",
+    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Morrisa-Prata.md",
     "Algorytmy II/Algorytmy na drzewach/Słownik.md",
     "Algorytmy II/Algorytmy na drzewach/Algorytm Prima.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",
@@ -239,7 +240,6 @@
     "Algorytmy II/Kolorowanie/Kolorowanie.md",
     "Algorytmy II/Algorytmy II.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
-    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
     "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
     "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
