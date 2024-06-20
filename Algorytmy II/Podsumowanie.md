@@ -67,4 +67,4 @@
 		- ponawia próbę aż znajdzie miejsce
 - ##### Funkcja haszująca
 	- powinna mieć stały czas wykonania $O(1)$
-	- każdemu elementowi 
+	- każdemu elementowi ze zbioru dopuszczalnych kluczy daje liczbę całkowitą
