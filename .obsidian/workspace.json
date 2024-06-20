@@ -10,7 +10,7 @@
           {
             "id": "a41a71dade30d784",
             "type": "tabs",
-            "dimension": 85.63218390804597,
+            "dimension": 47.701149425287355,
             "children": [
               {
                 "id": "c88665ca388af7ea",
@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
+                    "file": "Algorytmy II/Podsumowanie.md",
                     "mode": "source",
                     "source": false
                   }
@@ -29,7 +29,7 @@
           {
             "id": "f677457e2840808d",
             "type": "tabs",
-            "dimension": 14.367816091954023,
+            "dimension": 52.29885057471264,
             "children": [
               {
                 "id": "b1e5927f2ac46891",
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
+                "file": "Algorytmy II/Podsumowanie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
+                "file": "Algorytmy II/Podsumowanie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md"
+                "file": "Algorytmy II/Podsumowanie.md"
               }
             }
           }
@@ -273,6 +273,7 @@
   },
   "active": "c88665ca388af7ea",
   "lastOpenFiles": [
+    "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
     "Algorytmy II/Podsumowanie.md",
     "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
     "Algorytmy II/Kolorowanie/Kolorowanie grafów.md",
@@ -292,7 +293,6 @@
     "Algorytmy II/Algorytmy II.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
-    "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
     "Algorytmy II/Algorytmy na drzewach/Drzewo BST.md",
     "Algorytmy II/Algorytmy Numeryczne",
     "Zdjęcia w notatkach/Pasted image 20240613104436.png",
