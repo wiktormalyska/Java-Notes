@@ -56,7 +56,6 @@
 #### [[Haszowanie]]
 - Proces przekształcania danych wejściowych dowolnej długości w dane wyjściowe o stałej długości, zwane **kodem haszującym**
 - Proces jest realizowany przez funkcję haszującą
-- funkcja haszująca powinna mieć stały czas wykonania $O(1)$
 - ##### Rozwiązywanie konfliktów
 	- ###### Haszowanie otwarte (metoda łańcuchowa)
 		- po kolizji szuka kolejnego wolnego miejsca w tablicy według określonego schematu
@@ -65,3 +64,7 @@
 		- Podwójne haszowanie - użycie drugiej funkcji haszującej do określenia kroku przesunięcia
 	- ###### Haszowanie zamknięte (adresowanie otwarte)
 		-  podczas kolizji robi rehash, czyli szuka kolejne miejsce, gdzie potencjalnie można umieścić zapisywany rekord
+		- ponawia próbę aż znajdzie miejsce
+- ##### Funkcja haszująca
+	- powinna mieć stały czas wykonania $O(1)$
+	- każdemu elementowi 
