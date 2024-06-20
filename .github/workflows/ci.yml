@@ -11,11 +11,15 @@ jobs:
   prepare:
     runs-on: ubuntu-latest
     steps:    
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        
       - name: Create docs directory
         run: mkdir docs
         
       - name: Move files from main to web to docs
         run: |
+          cd $GITHUB_WORKSPACE
           git fetch origin web:web
           git checkout web
           git merge master --no-comit --no-ff
