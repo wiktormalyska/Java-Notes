@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
-                "mode": "source",
+                "file": "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
+                "file": "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
+                "file": "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md"
+                "file": "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md"
               }
             }
           }
@@ -138,26 +138,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Otwórz importer Markdown": false,
-      "switcher:Otwórz okno szybkiej zmiany pliku": false,
-      "graph:Otwórz graf": false,
-      "canvas:Stwórz nowe płótno": false,
-      "daily-notes:Otwórz dzisiejszą notatkę": false,
-      "templates:Wstaw szablon": false,
-      "command-palette:Otwórz paletę poleceń": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "710a3afb772f637f",
   "lastOpenFiles": [
-    "Algorytmy II/Kolorowanie/Kolorowanie.md",
+    "Algorytmy II/Algorytmy na drzewach/Algorytm Prima.md",
+    "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
+    "Algorytmy II/Algorytmy na grafach/Algorytm Bellmana-Forda-Moore'a.md",
+    "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",
+    "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
+    "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
+    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
+    "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
+    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
+    "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
+    "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
     "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
+    "Algorytmy II/Kolorowanie/Kolorowanie.md",
     "Algorytmy II/Algorytmy Numeryczne",
     "Zdjęcia w notatkach/Pasted image 20240613104436.png",
     "Algorytmy II/Algorytmy genetyczne/Algorytmy genetyczne.md",
     "Algorytmy II/Kolorowanie",
     "Zdjęcia w notatkach/Pasted image 20240613103430.png",
     "Zdjęcia w notatkach/Pasted image 20240613102919.png",
-    "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
     "Algorytmy II/Algorytmy genetyczne",
     "Algorytmy II/Geometria Obliczeniowa/Algorytm Grahama.md",
     "Algorytmy II/Algorytmy probabilistyczne",
@@ -165,17 +175,13 @@
     "Zdjęcia w notatkach/Pasted image 20240613100217.png",
     "Algorytmy II/Geometria Obliczeniowa/Geometria Obliczeniowa.md",
     "Zdjęcia w notatkach/Pasted image 20240613095555.png",
-    "Algorytmy II/Wyszukiwanie wzorca w tekście/Wyszukiwanie wzorca w tekście.md",
     "Algorytmy II/Geometria Obliczeniowa",
-    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
-    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Karpa-Rabina.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście",
     "Zdjęcia w notatkach/Pasted image 20240613091157.png",
     "Algorytmy II/Algorytmy na drzewach/Haszowanie.md",
     "Zdjęcia w notatkach/Pasted image 20240613004102.png",
     "Zdjęcia w notatkach/Pasted image 20240613004100.png",
     "Algorytmy II/Algorytmy II.md",
-    "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
     "README.md",
     "Java Junior/Podstawy Informatyki/Podstawy Informatyki/Algorytmy.md",
     "Java Junior/README.md",
@@ -185,15 +191,9 @@
     "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
     "Drzewo.md",
     "Algorytmy II/Algorytmy na drzewach/Drzewo BST.md",
-    "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",
-    "Algorytmy II/Algorytmy na grafach/Algorytm Bellmana-Forda-Moore'a.md",
     "Algorytmy II/Algorytmy na drzewach/Algorytm Kruskala.md",
     "Algorytmy II/Algorytmy na drzewach BST",
-    "Algorytmy II/Algorytmy na drzewach/Algorytm Prima.md",
-    "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
     "Algorytmy II/Algorytmy na drzewach",
-    "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
-    "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
     "Algorytmy II/Algorytmy na grafach",
     "Zdjęcia w notatkach"
   ]
