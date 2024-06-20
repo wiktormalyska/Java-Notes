@@ -43,4 +43,10 @@
 	- Search
 	- Insert
 	- Delete
-- Sposo
+- Sposoby implementacji słowników
+	- Lista (naiwny sposób)
+		- nieuporządkowane
+		- uporządkowane
+	- Drzewa
+		- [[Drzewo BST]]
+		- [[Drzewo AVL]]

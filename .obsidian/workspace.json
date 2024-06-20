@@ -42,6 +42,18 @@
                 }
               },
               {
+                "id": "d8bc16ada9e25bfb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Algorytmy II/Algorytmy na drzewach/Słownik.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "4f1c471f76850124",
                 "type": "leaf",
                 "state": {
@@ -66,7 +78,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Podsumowanie.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/Słownik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Podsumowanie.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/Słownik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Podsumowanie.md"
+                "file": "Algorytmy II/Algorytmy na drzewach/Słownik.md"
               }
             }
           }
@@ -197,11 +209,12 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "710a3afb772f637f",
+  "active": "d8bc16ada9e25bfb",
   "lastOpenFiles": [
+    "Algorytmy II/Podsumowanie.md",
+    "Algorytmy II/Algorytmy na drzewach/Słownik.md",
     "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
     "Algorytmy II/Algorytmy na drzewach/Drzewo BST.md",
-    "Algorytmy II/Podsumowanie.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm Bellmana-Forda-Moore'a.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
@@ -237,7 +250,6 @@
     "Java Junior/Podstawy Informatyki/Podstawy Informatyki/Algorytmy.md",
     "Java Junior/README.md",
     "Zdjęcia w notatkach/Pasted image 20240613002302.png",
-    "Algorytmy II/Algorytmy na drzewach/Słownik.md",
     "Java Junior/Main.canvas",
     "Drzewo.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",
