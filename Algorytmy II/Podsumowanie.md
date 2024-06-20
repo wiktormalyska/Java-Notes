@@ -34,4 +34,6 @@
 	- Złożoność taka jak [[Algorytm Dijkstry]]
 - ##### [[Algorytm Prima]]
 	- Złożoność taka jak [[Algorytm Dijkstry]]
-- 
+- Dla jednego drzewa może istnieć wiele drzew rozpinających
+
+#### Słowniki
