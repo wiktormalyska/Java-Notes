@@ -11,4 +11,8 @@
 - ##### Lista krawędzi (nie omówione)
 - ##### Macierz incydencji (nie omówione)
 
-#### Prob
+#### Problem szukania najkrótszej ścieżki
+- Dijkstra
+	- algorytm zachłanny
+	- zawsze poprawny wynik
+	- wyszukuje od pierwszego wierzchołka
