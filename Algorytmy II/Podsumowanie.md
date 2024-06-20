@@ -102,3 +102,6 @@
 - Metoda zamiatania
 	- większość odcinków nie ma przecięć lub jest ich niewielka liczba
 	- czas działania powinien zależeć od przecięć i liczby odcinków
+
+#### [[Algorytmy probabilistyczne]]
+- Monte Carlo
