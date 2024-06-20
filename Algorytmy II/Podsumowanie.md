@@ -130,4 +130,6 @@
 
 #### [[Algorytmy Numeryczne]]
 - Dział matematyki stosowanej
+- Algorytmy numeryczne
+	- Całkowanie numeryczne
 
