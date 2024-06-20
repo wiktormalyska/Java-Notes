@@ -107,4 +107,7 @@
 - Monte Carlo
 	- Ograniczony czas działania
 	- Poprawne wyniki z dużym prawdopowobieństwem
-	- Losuje wyniki z zakresu 
+	- Losuje wyniki z zakresu określoną ilość razy i bierze ich średnią
+- Las Vegas
+	- Zawsze poprawny wynik
+	- Losowa liczba 
