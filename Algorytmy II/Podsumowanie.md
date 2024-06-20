@@ -127,3 +127,7 @@
 	- Zachłanny
 	- statyczny (nie modyfikuje poprzednio danych wartości)
 	- $O(|V|+|E|)$
+
+#### [[Algorytmy Numeryczne]]
+- Dział matematyki stosowanej
+
