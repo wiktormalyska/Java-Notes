@@ -96,3 +96,5 @@
 #### Algorytmy Geometryczne
 [[Geometria Obliczeniowa]]
 - Analiza położenia odcinków, prostych i wielokątów
+- [[Algorytm Grahama]] 
+- 
