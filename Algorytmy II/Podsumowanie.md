@@ -37,3 +37,4 @@
 - Dla jednego drzewa może istnieć wiele drzew rozpinających
 
 #### Słowniki
+- Abstr
