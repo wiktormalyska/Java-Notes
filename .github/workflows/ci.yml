@@ -5,8 +5,10 @@ on:
       - master
       - main
       - web
+      
 permissions:
   contents: write
+  
 jobs:
   prepare:
     runs-on: ubuntu-latest
@@ -17,12 +19,15 @@ jobs:
       - name: Create docs directory
         run: mkdir docs
         
-      - name: Move files from main to web to docs
+      - name: Fetch and merge changes from master to web
         run: |
           cd $GITHUB_WORKSPACE
           git fetch origin web:web
           git checkout web
           git merge master --no-comit --no-ff
+          
+      - name: Move files from main to docs
+        run: |
           rsync -av --exclude='docs*/' --exclude='mkdocs.yml' --exclude='LICENSE' --exclude='.github*/' --exclude='.vscode*/' . docs/
         
   deploy:
