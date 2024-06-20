@@ -4,4 +4,6 @@
 - Przetwarza tekst w jednym przebiegu i czasie liniowym względem długości
 
 #### Działanie
-- Tworzy tablicę prefi
+- Tworzy tablicę prefixów dla wzorca
+- Pomaga określić ile znaków można pominąć po znalezieniu niezgodności
+- Przechodzi tekst korzystając z tablicy prefixów, aby uniknąć niepotrzebnych porównań
