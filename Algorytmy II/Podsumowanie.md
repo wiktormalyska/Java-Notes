@@ -97,4 +97,5 @@
 [[Geometria Obliczeniowa]]
 - Analiza położenia odcinków, prostych i wielokątów
 - [[Algorytm Grahama]] 
-- 
+	- Szukanie wypukłej otoczki z punktów
+	- $O(n\log n)$
