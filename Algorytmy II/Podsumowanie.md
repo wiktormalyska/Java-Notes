@@ -112,4 +112,7 @@
 	- Zawsze poprawny wynik
 	- Losowa liczba przeszukań
 - Benefity z randomizacji
-	- Redukujemy iloś
+	- Redukujemy ilość przeglądanych rozwiązań na rzecz poprawności wyniku
+	- Proste w implementacji
+	- Niedeterministyczne
+	- Mniejsza złożoność obliczeniowa
