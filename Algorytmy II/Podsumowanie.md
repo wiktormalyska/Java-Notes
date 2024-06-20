@@ -132,4 +132,5 @@
 - Dział matematyki stosowanej
 - Algorytmy numeryczne
 	- Całkowanie numeryczne
+- Radzenie z funkcjami ciągłymi
 
