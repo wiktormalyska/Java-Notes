@@ -134,8 +134,8 @@
 	- Całkowanie numeryczne
 	- Wartości wielomianu
 - Radzenie z funkcjami ciągłymi
-	- interpolacja
-	- dyskretyzacja
+	- interpolacja - szacowanie wartości funkcji w punktach między znanymi wartościami
+	- dyskretyzacja - przekształcenie funkcji ciągłych na dyskretne zestawy punktów
 - Rodzaje błędów
 	- Błędy zaokrągleń
 	- Błędy obcięcia
