@@ -81,9 +81,11 @@
 - ##### [[Algorytm Knutha-Morrisa-Pratta]]
 	- Wypełnianie tablicy prefiksów jest bardziej zaawansowane niż w [[Algorytm Morrisa-Prata]]
 	- Tworzy tablicę prefiksów, która przechowuje info o najdłuższych prefiksach wzorca
-	- P
+	- Porównuje wzorzec z tekstem używając tablicy aby przesuwać w przypadku niezgodności
+	- Unika niepotrzebnych porównań
 - ##### [[Algorytm Karpa-Rabina]]
 	- Wykorzystuje technikę [[Haszowanie]]
 	- Haszuje wzorzec i stopniowo przechodzi po tekście
+	- W przypadku koliz
 	- Po znalezieniu tego samego hasza, sprawdza wnętrze
 	- Najbardziej wydajny
