@@ -25,3 +25,5 @@
 	- bardziej uniwersalny
 	- Złożoność
 		- $O(|V|*|E|)$
+- Relaksacja krawędzi
+	- 
