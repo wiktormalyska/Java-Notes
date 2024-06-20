@@ -110,4 +110,6 @@
 	- Losuje wyniki z zakresu określoną ilość razy i bierze ich średnią
 - Las Vegas
 	- Zawsze poprawny wynik
-	- Losowa liczba 
+	- Losowa liczba przeszukań
+- Benefity z randomizacji
+	- Redukujemy iloś
