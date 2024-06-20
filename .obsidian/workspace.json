@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Algorytmy II/Podsumowanie.md",
+                    "file": "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
                     "mode": "source",
                     "source": false
                   }
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Podsumowanie.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Podsumowanie.md",
+                "file": "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Podsumowanie.md"
+                "file": "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md"
               }
             }
           }
@@ -271,8 +271,8 @@
   },
   "active": "c88665ca388af7ea",
   "lastOpenFiles": [
-    "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
     "Algorytmy II/Podsumowanie.md",
+    "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
     "Algorytmy II/Kolorowanie/Kolorowanie grafów.md",
     "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
     "Algorytmy II/Geometria Obliczeniowa/Geometria Obliczeniowa.md",
