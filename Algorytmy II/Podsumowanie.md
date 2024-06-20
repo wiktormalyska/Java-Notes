@@ -141,4 +141,5 @@
 	- Błędy obcięcia
 	- Błędy algorytmiczne
 
-#### Algorytmy L
+#### Algorytmy Liczbowe
+- 
