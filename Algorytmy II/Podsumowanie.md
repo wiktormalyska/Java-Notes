@@ -18,8 +18,10 @@
 	- wyszukuje od pierwszego wierzchołka do wszystkich innych
 	- Złożoność
 		- $O(|E|\log |V|)$ - oczekiwana
-		- $O(|V|^2)$ - pesymisty
+		- $O(|V|^2)$ - pesymistyczna
 - Ford-Bellman
 	- dla grafu skierowanego z wagami
 	- wolniejszy od [[Algorytm Dijkstry]]
 	- bardziej uniwersalny
+	- Złożoność
+		- $O(|V|*|E|)$

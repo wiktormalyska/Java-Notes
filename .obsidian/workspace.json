@@ -52,9 +52,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "4a7747bb561b4621",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Algorytmy II/Algorytmy na grafach/Algorytm Bellmana-Forda-Moore'a.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -187,8 +199,10 @@
   },
   "active": "710a3afb772f637f",
   "lastOpenFiles": [
-    "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
+    "Algorytmy II/Algorytmy na grafach/Algorytm Bellmana-Forda-Moore'a.md",
     "Algorytmy II/Podsumowanie.md",
+    "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
+    "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
     "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
     "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
     "Algorytmy II/Kolorowanie/Kolorowanie.md",
@@ -227,10 +241,8 @@
     "Drzewo.md",
     "Algorytmy II/Algorytmy na drzewach/Drzewo BST.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",
-    "Algorytmy II/Algorytmy na grafach/Algorytm Bellmana-Forda-Moore'a.md",
     "Algorytmy II/Algorytmy na drzewach/Algorytm Kruskala.md",
     "Algorytmy II/Algorytmy na drzewach BST",
-    "Algorytmy II/Algorytmy na drzewach/Algorytm Prima.md",
     "Algorytmy II/Algorytmy na drzewach",
     "Algorytmy II/Algorytmy na grafach",
     "Zdjęcia w notatkach"
