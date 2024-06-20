@@ -9,4 +9,6 @@
 - Przechodzi tekst korzystając z tablicy prefixów, aby uniknąć niepotrzebnych porównań
 
 #### Różnice między [[Algorytm Knutha-Morrisa-Pratta]]
-- KMP jest bardziej zoptymali
+- KMP jest bardziej zoptymalizowany
+- MP wskazuje długość najdłuższego dopasowanego prefiksu/sufiksu
+- W KMP tablica prefixów jest dostosowana do uniknięcia niepotrzebnego cofania w tekście
