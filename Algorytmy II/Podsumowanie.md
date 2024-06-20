@@ -56,6 +56,6 @@
 #### Haszowanie
 - Proces przekształcania danych wejściowych dowolnej długości w dane wyjściowe o stałej długości, zwane **kodem haszującym**
 - Proces jest realizowany przez funkcję haszującą
-- funkcja haszująca powinna mieć stały czas wykonania 
+- funkcja haszująca powinna mieć stały czas wykonania $O(1)$
 - ##### Rozwiązywanie konfliktów
 	- Rolling hash - 
