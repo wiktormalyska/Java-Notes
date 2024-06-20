@@ -136,4 +136,8 @@
 - Radzenie z funkcjami ciągłymi
 	- interpolacja
 	- dyskretyzacja
+- Rodzaje błędów
+	- Błędy zaokrągleń
+	- Błędy obcięcia
+	- Błędy algorytmiczne
 
