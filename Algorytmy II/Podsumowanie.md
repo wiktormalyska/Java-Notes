@@ -19,4 +19,4 @@
 - Ford-Bellman
 	- dla grafu skierowanego z wagami
 	- wolniejszy od [[Algorytm Dijkstry]]
-	- 
+	- bardziej uniwersalny

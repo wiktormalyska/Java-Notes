@@ -22,8 +22,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "4f1c471f76850124",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "f677457e2840808d",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Podsumowanie.md",
+                "file": "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Podsumowanie.md",
+                "file": "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Podsumowanie.md"
+                "file": "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md"
               }
             }
           }
@@ -172,10 +185,11 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "710a3afb772f637f",
+  "active": "4f1c471f76850124",
   "lastOpenFiles": [
-    "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
     "Algorytmy II/Podsumowanie.md",
+    "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
+    "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
     "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
     "Algorytmy II/Kolorowanie/Kolorowanie.md",
     "Algorytmy II/Algorytmy Numeryczne",
@@ -218,7 +232,6 @@
     "Algorytmy II/Algorytmy na drzewach BST",
     "Algorytmy II/Algorytmy na drzewach/Algorytm Prima.md",
     "Algorytmy II/Algorytmy na drzewach",
-    "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
     "Algorytmy II/Algorytmy na grafach",
     "Zdjęcia w notatkach"
   ]
