@@ -16,6 +16,9 @@
 	- algorytm zachłanny
 	- zawsze poprawny wynik
 	- wyszukuje od pierwszego wierzchołka do wszystkich innych
+	- Złożoność
+		- $O(|E|\log |V|)$ - oczekiwana
+		- $O(|V|^2)$ - pesymisty
 - Ford-Bellman
 	- dla grafu skierowanego z wagami
 	- wolniejszy od [[Algorytm Dijkstry]]
