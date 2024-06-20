@@ -78,6 +78,8 @@
 	- Liniowy czas przetwarzania
 	- Efektywna metoda wyszukiwania wzorców
 	- Przodek [[Algorytm Knutha-Morrisa-Pratta]]
+	- Buduje tablicę prefiksów dla wzorca
+	- Używa tablicy aby przeskakiwać w tekście unikając n
 - ##### [[Algorytm Knutha-Morrisa-Pratta]]
 	- Wypełnianie tablicy prefiksów jest bardziej zaawansowane niż w [[Algorytm Morrisa-Prata]]
 	- Tworzy tablicę prefiksów, która przechowuje info o najdłuższych prefiksach wzorca
@@ -86,6 +88,6 @@
 - ##### [[Algorytm Karpa-Rabina]]
 	- Wykorzystuje technikę [[Haszowanie]]
 	- Haszuje wzorzec i stopniowo przechodzi po tekście
-	- W przypadku koliz
+	- W przypadku kolizji porównuje wnętrze
 	- Po znalezieniu tego samego hasza, sprawdza wnętrze
 	- Najbardziej wydajny
