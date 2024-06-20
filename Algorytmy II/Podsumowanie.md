@@ -119,5 +119,5 @@
 
 #### [[Kolorowanie grafów]]
 - Przypisujemy każdemu wierzchołkowi kolor w taki sposób że sąsiadujące wierzchołki nie mają tego samego koloru
-- k-chromatyczny jeżeli każdy wierzchołek ma swój kolor
-- liczba ch
+- k-chromatyczny jeżeli graf można pokolorować 3 kolorami
+- liczba chromatyczna to minimalna ilość kolorów
