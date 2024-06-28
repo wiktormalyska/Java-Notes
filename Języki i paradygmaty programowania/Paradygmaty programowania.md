@@ -41,4 +41,6 @@ end.
 ##### Główne pojęcia paradygmatu obiektowego
 - Klasa - abstrakcyjny typ danych, definiowany programowo poprzez podanie dopuszczalnych na nim operacji oraz jego reprezentację
 - Obiekt - element należący do pewnej klasy
-- Klasa podom
+- Klasa potomna - klasa wywiedziona poprzez dziedziczenie z innej klasy
+- Klasa macierzysta - klasa, z której wywodzi się klasa potomna
+- Metoda - podprogram (operacja) działający na obiektach danej klasy zgodnie 
