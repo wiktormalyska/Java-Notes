@@ -79,4 +79,17 @@ aSobg.inspect
 - jest językiem niezwykle elastycznym, do tego stopnia, że struktura klas nie jest sztywna, mówi się że ruby posiada **otwarte klasy**
 	- definicje klas i metod są dostępne dla programisty
 	- można je dowolnie modyfikować
-- Z powodu dziedziczenia zmiany w klasie nadrzędnej będą propagowały do klas potomnych co moż
+- Z powodu dziedziczenia zmiany w klasie nadrzędnej będą propagowały do klas potomnych co może prowadzić do trudnych do wykrycia błędów
+```ruby
+class Fixnum
+	alias old_plus +
+	
+	def +(wyrażenie)
+		(self.old_plus wyrażenie) % 7
+	end
+end
+a = 4 + 4
+puts a    #1
+```
+
+#### Programowanie deklaratywne
