@@ -76,4 +76,6 @@ aSobg.inspect
 #####  Języki obiektowe: C++, C#, Delphi/Object Pascal, Java, Ada, Python, Ruby
 
 ###### Ruby
-- jest ję
+- jest językiem niezwykle elastycznym, do tego stopnia, że struktura klas nie jest sztywna, mówi się że ruby posiada **otwarte klasy**
+	- definicje klas i metod są dostępne dla programisty
+	- można je dowolnie modyfiko
