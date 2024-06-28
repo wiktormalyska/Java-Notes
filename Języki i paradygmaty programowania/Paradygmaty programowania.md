@@ -31,3 +31,4 @@ end.
 #### Paradygmat Obiektowy
 - Jest to rodzina imperatywna, więc struktura i logika kodu jest taka sama
 - zmiana następuje na poziomie struktury danych
+	- dane grupowane są 
