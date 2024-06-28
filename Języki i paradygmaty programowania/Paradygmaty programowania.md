@@ -31,4 +31,5 @@ end.
 #### Paradygmat Obiektowy
 - Jest to rodzina imperatywna, więc struktura i logika kodu jest taka sama
 - zmiana następuje na poziomie struktury danych
-	- dane grupowane są 
+	- dane grupowane są z operacjami, które można na nich wykonać, w nowy twór (obiekt)
+- hermetyzacja (enkapsulacja) polega na ukryciu implementacji obiektu, zaś udostępnieniu jedynie niektórych danych i m
