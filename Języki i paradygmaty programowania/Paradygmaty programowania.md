@@ -30,4 +30,4 @@ end.
 
 #### Paradygmat Obiektowy
 - Jest to rodzina imperatywna, więc struktura i logika kodu jest taka sama
-- zmiana na
+- zmiana następuje na poziomie struktury danych
