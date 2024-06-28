@@ -36,4 +36,7 @@ end.
 - obiekty można grupować w hierarchicznie definiowane klasy, które mają pewne wspólne cechy (mechanizm dziedziczenia w ramach hierarchii)
 - hierarchia klas implikuje zawieranie się , co prowadzi do **polimorfizmu dynamicznego**
 	- metody dobierane są automatycznie, zgodnie z przynależnością do klasy
-- **abstrakcja danych** pozw
+- **abstrakcja danych** pozwala na definiowanie klas w postaci ogólnych szablonów, a na ich podstawie dopiero tworzenia szczegółowych definicji
+
+##### Główne pojęcia paradygmatu obiektowego
+- Klasa - abstrakcyjny 
