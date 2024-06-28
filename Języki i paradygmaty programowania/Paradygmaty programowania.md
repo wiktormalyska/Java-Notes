@@ -93,3 +93,15 @@ puts a    #1
 ```
 
 #### Programowanie deklaratywne
+##### Definicja funkcji silnia w Haskellu
+```haskell
+silnia :: Integer -> Integer
+silnia o = 1
+silnia x = x * silnia (x-1)
+```
+#### Definicja predykatu silnia w Prologu
+```prolog
+silnia(0,X) :- X=1, !.
+silnia(N,X) :- N>0, L is N-1,
+								silnia(L,Y), X is Y*N
+```
