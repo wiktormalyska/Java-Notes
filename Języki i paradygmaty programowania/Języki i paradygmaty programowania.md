@@ -12,3 +12,5 @@
 - Kontrola błędów
 -  Typowanie
 - Paradygmaty programowania
+- Programowanie imperatywne obiektowe
+- Programowanie deklarac
