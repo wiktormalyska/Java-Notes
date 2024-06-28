@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+                "file": "Języki i paradygmaty programowania/Paradygmaty programowania.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+                "file": "Języki i paradygmaty programowania/Paradygmaty programowania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+                "file": "Języki i paradygmaty programowania/Paradygmaty programowania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md"
+                "file": "Języki i paradygmaty programowania/Paradygmaty programowania.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "536ec72166735fab",
   "lastOpenFiles": [
-    "README.md",
     "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+    "Języki i paradygmaty programowania/Paradygmaty programowania.md",
+    "README.md",
     "Języki i paradygmaty programowania",
     "Algorytmy II/Podsumowanie.md",
     "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
@@ -190,7 +191,6 @@
     "Zdjęcia w notatkach/Pasted image 20240613004102.png",
     "Zdjęcia w notatkach/Pasted image 20240613004100.png",
     "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
-    "Java Junior/Podstawy Informatyki/Podstawy Informatyki/Algorytmy.md",
     "Zdjęcia w notatkach/Pasted image 20240613002302.png",
     "Java Junior/Main.canvas",
     "Algorytmy II/Algorytmy na drzewach BST",

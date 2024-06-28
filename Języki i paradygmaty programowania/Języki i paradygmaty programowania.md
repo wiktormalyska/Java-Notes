@@ -11,7 +11,7 @@
 - Kompilacja
 - Kontrola błędów
 -  Typowanie
-- Paradygmaty programowania
+- [[Paradygmaty programowania]]
 - Programowanie imperatywne obiektowe
 - Programowanie deklaratywne funkcyjnie
 	- Rachunek Lambda
