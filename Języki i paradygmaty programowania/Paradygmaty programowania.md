@@ -47,3 +47,6 @@ end.
 - Pole - zmienna zamknięta wewnątrz obiektu
 - Komunikat - wywołanie metody
 - Protokół obiektu - zbiór sposobów odwołania się do obiektu
+
+#### Specyfikatory dostępu
+- public - nieograniczona dostępność z 
