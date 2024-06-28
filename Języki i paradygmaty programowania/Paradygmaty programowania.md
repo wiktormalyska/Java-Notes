@@ -78,4 +78,5 @@ aSobg.inspect
 ###### Ruby
 - jest językiem niezwykle elastycznym, do tego stopnia, że struktura klas nie jest sztywna, mówi się że ruby posiada **otwarte klasy**
 	- definicje klas i metod są dostępne dla programisty
-	- można je dowolnie modyfiko
+	- można je dowolnie modyfikować
+- Z powodu dziedziczenia zmiany w klasie nadrzędnej będą propagowały do klas potomnych co moż
