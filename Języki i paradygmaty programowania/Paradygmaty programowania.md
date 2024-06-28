@@ -39,4 +39,6 @@ end.
 - **abstrakcja danych** pozwala na definiowanie klas w postaci ogólnych szablonów, a na ich podstawie dopiero tworzenia szczegółowych definicji
 
 ##### Główne pojęcia paradygmatu obiektowego
-- Klasa - abstrakcyjny 
+- Klasa - abstrakcyjny typ danych, definiowany programowo poprzez podanie dopuszczalnych na nim operacji oraz jego reprezentację
+- Obiekt - element należący do pewnej klasy
+- Klasa podom
