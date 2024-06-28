@@ -34,3 +34,6 @@ end.
 	- dane grupowane są z operacjami, które można na nich wykonać, w nowy twór (obiekt)
 - **hermetyzacja (enkapsulacja)** polega na ukryciu implementacji obiektu, zaś udostępnieniu jedynie niektórych danych i metod w postaci **interfejsu**
 - obiekty można grupować w hierarchicznie definiowane klasy, które mają pewne wspólne cechy (mechanizm dziedziczenia w ramach hierarchii)
+- hierarchia klas implikuje zawieranie się , co prowadzi do **polimorfizmu dynamicznego**
+	- metody dobierane są automatycznie, zgodnie z przynależnością do klasy
+- **abstrakcja danych** pozw
