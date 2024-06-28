@@ -76,3 +76,4 @@ aSobg.inspect
 #####  Języki obiektowe: C++, C#, Delphi/Object Pascal, Java, Ada, Python, Ruby
 
 ###### Ruby
+- jest ję
