@@ -105,3 +105,6 @@ silnia(0,X) :- X=1, !.
 silnia(N,X) :- N>0, L is N-1,
 								silnia(L,Y), X is Y*N
 ```
+
+- W językach deklaratywnych często efektywniejsze są algorytmy rekurencyjne, niż te oparte o pętle
+- Niekiedy pętli nie da się w ogóle zdefiniować ze względu na brak możi
