@@ -1,3 +1,3 @@
 - **Automat** to abstrakcyjny **model** opisu pewnej klasy maszyn obliczeniowych i oprogramowania
 - Użyteczny w przypadku procesów, w których można wyodrębnić zbiór parametrów w całości je definiujący
-- W przypadku 
+- W przypadku oprogramowania może symulować instrukcje warunkowe, skoki i pętle/rekurencje
