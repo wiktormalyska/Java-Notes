@@ -2,9 +2,13 @@
 #### Zagadnienia:
 - Automaty
 - Wyrażenia regularne
-- gramatyki bezkontekstowe
-- równoważność automatów
+- Gramatyki bezkontekstowe
+- Równoważność automatów
 	- RE
 	- GBK
 	- AZS
-- analiza leksykalna 
+- Analiza leksykalna i syntaktyczna kodu
+- Kompilacja
+- Kontrola błędów
+-  Typowanie
+- Paradygmaty programowania
