@@ -1,0 +1,1 @@
+**Automat** to abstrakcyjny **model** opisu pewnej klasy

@@ -1,6 +1,6 @@
 
 #### Zagadnienia:
-- Automaty
+- [[Automaty]]
 - Wyrażenia regularne
 - Gramatyki bezkontekstowe
 - Równoważność automatów
