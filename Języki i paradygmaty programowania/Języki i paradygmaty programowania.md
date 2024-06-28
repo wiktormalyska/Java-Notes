@@ -13,4 +13,11 @@
 -  Typowanie
 - Paradygmaty programowania
 - Programowanie imperatywne obiektowe
-- Programowanie deklarac
+- Programowanie deklaratywne funkcyjnie
+	- Rachunek Lambda
+	- Monady
+	- Haskell
+- Programowanie deklaratywne w logice
+	- klauzule Horna
+	- Rekurencja
+	- Prolog
