@@ -5,11 +5,35 @@ on:
       - master
       - main
       - web
+      
 permissions:
   contents: write
+  
 jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:    
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        
+      - name: Fetch and merge changes from master to web
+        run: |
+          git config pull.rebase false
+          cd $GITHUB_WORKSPACE
+          git pull origin master
+          git checkout web
+          git merge master --no-comit --no-ff
+          
+      - name: Create docs directory
+        run: mkdir docs
+          
+      - name: Move files from main to docs
+        run: |
+          rsync -av --exclude='docs*/' --exclude='mkdocs.yml' --exclude='LICENSE' --exclude='.github*/' --exclude='.vscode*/' . docs/
+        
   deploy:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
