@@ -51,3 +51,26 @@ end.
 #### Specyfikatory dostępu
 - public - nieograniczona dostępność z zewnątrz klasy
 - private - ukrycie przed dostępem z zewnątrz i pozwala przez to na definiowanie typów abstrakcyjnych
+- protected - ukrycie dla wszystkich za wyjątkiem klas potomnych
+```C++
+unsingned int factorial (unsigned int x) {
+	unsigned int value = 1;
+	for (unsigned int i=2; i<=x; i++)
+		value *= i;
+
+	return value;
+}
+```
+```ruby
+class Song
+	def initialize(name, artist, duration)
+		@name = name
+		@artist = artist
+		@duration = duration
+	end
+end
+
+aSong = Song.new("Bicylops", "Fleck", 260)
+aSobg.inspect
+```
+
