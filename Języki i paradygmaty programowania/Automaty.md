@@ -2,4 +2,5 @@
 - Użyteczny w przypadku procesów, w których można wyodrębnić zbiór parametrów w całości je definiujący
 - W przypadku oprogramowania może symulować instrukcje warunkowe, skoki i pętle/rekurencje
 - Automat składa się ze zbioru stanów i reguł przejścia między nimi
-	- stan - definiowany wartościami parametrów opisujących cały układ, można go prównać z położeniem 
+	- stan - definiowany wartościami parametrów opisujących cały układ, można go porównać z położeniem zatrzymanego układu trybów w mechanizmie, stanu napięcia sprężyn, stanu wahadła 
+	- re
