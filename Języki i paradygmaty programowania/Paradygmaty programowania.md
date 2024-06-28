@@ -49,4 +49,5 @@ end.
 - Protokół obiektu - zbiór sposobów odwołania się do obiektu
 
 #### Specyfikatory dostępu
-- public - nieograniczona dostępność z 
+- public - nieograniczona dostępność z zewnątrz klasy
+- private - ukrycie przed dostępem z zewnątrz i pozwala przez to na definiowanie typów abstrakcyjnych
