@@ -107,4 +107,5 @@ silnia(N,X) :- N>0, L is N-1,
 ```
 
 - W językach deklaratywnych często efektywniejsze są algorytmy rekurencyjne, niż te oparte o pętle
-- Niekiedy pętli nie da się w ogóle zdefiniować ze względu na brak możi
+- Niekiedy pętli nie da się w ogóle zdefiniować ze względu na brak możliwości użycia zmiennych sterujących przebiegiem pętli
+- Jak na razie wszystkie komputery (z wyjątkiem kwantowych) oparte są na imperatywnej architekturze von 
