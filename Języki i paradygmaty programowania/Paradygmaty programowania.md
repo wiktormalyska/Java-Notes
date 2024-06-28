@@ -73,4 +73,6 @@ end
 aSong = Song.new("Bicylops", "Fleck", 260)
 aSobg.inspect
 ```
+#####  Języki obiektowe: C++, C#, Delphi/Object Pascal, Java, Ada, Python, Ruby
 
+###### Ruby
