@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a41a71dade30d784",
+        "id": "a3c8149cd970c3fc",
         "type": "tabs",
         "children": [
           {
-            "id": "c88665ca388af7ea",
+            "id": "536ec72166735fab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorytmy II/Podsumowanie.md",
+                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorytmy II/Podsumowanie.md",
+                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorytmy II/Podsumowanie.md",
+                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorytmy II/Podsumowanie.md"
+                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md"
               }
             }
           }
@@ -147,10 +147,13 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "c88665ca388af7ea",
+  "active": "536ec72166735fab",
   "lastOpenFiles": [
-    "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
+    "README.md",
+    "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+    "Języki i paradygmaty programowania",
     "Algorytmy II/Podsumowanie.md",
+    "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
     "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
     "Algorytmy II/Kolorowanie/Kolorowanie grafów.md",
     "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
@@ -187,14 +190,11 @@
     "Zdjęcia w notatkach/Pasted image 20240613004102.png",
     "Zdjęcia w notatkach/Pasted image 20240613004100.png",
     "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
-    "README.md",
     "Java Junior/Podstawy Informatyki/Podstawy Informatyki/Algorytmy.md",
-    "Java Junior/README.md",
     "Zdjęcia w notatkach/Pasted image 20240613002302.png",
     "Java Junior/Main.canvas",
     "Algorytmy II/Algorytmy na drzewach BST",
     "Algorytmy II/Algorytmy na drzewach",
-    "Algorytmy II/Algorytmy na grafach",
-    "Zdjęcia w notatkach"
+    "Algorytmy II/Algorytmy na grafach"
   ]
 }
