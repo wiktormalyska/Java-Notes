@@ -43,4 +43,7 @@ end.
 - Obiekt - element należący do pewnej klasy
 - Klasa potomna - klasa wywiedziona poprzez dziedziczenie z innej klasy
 - Klasa macierzysta - klasa, z której wywodzi się klasa potomna
-- Metoda - podprogram (operacja) działający na obiektach danej klasy zgodnie 
+- Metoda - podprogram (operacja) działający na obiektach danej klasy zgodnie z jej i jego definicją
+- Pole - zmienna zamknięta wewnątrz obiektu
+- Komunikat - wywołanie metody
+- Protokół obiektu - zbiór sposobów odwołania się do obiektu
