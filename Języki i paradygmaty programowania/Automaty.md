@@ -1,1 +1,2 @@
-**Automat** to abstrakcyjny **model** opisu pewnej klasy
+- **Automat** to abstrakcyjny **model** opisu pewnej klasy maszyn obliczeniowych i oprogramowania
+- 
