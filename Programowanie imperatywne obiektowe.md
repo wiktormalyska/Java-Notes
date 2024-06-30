@@ -1,1 +1,4 @@
-- Łączy Paradygmat 
+- Łączy Paradygmat Imperatywny z Obiektowym
+- Definiuje jak osiągnąć wynik, podając dokładne kroki do wykonania
+- Charakteryzuje się
+	- Se
