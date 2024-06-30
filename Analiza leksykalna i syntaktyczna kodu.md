@@ -29,3 +29,4 @@
 - analizowane są pętle i rekurencje
 - generowanie komunikatów o błędach
 - tworzony jest nowy kod pośredni
+![[Pasted image 20240630231232.png]]
