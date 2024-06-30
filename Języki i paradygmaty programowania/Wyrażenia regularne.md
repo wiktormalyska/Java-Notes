@@ -17,6 +17,15 @@
     
     $$(𝑘𝑜𝑛𝑘𝑎𝑡𝑒𝑛𝑎𝑐𝑗𝑎)𝐿(𝑅1𝑅2)=𝐿(𝑅1)𝐿(𝑅2)$$
     $$(𝑑𝑜𝑚𝑘𝑛𝑖ę𝑐𝑖𝑒)𝐿(𝑅1∗)=(𝐿(𝑅1))∗$$
-    
 
-- jeśli 𝑅R﻿ jest RE, to (𝑅)(R)﻿ jest również RE reprezentującym ten sam język co 𝑅,𝐿((𝑅))=𝐿(𝑅)R,L((R))=L(R)
+- jeśli 𝑅﻿ jest RE, to (𝑅)﻿ jest również RE reprezentującym ten sam język co 𝑅,𝐿((𝑅))=𝐿(𝑅)R
+- **Uwagi:**
+	- pojedyncze symbole alfabetu są RE
+	- suma i konkatenacja RE (domknięcie (dopełnienie) jest kombinacją obu tych operacji) tworzą poprawne RE
+	- RE możemy grupować za pomocą nawiasów
+
+##### Kolejność wykonywania operacji na RE:
+1. domknięcie (_”potęgowanie”_)
+2. konkatenacja (_”mnożenie”_)
+3. suma
+
