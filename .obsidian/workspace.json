@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki.md",
+                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
+                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
+                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md"
+                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md"
               }
             }
           }
@@ -160,7 +159,7 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "72cad2e4e61555ca",
+  "active": "536ec72166735fab",
   "lastOpenFiles": [
     "Języki i paradygmaty programowania/Gramatyki.md",
     "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
