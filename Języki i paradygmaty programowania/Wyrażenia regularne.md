@@ -29,3 +29,4 @@
 2. konkatenacja (_”mnożenie”_)
 3. suma
 
+##### Twierdzenia o odpowiedniości automatów i RE
