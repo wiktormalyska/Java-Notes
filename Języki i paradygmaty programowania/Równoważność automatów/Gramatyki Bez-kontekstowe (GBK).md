@@ -1,1 +1,3 @@
-- Gramatyki w których reguły mają postać $A → \alpha$ , gdzie $A$ jest symbole
+- Gramatyki w których reguły mają postać $A → \alpha$ , gdzie $A$ jest symbolem nieterminalnym, a $\alpha$ ciągiem symboli terminalnych i nieterminalnych
+- Charakteryzują się
+	- Nieterminalne - Symbole, które mogą być rozwijane przez produkcj
