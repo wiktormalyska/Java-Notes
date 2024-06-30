@@ -9,4 +9,5 @@
 - domknięcie - zdefiniowane jako suma łańcuchów należących  do kolejnych konkatenacji języka z samym sobą
 
 #### Definicja: algebra RE
-- 
+- Algebrę wyrażeń regularnych definiuje się następująco
+	- E jest RE reprezentującym język {E}
