@@ -95,3 +95,8 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 			- $$δ^(q,m)=δ(p,x)=δ(δ^(q,l),x)$$
 ##### Rozszerzona funkcja przejścia a języki
 - rozszerzone funkcje przejścia mogą posłużyć do zdefiniowania języka DAS
+##### Język DAS
+- nazywamy zbiór łańcuchów przeprowadzających stan początkowy automatu A w jeden z jego stanów akceptujących
+
+##### Język regularny
+- jeśli dla danego języka istnieje taki DAM, 
