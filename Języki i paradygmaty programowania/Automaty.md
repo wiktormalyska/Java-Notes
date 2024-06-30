@@ -77,4 +77,6 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 
 #### Rysowanie diagramów (umowa)
 ##### Reguły rysowania diagramów definiujących DAS
-- każdemu stanowi 
+- każdemu stanowi Q odpowiada jeden wierzchołek, są podpisane oznaczeniem stanu i rysujemy je w postaci kółka
+- na stan wejściowy wskazuje strzałka z napisem START
+- 
