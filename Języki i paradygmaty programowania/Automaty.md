@@ -9,4 +9,5 @@
 - Automat skończony zawiera skończoną liczbę stanów, w odróżnieniu od automatów nieskończonych, które są nieograniczone
 - Przykład wyłącznika światła:![[Pasted image 20240630130414.png]]
 - zapalone i zgaszone to stany przełącznika
-- przejście między nimi następi
+- przejście między nimi następuje poprzez zaistnienie sytuacji "naciśnij"
+- ta sytuacja jest odczytywana z wejścia automatu (nie zaznaczonego na rysunku), czyli 
