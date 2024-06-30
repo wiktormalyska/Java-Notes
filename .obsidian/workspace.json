@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d1aced4f33e0423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analiza leksykalna i syntaktyczna kodu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
+                "file": "Analiza leksykalna i syntaktyczna kodu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
+                "file": "Analiza leksykalna i syntaktyczna kodu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md"
+                "file": "Analiza leksykalna i syntaktyczna kodu.md"
               }
             }
           }
@@ -184,12 +196,12 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "72cad2e4e61555ca",
+  "active": "1d1aced4f33e0423",
   "lastOpenFiles": [
+    "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
     "Analiza leksykalna i syntaktyczna kodu.md",
     "Zdjęcia w notatkach/Pasted image 20240630224251.png",
     "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
-    "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
     "Kompilacja.md",
     "Zdjęcia w notatkach/Pasted image 20240630224238.png",
     "Języki i paradygmaty programowania/Gramatyki.md",
