@@ -1,1 +1,1 @@
-- Gramatyki w których reguły maj
+- Gramatyki w których reguły mają postać $A → \alpha$ , gdzie $A$ jest symbole
