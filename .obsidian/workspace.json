@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Junior/Podstawy Informatyki/Koncepcja Messagingu/Koncepcja Messagingu.md",
+                "file": "Java Junior/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Junior/Podstawy Informatyki/Koncepcja Messagingu/Koncepcja Messagingu.md",
+                "file": "Java Junior/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Junior/Podstawy Informatyki/Koncepcja Messagingu/Koncepcja Messagingu.md"
+                "file": "Java Junior/README.md"
               }
             }
           }
@@ -165,11 +165,12 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "ca79b94c8646f477",
+  "active": "ec010ac14393e074",
   "lastOpenFiles": [
-    "Java Junior/Podstawy Informatyki/Podstawy/Podstawy.md",
-    "Java Junior/Podstawy Informatyki/Koncepcja Messagingu/Koncepcja Messagingu.md",
+    "Java Junior/Narzędzia/Narzędzia.md",
     "Java Junior/README.md",
+    "Java Junior/Podstawy Informatyki/Koncepcja Messagingu/Koncepcja Messagingu.md",
+    "Java Junior/Podstawy Informatyki/Podstawy/Podstawy.md",
     "README.md",
     "Algorytmy II/Algorytmy II.md",
     "Main.canvas",
@@ -206,7 +207,6 @@
     "Zdjęcia w notatkach/Pasted image 20240630161008.png",
     "Zdjęcia w notatkach/Pasted image 20240630150511.png",
     "Algorytmy II/Podsumowanie.md",
-    "Algorytmy II/Algorytmy na drzewach/Drzewo BST.md",
     "Języki i paradygmaty programowania",
     "Algorytmy II/Algorytmy Numeryczne",
     "Algorytmy II/Kolorowanie",

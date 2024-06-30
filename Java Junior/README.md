@@ -9,7 +9,10 @@ Java Junior Developer go to notes
 		- [[Struktury Danych]]
 		- [[Systemy Operacyjne]]
 		- [[UML]]
-	- 
+	- [[Koncepcja Messagingu]]
+		- [[Kafka]]
+		- [[Kolejki]]
+		- [[Publikuj, Zasubskrybuj]]
 - [[Java]]
 	- [[Podstawy Javy]]
 		- [[Zmienne]]
@@ -26,3 +29,5 @@ Java Junior Developer go to notes
 		- [[Programowanie funkcyjne]]
 		- [[Serverlety, Filtry HTTP]]
 		- [[Wielo wątkowość]]
+- [[Narzędzia]]
+	- 
