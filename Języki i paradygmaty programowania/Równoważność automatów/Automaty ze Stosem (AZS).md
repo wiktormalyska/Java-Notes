@@ -3,4 +3,6 @@
 	- Stany - skończona liczba stanów
 	- Alfabet - skończona liczba symboli
 	- Stos - struktura danych umożliwiająca dodawanie i usuwanie elementów w sposób LIFO
-	- Funkcja przejścia - uwzględnia bięzą
+	- Funkcja przejścia - uwzględnia bieżący stan, symbol wejściowy oraz zawartość stosu
+	- Stan początkowy - Jeden stan, w którym automat rozpoczyna działanie
+	- Stany akcept
