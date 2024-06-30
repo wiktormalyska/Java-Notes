@@ -117,4 +117,6 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 	- może znajdować się w kilku stanach jednocześnie
 	- analizuje symultanicznie kilka możliwych ścieżek wędrówki po grafie
 		- niektóre prowadzą do stanów akceptowalnych, inne kończą się na nieakceptowalnych
-##### P
+##### Przykład
+- NAS rozstrzygający, czy liczba jest parzysta
+- Dla ułatwienia zapisujemy liczbę w postaci binarnej, a więc zadanie NAS sprowadza się do sprawdzenia, czy ciąg binarny kończy się symbolem 0
