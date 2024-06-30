@@ -14,8 +14,8 @@
 - [[Paradygmaty programowania]]
 - [[Programowanie imperatywne obiektowe]]
 - [[Programowanie deklaratywne funkcyjnie]]
-	- Rachunek Lambda
-	- Monady
+	- [[Rachunek Lambda]]
+	- [[Monady]]
 	- Haskell
 - Programowanie deklaratywne w logice
 	- klauzule Horna
