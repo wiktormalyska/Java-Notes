@@ -53,4 +53,14 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 	- DAS to skończony automat, deterministyczny, zdefiniowany, gdzie
 	- Q - zbiór stanów
 	- Σ - zbiór symboli wejściowych (alfabet)
-	- 𝛿 - funkcje przejś
+	- 𝛿 - funkcje przejścia między stanami
+	- 𝑞0∈𝑄 - stan początkowy
+	- 𝐹⊂𝑄 - zbiór stanów akceptujących
+	- ![[Pasted image 20240630134134.png]]
+	- $$- 𝑄={𝑞0,𝑞1}Q={q0​,q1​}﻿
+
+- Σ={𝑛}Σ={n}﻿
+
+- 𝛿(𝑞0,𝑛)=𝑞1, 𝛿(𝑞1,𝑛)=𝑞0δ(q0​,n)=q1​, δ(q1​,n)=q0​﻿
+
+- 𝐹={𝑞1}F={q1​}$$
