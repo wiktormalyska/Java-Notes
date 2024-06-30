@@ -2,6 +2,13 @@
 Java Junior Developer go to notes
 
 - [[Podstawy Informatyki]]
+	- [[Podstawy]]
+		- [[Algorytmy]]
+		- [[Logika]]
+		- [[Java Junior/Podstawy Informatyki/Podstawy/Sieci|Sieci]]
+		- [[Struktury Danych]]
+		- [[Systemy Operacyjne]]
+		- [[UML]]
 	- 
 - [[Java]]
 	- [[Podstawy Javy]]
