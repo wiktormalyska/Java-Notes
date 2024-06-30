@@ -17,4 +17,8 @@
 		- Zmniejsza ryzyko błędów, ale wymaga większej dyscypliny przy pisaniu kodu
 		- Przykład: Python, Haskell, Rust
 	- Słabe typowanie
-		- Typy mog
+		- Typy mogą być automatycznie konwertowane w różnych kontekstach
+		- Może prowadzić do błędów typów, ale zwiększa elastyczność w niektórych sytuacjach
+		- Przykład: JS, C, PHP
+- Jawne vs. Niejawne Typowanie
+	- Jawne 
