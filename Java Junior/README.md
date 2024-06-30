@@ -46,4 +46,9 @@ Java Junior Developer go to notes
 		- [[Relacje]]
 		- [[Normalizacja]]
 		- [[JPA]]
-	- 
+	- [[Zaawansowane Bazy Danych]]
+		- [[Indeksowanie]]
+		- [[Optymalizacja zapytań]]
+		- [[Partycjowanie]]
+		- [[NoSQL]]
+- [[Docker]]

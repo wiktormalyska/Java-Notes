@@ -51,8 +51,6 @@
   "Java Junior/Git": "SiGit",
   "Java Junior/Java": "FabJava",
   "Java Junior/Java/Zaawansowana Java": "FabJava",
-  "Java Junior/Docker": "SiDocker",
-  "Java Junior/Docker/Docker.md": "SiDocker",
   "Java Junior/Bazy Danych": "FiDatabase",
   "Java Junior/Narzędzia": "FiTool",
   "Java Junior/Podstawy Informatyki": "FasComputer",
@@ -84,5 +82,7 @@
   "Java Junior/Podstawy Informatyki/Podstawy Informatyki.md": "FasComputer",
   "Java Junior/Narzędzia/Narzędzia.md": "FiTool",
   "Java Junior/Git/Git.md": "SiGit",
-  "Java Junior/Bazy Danych/Bazy Danych.md": "FiDatabase"
+  "Java Junior/Bazy Danych/Bazy Danych.md": "FiDatabase",
+  "Java Junior/Konteneryzacja": "SiDocker",
+  "Java Junior/Konteneryzacja/Docker.md": "SiDocker"
 }
