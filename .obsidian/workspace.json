@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e41adff9fa9a9d09",
+        "id": "1cbb176034dc45d7",
         "type": "tabs",
         "children": [
           {
-            "id": "4b13d1aeaa642486",
+            "id": "5d1394bc8ee2e0e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programowanie imperatywne obiektowe.md",
+                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programowanie imperatywne obiektowe.md",
+                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programowanie imperatywne obiektowe.md",
+                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programowanie imperatywne obiektowe.md"
+                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "4b13d1aeaa642486",
+  "active": "5d1394bc8ee2e0e7",
   "lastOpenFiles": [
+    "Języki i paradygmaty programowania/Programowanie imperatywne obiektowe.md",
     "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
-    "Programowanie imperatywne obiektowe.md",
     "MAIN README.md",
     "Języki i paradygmaty programowania/Typowanie.md",
     "Języki i paradygmaty programowania/Paradygmaty programowania.md",

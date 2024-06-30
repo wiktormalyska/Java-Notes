@@ -95,6 +95,15 @@ int main() {
 ```
 ##### Przykłady
 - C++
-- Java\
-- $C#$
-- 
+- Java
+- C#\
+- Python
+
+##### **Zalety i Wady**
+- **Zalety:**
+	- **Modularność:** Kod jest podzielony na obiekty, co ułatwia zarządzanie i modyfikację.
+	- **Reużywalność:** Możliwość ponownego użycia kodu dzięki dziedziczeniu i polimorfizmowi.
+	- **Klarowność:** Łatwiejsze zrozumienie interakcji w systemie przez modelowanie rzeczywistych encji jako obiektów.
+- **Wady:**
+	- **Złożoność:** Programowanie obiektowe może dodawać złożoność w porównaniu do podejścia proceduralnego, szczególnie dla prostych problemów.
+	- **Wydajność:** Obiektowe podejście może mieć dodatkowy narzut czasowy i pamięciowy w porównaniu do bardziej bezpośredniego podejścia proceduralnego.
