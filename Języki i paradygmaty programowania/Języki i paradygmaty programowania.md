@@ -10,7 +10,7 @@
 - [[Analiza leksykalna i syntaktyczna kodu]]
 - [[Kompilacja]]
 - [[Kontrola błędów]]
--  Typowanie
+-  [[Typowanie]]
 - [[Paradygmaty programowania]]
 - Programowanie imperatywne obiektowe
 - Programowanie deklaratywne funkcyjnie
