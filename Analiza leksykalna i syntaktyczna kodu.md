@@ -21,4 +21,7 @@
 
 #### Analiza semantyczna
 ![[Pasted image 20240630230518.png]]
-- analiza znaczeniowa - przypisania do abstrakcyjnych tworów opisywanych tokenami (zmiennymi gramatyki) takimi jak wyrażenie, etykieta, zmienna itd.
+- analiza znaczeniowa - przypisania konkretnych wartości do abstrakcyjnych tworów opisywanych tokenami (zmiennymi gramatyki) takimi jak wyrażenie, etykieta, zmienna itd. 
+- analizowany jest kod pośredni generowany przez skaner i parser
+- zajmuje się tym część kompilatora (interpretera)
+- sprawdzane są zgod
