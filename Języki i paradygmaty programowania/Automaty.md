@@ -93,4 +93,5 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 		- to:
 			- $$δ^(q,ε)=q$$
 			- $$δ^(q,m)=δ(p,x)=δ(δ^(q,l),x)$$
-##### E
+##### Rozszerzona funkcja przejścia a języki
+- rozszerzone funkcje przejścia mogą posłużyć do zdefiniowania języka DAS
