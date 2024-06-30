@@ -20,3 +20,5 @@
 
 
 #### Analiza semantyczna
+![[Pasted image 20240630230518.png]]
+- analiza znaczeniowa - przypisania do abstrakcyjnych tworów opisywanych tokenami (zmiennymi gramatyki) takimi jak wyrażenie, etykieta, zmienna itd.
