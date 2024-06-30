@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1cbb176034dc45d7",
+        "id": "e66563dc720cc552",
         "type": "tabs",
         "children": [
           {
-            "id": "5d1394bc8ee2e0e7",
+            "id": "8fe863b5ee065eb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Programowanie deklaratywne funkcyjnie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55ca9a18d392f313",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki/Automaty.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b42fc01adeaecc07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Typowanie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86b64fe7abbe6434",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Haskell.md",
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne w logice.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki/Automaty.md",
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne w logice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki/Automaty.md",
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne w logice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki/Automaty.md"
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne w logice.md"
               }
             }
           }
@@ -184,38 +147,38 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "55ca9a18d392f313",
+  "active": "8fe863b5ee065eb6",
   "lastOpenFiles": [
+    "Języki i paradygmaty programowania/Programowanie deklaratywne w logice",
+    "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+    "MAIN README.md",
+    "Języki i paradygmaty programowania/Programowanie deklaratywne w logice.md",
+    "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Programowanie deklaratywne funkcyjnie.md",
+    "Języki i paradygmaty programowania/Gramatyki/Automaty.md",
     "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Typowanie.md",
     "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Kontrola błędów.md",
     "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Kompilacja.md",
     "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Analiza leksykalna i syntaktyczna kodu.md",
     "Języki i paradygmaty programowania/Gramatyki/Gramatyki bezkontekstowe.md",
-    "Języki i paradygmaty programowania/Gramatyki/Automaty.md",
     "Języki i paradygmaty programowania/Gramatyki/Gramatyki.md",
     "Języki i paradygmaty programowania/Paradygmaty programowania/Programowanie imperatywne obiektowe.md",
     "Języki i paradygmaty programowania/Paradygmaty programowania/Paradygmaty programowania.md",
     "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Rachunek Lambda.md",
-    "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Programowanie deklaratywne funkcyjnie.md",
     "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Monady.md",
     "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Haskell.md",
     "Języki i paradygmaty programowania/Równoważność automatów/Równoważność automatów.md",
     "Języki i paradygmaty programowania/Równoważność automatów/Gramatyki Bez-kontekstowe (GBK).md",
     "Języki i paradygmaty programowania/Równoważność automatów/Automaty ze Stosem (AZS).md",
     "Języki i paradygmaty programowania/Równoważność automatów/Automaty Regularne (RE).md",
-    "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
     "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Wyrażenia regularne.md",
     "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu",
     "Języki i paradygmaty programowania/Paradygmaty programowania",
     "Języki i paradygmaty programowania/Gramatyki",
     "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie",
-    "MAIN README.md",
     "Algorytmy II/Algorytmy II.md",
     "Java Junior/README.md",
     "Java Junior/Testy/Zaawansowane Testy/Zaawansowane Testy.md",
     "Java Junior/Zarządzanie pakietami/Zarządzanie pakietami.md",
-    "Java Junior/Zarządzanie pakietami/Maven/Monitorowanie i Logowanie/Monitorowanie i Logowanie.md",
-    "Java Junior/Zarządzanie pakietami/Maven/Maven.md",
     "Main.canvas",
     "Java Junior/Java/Java/Bez nazwy",
     "Java Junior/Main.canvas",

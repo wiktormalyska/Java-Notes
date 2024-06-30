@@ -17,7 +17,7 @@
 	- [[Rachunek Lambda]]
 	- [[Monady]]
 	- [[Haskell]]
-- Programowanie deklaratywne w logice
+- [[Programowanie deklaratywne w logice]]
 	- klauzule Horna
 	- Rekurencja
 	- Prolog
