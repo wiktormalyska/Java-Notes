@@ -138,4 +138,5 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 - istnieję problemy, które łatwiej opisać za pomocą DAS, a inne za pomocą NAS, ale jest to jedynie kwestia wygody i elegancji zapisu
 - równoważność działa w obie strony DAS <-> NAS
 - z grubsza każdemu zbiorowi stanów NAS przypisuje się nowy stan DAS i na tej podstawie konstruuje funkcje przejścia
-- jeśli NAS ma n stanów, to konstruk
+- jeśli NAS ma n stanów, to konstrukcja formalnie przewiduje $2^n$ stanów dla DAS
+- w praktyce wiele z tych stanów jest nieosiągalnych (tworzą część grafu rozłączną ze stanem początkowym) i powinno się je usunąć, dlate
