@@ -12,6 +12,9 @@
 		- Pozwala na większą elastyczność, ale błędy typów mogę wystąpić podczas działania programu
 		- Przykład: Python, JS, Ruby
 - Silne vs. Słabe Typowanie
-	- Si
-	- Typy są ściśle egzekwowane, co uniemożliwia mieszanie typów bez wyraźnej konwersji
-	- Zmniejs
+	- Silne typowanie
+		- Typy są ściśle egzekwowane, co uniemożliwia mieszanie typów bez wyraźnej konwersji
+		- Zmniejsza ryzyko błędów, ale wymaga większej dyscypliny przy pisaniu kodu
+		- Przykład: Python, Haskell, Rust
+	- Słabe typowanie
+		- Typy mog
