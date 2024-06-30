@@ -30,4 +30,6 @@
 3. suma
 
 ##### Twierdzenia o odpowiedniości automatów i RE
-- Jeśli język jest opisywan
+- Jeśli język 𝐿 jest akceptowany przez pewien automat, to istnieje wyrażenie regularne, które opisuje ten język
+##### Twierdzenie o odpowiedniości RE i automatu
+- Jeśli język 𝐿﻿ jest opisywany przez wyrażenie regularne, to istnieje automat 𝜀ε﻿-NAS, który akceptuje ten język
