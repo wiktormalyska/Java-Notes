@@ -43,3 +43,7 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 
 #### Automat deterministyczny
 - przejścia między stanami są dokładnie określone
+- dla danego wejścia istnieje dokładnie jeden stan wyjściowy
+
+#### Automat niedeterministyczny
+- w danych warunkach istnieją przejścia do kilku 
