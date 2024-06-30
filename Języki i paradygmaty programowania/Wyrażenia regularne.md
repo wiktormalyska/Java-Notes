@@ -30,3 +30,4 @@
 3. suma
 
 ##### Twierdzenia o odpowiedniości automatów i RE
+- Jeśli język jest opisywan
