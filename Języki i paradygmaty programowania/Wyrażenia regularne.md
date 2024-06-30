@@ -1,1 +1,2 @@
-- wykorzystywane w zadaniach dopasow
+- wykorzystywane w zadaniach dopasowania i rozpoznawania łańcuchów, m.in. w wyszukiwarkach, parserach, analizatorach treści
+- techniczni
