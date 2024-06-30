@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "CoCode",
       "TiExclamationCircle",
       "TiMath",
       "SiSpringsecurity",
@@ -75,7 +76,7 @@
   "Algorytmy II/Algorytmy II.md": "TiMath",
   "Java Junior/README.md": "FabJava",
   "Algorytmy II/Podsumowanie.md": "TiExclamationCircle",
-  "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md": "TiExclamationCircle",
+  "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md": "CoCode",
   "Java Junior/Java/Java.md": "FabJava",
   "Java Junior/Java/Podstawy Javy": "FabJava",
   "Java Junior/Java/Zaawansowana Java/Zaawansowana Java.md": "FabJava",

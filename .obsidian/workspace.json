@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Java Junior/Podstawy Informatyki/Podstawy/Podstawy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Java Junior/Podstawy Informatyki/Podstawy/Podstawy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Java Junior/Podstawy Informatyki/Podstawy/Podstawy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Java Junior/Podstawy Informatyki/Podstawy/Podstawy.md"
               }
             }
           }
@@ -149,16 +149,19 @@
   },
   "active": "ca79b94c8646f477",
   "lastOpenFiles": [
-    "Java Junior/Podstawy Informatyki/Podstawy Informatyki.md",
     "Java Junior/README.md",
+    "Java Junior/Podstawy Informatyki/Podstawy/Podstawy.md",
+    "README.md",
+    "Algorytmy II/Algorytmy II.md",
+    "Main.canvas",
+    "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+    "Java Junior/Podstawy Informatyki/Podstawy Informatyki.md",
     "Java Junior/Java/Java.md",
     "Java Junior/Java/Podstawy Javy/Podstawy Javy.md",
     "Java Junior/Java/Zaawansowana Java/Zaawansowana Java.md",
     "Java Junior/Java/Java/Bez nazwy",
-    "Java Junior/Podstawy Informatyki/Podstawy Informatyki/UML.md",
-    "Main.canvas",
+    "Java Junior/Podstawy Informatyki/Podstawy/UML.md",
     "Java Junior/Main.canvas",
-    "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
     "Języki i paradygmaty programowania/Typowanie.md",
     "Języki i paradygmaty programowania/Kompilacja.md",
     "Analiza leksykalna i syntaktyczna kodu.md",
@@ -186,9 +189,6 @@
     "Algorytmy II/Podsumowanie.md",
     "Algorytmy II/Algorytmy na drzewach/Drzewo BST.md",
     "Algorytmy II/Algorytmy na drzewach/Drzewo AVL.md",
-    "Algorytmy II/Algorytmy na drzewach/B drzewa.md",
-    "Algorytmy II/Algorytmy genetyczne/Algorytmy genetyczne.md",
-    "README.md",
     "Języki i paradygmaty programowania",
     "Algorytmy II/Algorytmy Numeryczne",
     "Algorytmy II/Kolorowanie",
