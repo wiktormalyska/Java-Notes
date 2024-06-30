@@ -99,4 +99,4 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 - nazywamy zbiór łańcuchów przeprowadzających stan początkowy automatu A w jeden z jego stanów akceptujących
 
 ##### Język regularny
-- jeśli dla danego języka istnieje taki DAM, 
+- język jest regul
