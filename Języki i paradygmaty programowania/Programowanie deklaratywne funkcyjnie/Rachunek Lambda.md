@@ -6,3 +6,11 @@
 
 
 **Lambda** w Haskell
+```haskell
+-- Lambda wyrażenie do dodawania dwóch liczb
+add :: Int -> Int -> Int
+add = \x y -> x + y
+
+-- Użycie lambda
+result = add 3 5 -- Wynik: 8
+```
