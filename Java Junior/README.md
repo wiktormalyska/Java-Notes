@@ -1,6 +1,7 @@
 # Junior Java Developer go-to notes
 Java Junior Developer go to notes
 
+- 
 - [[Java]]
 	- [[Podstawy Javy]]
 		- [[Zmienne]]
@@ -17,4 +18,3 @@ Java Junior Developer go to notes
 		- [[Programowanie funkcyjne]]
 		- [[Serverlety, Filtry HTTP]]
 		- [[Wielo wątkowość]]
-- [[Bazy]]

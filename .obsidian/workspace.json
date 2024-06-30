@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Junior/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Junior/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Junior/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Junior/README.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "ca79b94c8646f477",
   "lastOpenFiles": [
+    "Java Junior/Podstawy Informatyki/Podstawy Informatyki.md",
+    "Java Junior/README.md",
     "Java Junior/Java/Java.md",
     "Java Junior/Java/Podstawy Javy/Podstawy Javy.md",
     "Java Junior/Java/Zaawansowana Java/Zaawansowana Java.md",
-    "Java Junior/README.md",
     "Java Junior/Java/Java/Bez nazwy",
     "Java Junior/Podstawy Informatyki/Podstawy Informatyki/UML.md",
     "Main.canvas",
@@ -189,7 +190,6 @@
     "Algorytmy II/Algorytmy genetyczne/Algorytmy genetyczne.md",
     "README.md",
     "Języki i paradygmaty programowania",
-    "Algorytmy II/Algorytmy Numeryczne/Algorytmy Numeryczne.md",
     "Algorytmy II/Algorytmy Numeryczne",
     "Algorytmy II/Kolorowanie",
     "Algorytmy II/Algorytmy genetyczne",
