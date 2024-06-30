@@ -9,7 +9,7 @@
 	- [[Automaty ze Stosem (AZS)]]
 - [[Analiza leksykalna i syntaktyczna kodu]]
 - [[Kompilacja]]
-- Kontrola błędów
+- [[Kontrola błędów]]
 -  Typowanie
 - [[Paradygmaty programowania]]
 - Programowanie imperatywne obiektowe

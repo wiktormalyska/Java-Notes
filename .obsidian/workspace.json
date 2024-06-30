@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a3c8149cd970c3fc",
+        "id": "b0cca24672d930fa",
         "type": "tabs",
         "children": [
           {
-            "id": "536ec72166735fab",
+            "id": "8eb1ed6fc5dc0f73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "faa8dac022ee8162",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analiza leksykalna i syntaktyczna kodu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61a2304eac672d5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kompilacja.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72cad2e4e61555ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d1aced4f33e0423",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kompilacja.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,17 +147,18 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "72cad2e4e61555ca",
+  "active": "8eb1ed6fc5dc0f73",
   "lastOpenFiles": [
+    "Języki i paradygmaty programowania/Kompilacja.md",
     "Analiza leksykalna i syntaktyczna kodu.md",
+    "Kontrola błędów.md",
+    "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
     "Zdjęcia w notatkach/Pasted image 20240630231232.png",
     "Zdjęcia w notatkach/Pasted image 20240630231106.png",
     "Zdjęcia w notatkach/Pasted image 20240630230518.png",
     "Zdjęcia w notatkach/Pasted image 20240630230252.png",
     "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
-    "Kompilacja.md",
     "Zdjęcia w notatkach/Pasted image 20240630224251.png",
-    "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
     "Zdjęcia w notatkach/Pasted image 20240630224238.png",
     "Języki i paradygmaty programowania/Gramatyki.md",
     "Języki i paradygmaty programowania/Równoważność automatów/Automaty ze Stosem (AZS).md",
