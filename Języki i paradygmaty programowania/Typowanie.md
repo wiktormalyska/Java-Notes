@@ -48,4 +48,4 @@
 		- Przykład: Haskell, ML
 	- Obiektowe
 		- Typy są często powiązane z klasami i hierarchiami dziedziczenia
-		- 
+		- Przykład: Java, C#, Scala
