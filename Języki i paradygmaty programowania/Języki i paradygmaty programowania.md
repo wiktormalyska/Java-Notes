@@ -1,7 +1,7 @@
 
 #### Zagadnienia:
 - [[Automaty]]
-- Wyrażenia regularne
+- [[Wyrażenia regularne]]
 - Gramatyki bezkontekstowe
 - Równoważność automatów
 	- RE

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Języki i paradygmaty programowania/Automaty.md",
+                "file": "Języki i paradygmaty programowania/Wyrażenia regularne.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Automaty.md",
+                "file": "Języki i paradygmaty programowania/Wyrażenia regularne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Automaty.md",
+                "file": "Języki i paradygmaty programowania/Wyrażenia regularne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Automaty.md"
+                "file": "Języki i paradygmaty programowania/Wyrażenia regularne.md"
               }
             }
           }
@@ -149,14 +149,15 @@
   },
   "active": "536ec72166735fab",
   "lastOpenFiles": [
+    "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+    "Języki i paradygmaty programowania/Wyrażenia regularne.md",
+    "Języki i paradygmaty programowania/Paradygmaty programowania.md",
+    "Języki i paradygmaty programowania/Automaty.md",
     "Zdjęcia w notatkach/Pasted image 20240630161014.png",
     "Zdjęcia w notatkach/Pasted image 20240630161008.png",
     "Zdjęcia w notatkach/Pasted image 20240630150511.png",
     "Zdjęcia w notatkach/Pasted image 20240630134302.png",
     "Zdjęcia w notatkach/Pasted image 20240630134134.png",
-    "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
-    "Języki i paradygmaty programowania/Paradygmaty programowania.md",
-    "Języki i paradygmaty programowania/Automaty.md",
     "Zdjęcia w notatkach/Pasted image 20240630130414.png",
     "Algorytmy II/Podsumowanie.md",
     "Algorytmy II/Algorytmy na drzewach/Drzewo BST.md",
@@ -189,7 +190,6 @@
     "Algorytmy II/Algorytmy genetyczne",
     "Algorytmy II/Algorytmy probabilistyczne",
     "Zdjęcia w notatkach/Pasted image 20240613100219.png",
-    "Zdjęcia w notatkach/Pasted image 20240613100217.png",
     "Algorytmy II/Geometria Obliczeniowa",
     "Algorytmy II/Wyszukiwanie wzorca w tekście",
     "Java Junior/Main.canvas",
