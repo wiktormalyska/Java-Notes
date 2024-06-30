@@ -59,4 +59,9 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 	- ![[Pasted image 20240630134134.png]]$$𝑄={𝑞0,𝑞1}Q={q0​,q1​}$$$$Σ={𝑛}Σ={n}$$$$𝛿(𝑞0,𝑛)=𝑞1, 𝛿(𝑞1,𝑛)=𝑞0δ(q0​,n)=q1​, δ(q1​,n)=q0$$$$𝐹={𝑞1}F={q1​}$$
 	- ![[Pasted image 20240630134302.png]]
 	-   “→” oznacza stan wejściowy, zaś “*” stany akceptowane
-	- Mamy 3 równoważne zapisy 
+	- Mamy 3 równoważne zapisy definiujące DAS
+		- zapis "piątkowy"
+		- diagram
+		- tabela
+	- Przykład:
+		- Automat DAS rozpoznający w tekście ciąg UMCS (ciąg liter)
