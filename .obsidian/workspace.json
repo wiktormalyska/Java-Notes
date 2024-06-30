@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne w logice.md",
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne w logice/Rekurencja.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a068ef8686e97dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne w logice/klauzule Horna.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne w logice.md",
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne w logice/Rekurencja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne w logice.md",
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne w logice/Rekurencja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne w logice.md"
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne w logice/Rekurencja.md"
               }
             }
           }
@@ -149,10 +161,13 @@
   },
   "active": "8fe863b5ee065eb6",
   "lastOpenFiles": [
-    "Języki i paradygmaty programowania/Programowanie deklaratywne w logice",
+    "Języki i paradygmaty programowania/Programowanie deklaratywne w logice/Programowanie deklaratywne w logice.md",
+    "Języki i paradygmaty programowania/Programowanie deklaratywne w logice/klauzule Horna.md",
+    "Języki i paradygmaty programowania/Programowanie deklaratywne w logice/Prolog.md",
     "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+    "Języki i paradygmaty programowania/Programowanie deklaratywne w logice/Rekurencja.md",
+    "Języki i paradygmaty programowania/Programowanie deklaratywne w logice",
     "MAIN README.md",
-    "Języki i paradygmaty programowania/Programowanie deklaratywne w logice.md",
     "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Programowanie deklaratywne funkcyjnie.md",
     "Języki i paradygmaty programowania/Gramatyki/Automaty.md",
     "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Typowanie.md",
@@ -177,8 +192,6 @@
     "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie",
     "Algorytmy II/Algorytmy II.md",
     "Java Junior/README.md",
-    "Java Junior/Testy/Zaawansowane Testy/Zaawansowane Testy.md",
-    "Java Junior/Zarządzanie pakietami/Zarządzanie pakietami.md",
     "Main.canvas",
     "Java Junior/Java/Java/Bez nazwy",
     "Java Junior/Main.canvas",
@@ -195,7 +208,6 @@
     "Zdjęcia w notatkach/Pasted image 20240630150511.png",
     "Języki i paradygmaty programowania",
     "Algorytmy II/Algorytmy Numeryczne",
-    "Algorytmy II/Kolorowanie",
-    "Algorytmy II/Algorytmy genetyczne"
+    "Algorytmy II/Kolorowanie"
   ]
 }

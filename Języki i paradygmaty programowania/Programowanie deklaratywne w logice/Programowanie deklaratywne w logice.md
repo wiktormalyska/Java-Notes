@@ -10,3 +10,6 @@ W programowaniu deklaratywnym w logice:
 
 Programy w tym paradygmacie są wykonywane przez mechanizmy wnioskowania, które próbują spełnić zapytania na podstawie dostępnych faktów i reguł.
 
+[[klauzule Horna]]
+[[Rekurencja]]
+[[Prolog]]

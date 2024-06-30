@@ -18,6 +18,6 @@
 	- [[Monady]]
 	- [[Haskell]]
 - [[Programowanie deklaratywne w logice]]
-	- klauzule Horna
-	- Rekurencja
-	- Prolog
+	- [[klauzule Horna]]
+	- [[Rekurencja]]
+	- [[Prolog]]
