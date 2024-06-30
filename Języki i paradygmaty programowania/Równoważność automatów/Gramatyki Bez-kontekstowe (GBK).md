@@ -2,4 +2,7 @@
 - Charakteryzują się
 	- Nieterminalne - Symbole, które mogą być rozwijane przez produkcje
 	- Terminale - Symbole, które pojawiają się w języku
-	- Produkcje - Reguły określające sposób zastępowania nieterminali ter
+	- Produkcje - Reguły określające sposób zastępowania nie terminali terminalami i innymi nie terminalami
+	- Startowy symbol - Początkowy nie terminal, od którego zaczyna się generowanie języka
+- Równoważność
+	- Języki rozpoznawane przez g
