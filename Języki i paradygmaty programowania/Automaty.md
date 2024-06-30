@@ -50,4 +50,7 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 
 #### Definicje
 - ##### Deterministyczny automat skończony (DAS)
-	- DAS to skończony
+	- DAS to skończony automat, deterministyczny, zdefiniowany, gdzie
+	- Q - zbiór stanów
+	- Σ - zbiór symboli wejściowych (alfabet)
+	- 𝛿 - funkcje przejś
