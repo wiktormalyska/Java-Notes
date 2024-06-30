@@ -91,8 +91,8 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 		- jeśli m jest łańcuchem składającym się z łańcucha i symbolu
 		- oraz jeśli DAS będący w stanie q po przetworzeniu łańcucha l znajduje się w stanie p
 		- to:
-			- $$δ^(q,ε)=q$$
-			- $$δ^(q,m)=δ(p,x)=δ(δ^(q,l),x)$$
+			- $δ^(q,ε)=q$
+			- $δ^(q,m)=δ(p,x)=δ(δ^(q,l),x)$
 ##### Rozszerzona funkcja przejścia a języki
 - rozszerzone funkcje przejścia mogą posłużyć do zdefiniowania języka DAS
 ##### Język DAS
