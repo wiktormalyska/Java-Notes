@@ -131,4 +131,5 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 		- $$δ^(q,ε)=q$$
 		- $$δ^(q,m)=i=1⋃k​δ(pi​,x)$$
 
-##### Ję
+##### Język NAS
+- nazywamy zbiór łańcuchów przeprowadzających stan początkowy automatu w zbiór stanu, zawierający 
