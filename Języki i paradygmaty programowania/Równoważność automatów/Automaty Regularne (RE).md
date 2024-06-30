@@ -5,4 +5,6 @@
 	- Alfabet - Skończona liczba symboli
 	- Funkcja przejścia - Definiuje przejścia między stanami w odpowiedzi na symbole z alfabetu
 	- Stan początkowy - Jeden stan, w którym automat rozpoczyna działanie
-	- 
+	- Stany akceptujące - Jeden lub więcej stanów, których osiągnięcie oznacza akceptację słowa
+- Równoważność
+	- każdy rozpoznawany przez automat regularny 
