@@ -34,4 +34,5 @@
 
 #### Rodzaje błędów
 - leksykalne (słownikowe) - pomylone identyfikatory zmiennych, słów kluczowych, brak cudzysłowów
-- syntaktyczne (składniowe) - brak znaków specjalnych (przecinek, kropka, średnik), niedomknięte nawiasy, niedokończone struktury blokowe
+- syntaktyczne (składniowe) - brak znaków specjalnych (przecinek, kropka, średnik), niedomknięte nawiasy, niedokończone struktury blokowe(if..then..fi, begin..end)
+- semantyczne (znaczeniowe) - zazwyczaj jest to niezgodność typów, czyli użycie czegoś w kontekście, 
