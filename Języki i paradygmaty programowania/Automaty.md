@@ -46,4 +46,8 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 - dla danego wejścia istnieje dokładnie jeden stan wyjściowy
 
 #### Automat niedeterministyczny
-- w danych warunkach istnieją przejścia do kilku 
+- w danych warunkach istnieją przejścia do kilku stanów wyjściowych jednocześnie. automat taki może znajdować się w kilku stanach jednocześnie
+
+#### Definicje
+- ##### Deterministyczny automat skończony (DAS)
+	- DAS to skończony
