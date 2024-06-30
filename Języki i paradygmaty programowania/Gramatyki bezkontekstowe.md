@@ -9,4 +9,4 @@ Nie wchodzimy w znaczenie, wchodzimy tylko w składnię
 	- S - symbol początkowy 
 
 ##### Produkcja
-- Każda produkcja jest parą (A,C) gdzie A należy do zmiennych i jest pojedynczą zmienną
+- Każda produkcja jest parą (A,C) gdzie A należy do zmiennych i jest pojedynczą zmienną, C jest dowolnym symbolem terminalnym lub nie terminalnym, również łańcuchem pustym
