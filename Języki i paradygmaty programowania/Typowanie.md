@@ -1,0 +1,1 @@
+- systemy i zasady określające jak dane mogę być klasyfikowane oraz jakie 

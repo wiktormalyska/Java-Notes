@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Języki i paradygmaty programowania/Paradygmaty programowania.md",
+                "file": "Języki i paradygmaty programowania/Typowanie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Paradygmaty programowania.md",
+                "file": "Języki i paradygmaty programowania/Typowanie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Paradygmaty programowania.md",
+                "file": "Języki i paradygmaty programowania/Typowanie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Paradygmaty programowania.md"
+                "file": "Języki i paradygmaty programowania/Typowanie.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "active": "a54e0aea32ce2a41",
   "lastOpenFiles": [
     "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+    "Języki i paradygmaty programowania/Paradygmaty programowania.md",
     "MAIN README.md",
     "Algorytmy II/Algorytmy II.md",
     "Java Junior/README.md",
@@ -177,7 +178,6 @@
     "Java Junior/Java/Java/Bez nazwy",
     "Java Junior/Podstawy Informatyki/Podstawy/UML.md",
     "Java Junior/Main.canvas",
-    "Języki i paradygmaty programowania/Typowanie.md",
     "Zdjęcia w notatkach/Pasted image 20240630231232.png",
     "Zdjęcia w notatkach/Pasted image 20240630231106.png",
     "Zdjęcia w notatkach/Pasted image 20240630230518.png",
