@@ -1,4 +1,6 @@
-#### 
+
+
+#### Analiza leksykalna 
 ![[Pasted image 20240630224251.png]]
 
 - Jest wykorzystywana przez skaner
@@ -7,3 +9,8 @@
 - Tokeny to zmienne późniejszej gramatyki
 - skaner tworzy plik z rozbiorem leksykalnym analizowanego kodu, który staje się jednym z plików wejściowych dla parsera
 - w linuksie używane jest flex kompatybilny z lex
+
+#### Analiza syntaktyczna
+![[Pasted image 20240630230252.png]]
+- wykorzystywane jako parser
+- opiera się na regułach pars
