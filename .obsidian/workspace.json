@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Języki i paradygmaty programowania/Równoważność automatów/Równoważność automatów.md",
+                "file": "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Analiza leksykalna i syntaktyczna kodu.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Równoważność automatów/Równoważność automatów.md",
+                "file": "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Analiza leksykalna i syntaktyczna kodu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Równoważność automatów/Równoważność automatów.md",
+                "file": "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Analiza leksykalna i syntaktyczna kodu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Równoważność automatów/Równoważność automatów.md"
+                "file": "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Analiza leksykalna i syntaktyczna kodu.md"
               }
             }
           }
@@ -186,10 +186,11 @@
   },
   "active": "b42fc01adeaecc07",
   "lastOpenFiles": [
-    "Języki i paradygmaty programowania/Równoważność automatów/Gramatyki Bez-kontekstowe (GBK).md",
-    "Języki i paradygmaty programowania/Równoważność automatów/Równoważność automatów.md",
-    "Języki i paradygmaty programowania/Równoważność automatów/Automaty Regularne (RE).md",
     "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+    "Języki i paradygmaty programowania/Równoważność automatów/Równoważność automatów.md",
+    "Języki i paradygmaty programowania/Równoważność automatów/Automaty ze Stosem (AZS).md",
+    "Języki i paradygmaty programowania/Równoważność automatów/Gramatyki Bez-kontekstowe (GBK).md",
+    "Języki i paradygmaty programowania/Równoważność automatów/Automaty Regularne (RE).md",
     "Języki i paradygmaty programowania/Gramatyki/Gramatyki bezkontekstowe.md",
     "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Programowanie deklaratywne funkcyjnie.md",
     "Języki i paradygmaty programowania/Gramatyki/Automaty.md",
@@ -215,7 +216,6 @@
     "Java Junior/Zarządzanie pakietami/Zarządzanie pakietami.md",
     "Java Junior/Zarządzanie pakietami/Maven/Monitorowanie i Logowanie/Monitorowanie i Logowanie.md",
     "Java Junior/Zarządzanie pakietami/Maven/Maven.md",
-    "Java Junior/Zarządzanie pakietami/Gradle/Gradle.md",
     "Main.canvas",
     "Java Junior/Java/Java/Bez nazwy",
     "Java Junior/Main.canvas",
