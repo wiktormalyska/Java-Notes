@@ -4,3 +4,6 @@
 - Automat składa się ze zbioru stanów i reguł przejścia między nimi
 	- stan - definiowany wartościami parametrów opisujących cały układ, można go porównać z położeniem zatrzymanego układu trybów w mechanizmie, stanu napięcia sprężyn, stanu wahadła 
 	- reguły przejścia - określają, jak zmieniają się parametry aby dokonało się przejście z pewnego stanu do innego 
+
+##### Automat skończony
+- Automat skończony zawiera skończoną liczbę stanów, w odróżnieniu od automatów nieskończonych, które są nieograniczone
