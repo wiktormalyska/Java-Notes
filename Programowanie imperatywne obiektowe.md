@@ -7,5 +7,17 @@
 	- **Zmienne:** Stan programu jest przechowywany w zmiennych
 	- **Struktury Kontrolne:** Używanie pętli, instrukcji warunkowych, itp.
 	- **Procedury i Funkcje:** Kod jest często organizowany w procedury lub funkcje, które mogą być wywoływane wielokrotnie
+```cpp
+#include <stdio.h>
 
-#### Programowa
+int main() {
+    int x = 10;
+    int y = 20;
+    int result = x + y;
+    printf("Result: %d\n", result);
+    return 0;
+}
+```
+#### Programowanie Obiektywne
+- Charakteryzuje się
+	- 
