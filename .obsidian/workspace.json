@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analiza leksykalna i syntaktyczna kodu.md",
+                "file": "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analiza leksykalna i syntaktyczna kodu.md",
+                "file": "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analiza leksykalna i syntaktyczna kodu.md"
+                "file": "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md"
               }
             }
           }
@@ -184,11 +184,11 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "faa8dac022ee8162",
+  "active": "72cad2e4e61555ca",
   "lastOpenFiles": [
+    "Analiza leksykalna i syntaktyczna kodu.md",
     "Zdjęcia w notatkach/Pasted image 20240630224251.png",
     "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
-    "Analiza leksykalna i syntaktyczna kodu.md",
     "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
     "Kompilacja.md",
     "Zdjęcia w notatkach/Pasted image 20240630224238.png",
@@ -225,7 +225,6 @@
     "Algorytmy II/Algorytmy Numeryczne",
     "Zdjęcia w notatkach/Pasted image 20240613104436.png",
     "Algorytmy II/Kolorowanie",
-    "Zdjęcia w notatkach/Pasted image 20240613103430.png",
     "Algorytmy II/Algorytmy genetyczne",
     "Algorytmy II/Algorytmy probabilistyczne",
     "Algorytmy II/Geometria Obliczeniowa",

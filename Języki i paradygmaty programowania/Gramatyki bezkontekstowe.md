@@ -19,3 +19,8 @@ Gramatyka jest konstrukcją szerszą niż omawiane do tej pory
 - RE spełnia rolę wzorców łańcuchów akceptowanych przez ten automat
 - produkcje wykorzystują RE do określania reguł budowania akceptowalnych łańcuchów
 - SZEROKOŚĆ gramatyki nie polega na tym, że zawiera w sobie informacje, których nie ma w DAS i RE ale informacje te podane są w sposób jawny poprzez produkcję, które można utworzyć rozkładając RE na czynniki pierwsze
+
+#### Zastosowanie gramatyk w programowaniu
+- Języki programowania dzielą się na 2 typy
+	- interpretowane (AWK, Ruby, Bash, Python, Perl)
+	- kom
