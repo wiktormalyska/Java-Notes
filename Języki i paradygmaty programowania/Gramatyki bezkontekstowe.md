@@ -2,4 +2,5 @@ Bezkontekstowa → niezależnie od tego w jakim kontekście wyrażenia zostaną 
 Nie wchodzimy w znaczenie, wchodzimy tylko w składnię
 
 #### Gramatyka bezkontekstowa
-- nazywamy czwórkę
+- nazywamy czwórkę $G = (V,T,P,S)$, gdzie
+	- V - zbiór zmiennych
