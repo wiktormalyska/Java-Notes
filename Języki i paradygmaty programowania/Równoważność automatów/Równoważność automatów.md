@@ -1,0 +1,1 @@
+- polega na analizie i porównywaniu różnych modeli automatycznych, aby stwierdzić, czy mają one identyczną moc oblicv
