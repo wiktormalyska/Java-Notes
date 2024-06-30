@@ -40,3 +40,10 @@ Java Junior Developer go to notes
 	- [[Zdalne repozytoria]]
 	- [[GitHub]]
 - [[Bazy Danych]]
+	- [[Podstawy Baz Danych]]
+		- [[Syntaks SQL]]
+		- [[Tabele]]
+		- [[Relacje]]
+		- [[Normalizacja]]
+		- [[JPA]]
+	- 
