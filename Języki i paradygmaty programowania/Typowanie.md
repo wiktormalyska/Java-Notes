@@ -33,4 +33,8 @@
 		- Przykład: C, Java
 	- Słabo Powiązane Typowanie
 		- Typy są związane z wartościami i mogą być używane bez jawnych deklaracji
-		- 
+		- Przykład: Python, Ruby
+#### Cechy typowania
+- Polimorfizm typów
+	- Polimorfizm Parametryczny
+		- Typy mogą być parametryzowane, co pozwala na tworzenie funkcji i struktur danych, tk
