@@ -65,7 +65,7 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 		- tabela
 	- Przykład:
 		- Automat DAS rozpoznający w tekście ciąg UMCS (ciąg liter)
-		- Alfabetem jest alfabet polski + znaki interkunkcyjne
+		- Alfabetem jest alfabet polski + znaki interpunkcyjne
 		- ![[Pasted image 20240630150511.png]]
 		- Gdyby DAS miał rozpoznawać wyraz “UMCS” to należałoby zacząć szukać dopasowania do znaku spacji, a zakończyć na znaku spacji lub znaku przestankowym.
 		- Definicje stanów:
