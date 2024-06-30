@@ -137,4 +137,4 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 #### Twierdzenie (nieformalne) o równoważności NAS i DAS
 - istnieję problemy, które łatwiej opisać za pomocą DAS, a inne za pomocą NAS, ale jest to jedynie kwestia wygody i elegancji zapisu
 - równoważność działa w obie strony DAS <-> NAS
-- z grubsza każdemu 
+- z grubsza każdemu zbiorowi
