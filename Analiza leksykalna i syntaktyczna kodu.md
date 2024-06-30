@@ -25,3 +25,5 @@
 - analizowany jest kod pośredni generowany przez skaner i parser
 - zajmuje się tym część kompilatora (interpretera)
 - sprawdzane są zgodności typów zmiennych
+- wyszukiwane są takie same etykiety w programie i twory im przypisane są utożsamiane
+- analizowane 
