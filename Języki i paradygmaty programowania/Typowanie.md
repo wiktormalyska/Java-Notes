@@ -1,1 +1,2 @@
-- systemy i zasady określające jak dane mogę być klasyfikowane oraz jakie 
+- Systemy i zasady określające jak dane mogę być klasyfikowane oraz jakie operacje są na nich dozwolone
+- Jest kluczowym elementem w projektowaniu i używaniu języków programowania, wpływającym na ich 
