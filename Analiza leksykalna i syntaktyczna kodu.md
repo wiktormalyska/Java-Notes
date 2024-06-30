@@ -26,4 +26,5 @@
 - zajmuje się tym część kompilatora (interpretera)
 - sprawdzane są zgodności typów zmiennych
 - wyszukiwane są takie same etykiety w programie i twory im przypisane są utożsamiane
-- analizowane 
+- analizowane są pętle i rekurencje
+- generowane komu
