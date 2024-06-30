@@ -85,4 +85,7 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 - fragment diagramu, do których nie można się dostać ze stanu początkowego, są z niego usuwane
 
 #### Rozszerzona funkcja przejścia
-- Niekiedy wygodnie jest określić
+- Niekiedy wygodnie jest określić funkcję przejścia od łańcucha a nie pojedynczego symbolu
+- ##### Rozszerzona funkcja przejścia DAS
+	- Rozszerzona funkcja przejścia zdefiniowana jest rekurencyjnie tak, że
+		- jeśli m jest łańcuchem skłąda
