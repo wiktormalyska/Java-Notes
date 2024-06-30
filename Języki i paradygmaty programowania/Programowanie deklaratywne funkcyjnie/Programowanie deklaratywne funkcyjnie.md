@@ -7,3 +7,5 @@
 - **Immutability:** Dane są niezmienne. Zmiany są wprowadzane przez tworzenie nowych danych zamiast modyfikowania istniejących.
 - **Rekursja:** Preferuje się używanie rekursji zamiast pętli do iteracji.
 - **Funkcje Czyste:** Funkcje, które zawsze dają te same wyniki dla tych samych argumentów i nie mają efektów ubocznych.
+
+[[Lambd]]

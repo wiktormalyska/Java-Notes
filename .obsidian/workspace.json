@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Języki i paradygmaty programowania/Kompilacja.md",
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Programowanie deklaratywne funkcyjnie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Kompilacja.md",
+                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Kompilacja.md",
+                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Kompilacja.md"
+                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md"
               }
             }
           }
@@ -172,20 +171,24 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "b75060cb8999a858",
+  "active": "5d1394bc8ee2e0e7",
   "lastOpenFiles": [
-    "Języki i paradygmaty programowania/Automaty.md",
-    "Języki i paradygmaty programowania/Gramatyki/Gramatyki bezkontekstowe.md",
     "Języki i paradygmaty programowania/Gramatyki/Gramatyki.md",
-    "Języki i paradygmaty programowania/Gramatyki",
-    "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu.md",
     "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Programowanie deklaratywne funkcyjnie.md",
-    "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie",
     "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
-    "Języki i paradygmaty programowania/Programowanie imperatywne obiektowe.md",
+    "Języki i paradygmaty programowania/Gramatyki/Automaty.md",
+    "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Analiza leksykalna i syntaktyczna kodu.md",
+    "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu",
+    "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Kontrola błędów.md",
+    "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Typowanie.md",
+    "Języki i paradygmaty programowania/Paradygmaty programowania/Paradygmaty programowania.md",
+    "Języki i paradygmaty programowania/Paradygmaty programowania",
+    "Języki i paradygmaty programowania/Paradygmaty programowania/Programowanie imperatywne obiektowe.md",
+    "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Kompilacja.md",
+    "Języki i paradygmaty programowania/Gramatyki/Gramatyki bezkontekstowe.md",
+    "Języki i paradygmaty programowania/Gramatyki",
+    "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie",
     "MAIN README.md",
-    "Języki i paradygmaty programowania/Typowanie.md",
-    "Języki i paradygmaty programowania/Paradygmaty programowania.md",
     "Algorytmy II/Algorytmy II.md",
     "Java Junior/README.md",
     "Java Junior/Testy/Zaawansowane Testy/Zaawansowane Testy.md",
@@ -199,8 +202,6 @@
     "Java Junior/Konteneryzacja/Przetwarzanie w chmurze/Przetwarzanie w chmurze.md",
     "Java Junior/Konteneryzacja/Konteneryzacja.md",
     "Java Junior/Bazy Danych/Zaawansowane Bazy Danych/Zaawansowane Bazy Danych.md",
-    "Java Junior/Bazy Danych/Podstawy Baz Danych/Podstawy Baz Danych.md",
-    "Java Junior/Bazy Danych/Bazy Danych.md",
     "Main.canvas",
     "Java Junior/Java/Java/Bez nazwy",
     "Java Junior/Main.canvas",
@@ -218,8 +219,6 @@
     "Języki i paradygmaty programowania",
     "Algorytmy II/Algorytmy Numeryczne",
     "Algorytmy II/Kolorowanie",
-    "Algorytmy II/Algorytmy genetyczne",
-    "Algorytmy II/Algorytmy probabilistyczne",
-    "Algorytmy II/Geometria Obliczeniowa"
+    "Algorytmy II/Algorytmy genetyczne"
   ]
 }
