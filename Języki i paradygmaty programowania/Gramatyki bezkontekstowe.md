@@ -23,4 +23,6 @@ Gramatyka jest konstrukcją szerszą niż omawiane do tej pory
 #### Zastosowanie gramatyk w programowaniu
 - Języki programowania dzielą się na 2 typy
 	- interpretowane (AWK, Ruby, Bash, Python, Perl)
-	- kom
+	- kompilowane (Fortran, Java, C, Haskell)
+	- Istnieją jeszcze znacznikowe (html, xml), ale nie są to najczęściej języki programowania
+- Proces prowadzący do oc
