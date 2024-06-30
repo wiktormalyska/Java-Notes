@@ -1,1 +1,5 @@
-- polega na analizie i porównywaniu różnych modeli automatycznych, aby stwierdzić, czy mają one identyczną moc oblicv
+- polega na analizie i porównywaniu różnych modeli automatycznych, aby stwierdzić, czy mają one identyczną moc obliczeniową lub potrafią rozpoznawać te same języki
+- Równoważność 3 typówe automatów
+	- [[RE]]
+	- [[GBK]]
+	- [[AZS]]
