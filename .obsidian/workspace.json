@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+                "file": "Java Junior/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+                "file": "Java Junior/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+                "file": "Java Junior/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md"
+                "file": "Java Junior/README.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "8eb1ed6fc5dc0f73",
   "lastOpenFiles": [
-    "Języki i paradygmaty programowania/Typowanie.md",
+    "Java Junior/Main.canvas",
+    "Java Junior/README.md",
     "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+    "Języki i paradygmaty programowania/Typowanie.md",
     "Języki i paradygmaty programowania/Kompilacja.md",
     "Analiza leksykalna i syntaktyczna kodu.md",
     "Kontrola błędów.md",
@@ -185,15 +187,12 @@
     "Algorytmy II/Kolorowanie/Kolorowanie grafów.md",
     "Algorytmy II/Algorytmy probabilistyczne/Algorytmy probabilistyczne.md",
     "Algorytmy II/Geometria Obliczeniowa/Geometria Obliczeniowa.md",
-    "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
-    "Algorytmy II/Wyszukiwanie wzorca w tekście/Haszowanie.md",
     "Algorytmy II/Algorytmy Numeryczne",
     "Algorytmy II/Kolorowanie",
     "Algorytmy II/Algorytmy genetyczne",
     "Algorytmy II/Algorytmy probabilistyczne",
     "Algorytmy II/Geometria Obliczeniowa",
     "Algorytmy II/Wyszukiwanie wzorca w tekście",
-    "Java Junior/Main.canvas",
     "Algorytmy II/Algorytmy na drzewach BST",
     "Algorytmy II/Algorytmy na drzewach"
   ]
