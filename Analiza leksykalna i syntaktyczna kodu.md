@@ -27,4 +27,5 @@
 - sprawdzane są zgodności typów zmiennych
 - wyszukiwane są takie same etykiety w programie i twory im przypisane są utożsamiane
 - analizowane są pętle i rekurencje
-- generowane komu
+- generowanie komunikatów o błędach
+- tworzony jest nowy kod pośredni
