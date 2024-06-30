@@ -3,4 +3,5 @@ Nie wchodzimy w znaczenie, wchodzimy tylko w składnię
 
 #### Gramatyka bezkontekstowa
 - nazywamy czwórkę $G = (V,T,P,S)$, gdzie
-	- V - zbiór zmiennych, każda zmienna jest utożsamiana z jednym językiem. Jedna ze zmiennych jest wyróżniona
+	- V - zbiór zmiennych, każda zmienna jest utożsamiana z jednym językiem. Jedna ze zmiennych jest wyróżniona, odpowiadając symbolowi początkowemu S, reszta to pomocnicze klasy łańcuchów
+	- T - zbiór symboli końcowych
