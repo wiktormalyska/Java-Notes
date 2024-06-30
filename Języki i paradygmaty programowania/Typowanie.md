@@ -37,4 +37,7 @@
 #### Cechy typowania
 - Polimorfizm typów
 	- Polimorfizm Parametryczny
-		- Typy mogą być parametryzowane, co pozwala na tworzenie funkcji i struktur danych, tk
+		- Typy mogą być parametryzowane, co pozwala na tworzenie funkcji i struktur danych, które mogą operować na wielu typach
+		- Przykład: Generics w Java, Szablony w C++
+	- Polimorfizm Ad Hoc:
+		- 
