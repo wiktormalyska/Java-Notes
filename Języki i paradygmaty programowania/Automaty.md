@@ -120,3 +120,9 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 ##### Przykład
 - NAS rozstrzygający, czy liczba jest parzysta
 - Dla ułatwienia zapisujemy liczbę w postaci binarnej, a więc zadanie NAS sprowadza się do sprawdzenia, czy ciąg binarny kończy się symbolem 0
+- ![[Pasted image 20240630161008.png]]
+- ![[Pasted image 20240630161014.png]]
+
+##### Rozszerzona funkcja przejścia NAS
+- zdefiniowana jest rekurencyjnie tak, że
+	- jeśli m jest łańcuchem składającym się z łańcucha i sumbo
