@@ -1,0 +1,1 @@
+Bezkontekstowa → niezależnie od tego w jakim kontekście wyrażenia zostaną użyte (program zostanie )

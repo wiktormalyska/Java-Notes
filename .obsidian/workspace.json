@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72cad2e4e61555ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki.md",
+                "file": "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki.md",
+                "file": "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki.md"
+                "file": "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md"
               }
             }
           }
@@ -147,10 +160,10 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "536ec72166735fab",
+  "active": "72cad2e4e61555ca",
   "lastOpenFiles": [
-    "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
     "Języki i paradygmaty programowania/Gramatyki.md",
+    "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
     "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
     "Języki i paradygmaty programowania/Równoważność automatów/Automaty ze Stosem (AZS).md",
     "Języki i paradygmaty programowania/Równoważność automatów/Gramatyki Bez-kontekstowe (GBK).md",
