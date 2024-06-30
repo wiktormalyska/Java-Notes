@@ -30,4 +30,11 @@ Java Junior Developer go to notes
 		- [[Serverlety, Filtry HTTP]]
 		- [[Wielo wątkowość]]
 - [[Narzędzia]]
-	- 
+	- [[IntelliJ IDE]]
+	- [[Terminal]]
+	- [[Postman]]
+- [[Git]]
+	- [[Commity]]
+	- [[Branche]]
+	- [[Stashe]]
+	- [[]]
