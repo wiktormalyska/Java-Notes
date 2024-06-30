@@ -132,4 +132,7 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 		- $$δ^(q,m)=i=1⋃k​δ(pi​,x)$$
 
 ##### Język NAS
-- nazywamy zbiór łańcuchów przeprowadzających stan początkowy automatu w zbiór stanu, zawierający 
+- nazywamy zbiór łańcuchów przeprowadzających stan początkowy automatu w zbiór stanu, zawierający co najmniej jeden stan akceptujący
+
+#### Twierdzenie (nieformalne) o równoważności NAS i DAS
+- istnieję problemy, które łatwiej opisać za pomocą DAS, a inne za pomocą NAS
