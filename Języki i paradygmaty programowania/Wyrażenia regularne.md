@@ -4,4 +4,5 @@
 - konkretne symbole używane do budowania RE różnią się pomiędzy aplikacjami i systemami, ale podstawowe zasady są niezmienne
 
 ##### Na językach można wykonywać trzy podstawowe operacje
-- suma - definiuje się jako sumę zbiorów łańcuchów należący
+- suma - definiuje się jako sumę zbiorów łańcuchów należących do obu języków
+- konkatenacja - definiuje się jako zbiór łańcuchów utworzonych jako konkatenacj
