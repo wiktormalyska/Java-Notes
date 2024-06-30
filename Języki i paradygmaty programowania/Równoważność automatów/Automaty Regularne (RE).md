@@ -7,4 +7,5 @@
 	- Stan początkowy - Jeden stan, w którym automat rozpoczyna działanie
 	- Stany akceptujące - Jeden lub więcej stanów, których osiągnięcie oznacza akceptację słowa
 - Równoważność
-	- każdy rozpoznawany przez automat regularny 
+	- każdy język rozpoznawany przez automat regularny można opisać za pomocą wyrażenia regularnego
+	- Możliwe jest również przekształcenie NAS w równoważny DAS

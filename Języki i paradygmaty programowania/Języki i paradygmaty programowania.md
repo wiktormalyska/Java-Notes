@@ -5,7 +5,7 @@
 - Gramatyki bezkontekstowe
 - [[Równoważność automatów]]
 	- [[Automaty Regularne (RE)]]
-	- [[GBK]]
+	- [[Gramatyki Bez-kontekstowe (GBK)]]
 	- [[AZS]]
 - Analiza leksykalna i syntaktyczna kodu
 - Kompilacja

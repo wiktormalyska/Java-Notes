@@ -1,0 +1,1 @@
+- Gramatyki w których reguły maj
