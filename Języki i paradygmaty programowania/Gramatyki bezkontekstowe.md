@@ -16,4 +16,5 @@ Nie wchodzimy w znaczenie, wchodzimy tylko w składnię
 #### Podsumowanie
 Gramatyka jest konstrukcją szerszą niż omawiane do tej pory
 - operuje na więcej niż jednym języku, a więc odpowiada jej zestaw automatów lub pojedynczy automat złożony
-- RE spełnia rolę wzorców
+- RE spełnia rolę wzorców łańcuchów akceptowanych przez ten automat
+- produkcje wykorzystują RE do określania reguł budowania akceptow
