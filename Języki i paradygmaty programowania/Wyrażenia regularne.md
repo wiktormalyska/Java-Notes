@@ -5,4 +5,8 @@
 
 ##### Na językach można wykonywać trzy podstawowe operacje
 - suma - definiuje się jako sumę zbiorów łańcuchów należących do obu języków
-- konkatenacja - definiuje się jako zbiór łańcuchów utworzonych jako konkatenacj
+- konkatenacja - definiuje się jako zbiór łańcuchów utworzonych jako konkatenacje łańcuchów należących do obu języków
+- domknięcie - zdefiniowane jako suma łańcuchów należących  do kolejnych konkatenacji języka z samym sobą
+
+#### Definicja: algebra RE
+- 
