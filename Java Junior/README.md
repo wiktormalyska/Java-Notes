@@ -37,4 +37,6 @@ Java Junior Developer go to notes
 	- [[Commity]]
 	- [[Branche]]
 	- [[Stashe]]
-	- [[]]
+	- [[Zdalne repozytoria]]
+	- [[GitHub]]
+- [[Bazy Danych]]
