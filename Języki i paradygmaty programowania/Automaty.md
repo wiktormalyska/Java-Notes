@@ -115,3 +115,6 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 - Jak działają odwzorowania w przypadku NAS
 	- automat z pojedynczego stanu przechodzi do jednego z kilku stanów
 	- może znajdować się w kilku stanach jednocześnie
+	- analizuje symultanicznie kilka możliwych ścieżek wędrówki po grafie
+		- niektóre prowadzą do stanów akceptowalnych, inne kończą się na nieakceptowalnych
+##### P
