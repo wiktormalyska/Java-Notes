@@ -7,3 +7,6 @@ Nie wchodzimy w znaczenie, wchodzimy tylko w składnię
 	- T - zbiór symboli końcowych, niepusty zbiór skończony, zawierający łańcuchy definiowanego języka
 	- P - zbiór produkcji - skończony zbiór reguł pozwalających na rekurencyjne definiowanie języka
 	- S - symbol początkowy 
+
+##### Produkcja
+- Każda produkcja jest parą (A,C) gdzie A należy do zmiennych i jest pojedynczą zmienn
