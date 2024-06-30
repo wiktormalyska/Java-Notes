@@ -145,4 +145,4 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 - jest ogólną metodą przekształcenia NAS  -> DAS
 - polega na utworzeniu ze zbioru stanów NAS nowego stanu DAS
 - na tej podstawie konstruuje się funkcję przejścia DAS
-- operacja jest powtarza
+- operacja jest powtarzana do momentu, aż wszystkie stany zostaną opisane, a funkcja przejścia będzie przeprowadzała automat z dowolnego stanu w dokładnie jeden stan wyjściowy
