@@ -1,1 +1,6 @@
 - To automaty, które oprócz zwykłej funkcji przejścia mają dodatkowy stos, który pozwala na przechowywanie informacji
+- Składają się z
+	- Stany - skończona liczba stanów
+	- Alfabet - skończona liczba symboli
+	- Stos - struktura danych umożliwiająca dodawanie i usuwanie elementów w sposób LIFO
+	- Funkcja przejścia - uwzględnia bięzą
