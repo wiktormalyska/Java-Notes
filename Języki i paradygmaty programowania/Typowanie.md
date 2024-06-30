@@ -31,4 +31,6 @@
 	- Silnie Powiązane Typowanie
 		- Typy są związane bezpośrednio z deklaracjami
 		- Przykład: C, Java
-	- Słabo PowiA
+	- Słabo Powiązane Typowanie
+		- Typy są związane z wartościami i mogą być używane bez jawnych deklaracji
+		- 
