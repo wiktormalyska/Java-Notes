@@ -14,3 +14,6 @@ Nie wchodzimy w znaczenie, wchodzimy tylko w składnię
 - W praktyce produkcje tożsame są wyrażeniom regularnym, jednak tych ostatnich nie używa się jawnie na poziomie gramatyk
 
 #### Podsumowanie
+Gramatyka jest konstrukcją szerszą niż omawiane do tej pory
+- operuje na więcej niż jednym języku, a więc odpowiada jej zestaw automatów lub pojedynczy automat złożony
+- RE spełnia rolę wzorcóww
