@@ -41,4 +41,5 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 - język ze słowem pustym również jest językiem nad dowolnym alfabetem
 - język nie musi być skończony
 
-#### Automat dete
+#### Automat deterministyczny
+- przejścia między stanami są dokładnie określone
