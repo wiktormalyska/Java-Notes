@@ -99,3 +99,8 @@ Java Junior Developer go to notes
 		- [[Gatling]]
 - [[Spring]]
 	- [[Spring Boot]]
+		- [[Reaktywny model Web]]
+		- [[Cashowanie]]
+		- [[Spring Cloud]]
+		- [[Spring Messaging]]
+		- [[Spring AOP]]
