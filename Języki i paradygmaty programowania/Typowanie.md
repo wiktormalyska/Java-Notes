@@ -26,4 +26,9 @@
 		- Przykład: C, Java, Rust
 	- Niejawne Typowanie
 		- Typy zmiennych są wnioskowane przez kompilator na podstawie wartości przypisanych do zmiennych
-		- Przykład
+		- Przykład: Python, JS, TS
+- Silnie vs. Słabo Powiązane Typowanie
+	- Silnie Powiązane Typowanie
+		- Typy są związane bezpośrednio z deklaracjami
+		- Przykład: C, Java
+	- Słabo PowiA
