@@ -30,3 +30,8 @@
 - generowanie komunikatów o błędach
 - tworzony jest nowy kod pośredni
 ![[Pasted image 20240630231232.png]]
+
+
+#### Rodzaje błędów
+- leksykalne (słownikowe) - pomylone identyfikatory zmiennych, słów kluczowych, brak cudzysłowów
+- syntaktyczne (składniowe) - 
