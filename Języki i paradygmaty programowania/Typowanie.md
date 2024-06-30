@@ -3,4 +3,5 @@
 
 #### Rodzaje typowania
 - Statyczne typowanie
-	- Ty
+	- Typy zmiennych są określane i sprawdzane w czasie kompilacji
+	- Błędy typów są wykrywane przed uruchomie
