@@ -1,0 +1,1 @@
+- To automaty, które oprócz zwykłej funkcji przejścia mają dodatkowy stos, który pozwala na przechowywanie informacji

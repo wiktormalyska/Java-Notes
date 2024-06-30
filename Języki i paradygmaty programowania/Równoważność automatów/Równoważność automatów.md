@@ -2,4 +2,4 @@
 - Równoważność 3 typówe automatów
 	- [[Automaty Regularne (RE)]]
 	- [[Gramatyki Bez-kontekstowe (GBK)]]
-	- [[AZS]]
+	- [[Automaty ze Stosem (AZS)]]

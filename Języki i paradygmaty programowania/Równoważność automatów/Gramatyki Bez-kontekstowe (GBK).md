@@ -6,4 +6,4 @@
 	- Startowy symbol - Początkowy nie terminal, od którego zaczyna się generowanie języka
 - Równoważność
 	- Języki rozpoznawane przez gramatyki bez-kontekstowe są równoważne językom rozpoznawanym przez automaty ze stosem (AZS)
-	- Gramatyki bez-kontekstowe są bardziej ogólne niż języki regularne i obejmują równie
+	- Gramatyki bez-kontekstowe są bardziej ogólne niż języki regularne i obejmują również je

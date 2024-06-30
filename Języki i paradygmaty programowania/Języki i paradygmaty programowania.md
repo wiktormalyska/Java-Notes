@@ -6,7 +6,7 @@
 - [[Równoważność automatów]]
 	- [[Automaty Regularne (RE)]]
 	- [[Gramatyki Bez-kontekstowe (GBK)]]
-	- [[AZS]]
+	- [[Automaty ze Stosem (AZS)]]
 - Analiza leksykalna i syntaktyczna kodu
 - Kompilacja
 - Kontrola błędów
