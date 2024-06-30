@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Junior/Java/Zaawansowana Java/Zaawansowana Java.md",
+                "file": "Java Junior/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Junior/Java/Zaawansowana Java/Zaawansowana Java.md",
+                "file": "Java Junior/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Junior/Java/Zaawansowana Java/Zaawansowana Java.md",
+                "file": "Java Junior/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Junior/Java/Zaawansowana Java/Zaawansowana Java.md"
+                "file": "Java Junior/README.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "ca79b94c8646f477",
   "lastOpenFiles": [
+    "Java Junior/Java/Java.md",
     "Java Junior/Java/Podstawy Javy/Podstawy Javy.md",
     "Java Junior/Java/Zaawansowana Java/Zaawansowana Java.md",
     "Java Junior/README.md",
     "Java Junior/Java/Java/Bez nazwy",
-    "Java Junior/Java/Java.md",
     "Java Junior/Podstawy Informatyki/Podstawy Informatyki/UML.md",
     "Main.canvas",
     "Java Junior/Main.canvas",
