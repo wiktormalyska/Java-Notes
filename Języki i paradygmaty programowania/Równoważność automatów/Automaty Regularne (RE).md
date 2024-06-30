@@ -1,4 +1,8 @@
 - Znane jako DAS i NAS
 - wykorzystywane do rozpoznawania języków regularnych
 - Charakteryzują się
-	- Stany - skończona l
+	- Stany - Skończona liczba stanów
+	- Alfabet - Skończona liczba symboli
+	- Funkcja przejścia - Definiuje przejścia między stanami w odpowiedzi na symbole z alfabetu
+	- Stan początkowy - Jeden stan, w którym automat rozpoczyna działanie
+	- 
