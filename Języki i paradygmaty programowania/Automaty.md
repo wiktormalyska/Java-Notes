@@ -82,3 +82,7 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 - stany akceptujące oznaczone są podwójnym kółkiem
 - jeśli istnieje funkcja przejścia to stan łączymy strzałką ze stanem, a strzałkę podpisujemy symbolem s
 - dla każdego stanu muszą istnieć funkcje dla każdego symbolu używanego alfabetu
+- fragment diagramu, do których nie można się dostać ze stanu początkowego, są z niego usuwane
+
+#### Rozszerzona funkcja przejścia
+- Niekiedy wygodnie jest określić
