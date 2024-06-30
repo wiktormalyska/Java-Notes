@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Rachunek Lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Haskell.md",
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Rachunek Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Haskell.md",
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Rachunek Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Haskell.md"
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Rachunek Lambda.md"
               }
             }
           }
@@ -184,7 +184,7 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "de5c793eabff11a9",
+  "active": "b42fc01adeaecc07",
   "lastOpenFiles": [
     "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
     "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Haskell.md",

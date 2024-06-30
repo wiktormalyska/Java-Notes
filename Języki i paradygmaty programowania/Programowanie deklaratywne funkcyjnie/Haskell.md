@@ -6,10 +6,6 @@
 
 ##### Przykład w Haskell:
 
-haskell
-
-Skopiuj kod
-
 ```haskell
 -- Funkcja, która mnoży liczbę przez dwa
 multiplyByTwo :: Int -> Int
