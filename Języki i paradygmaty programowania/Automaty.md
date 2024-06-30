@@ -10,4 +10,8 @@
 - Przykład wyłącznika światła:![[Pasted image 20240630130414.png]]
 - zapalone i zgaszone to stany przełącznika
 - przejście między nimi następuje poprzez zaistnienie sytuacji "naciśnij"
-- ta sytuacja jest odczytywana z wejścia automatu (nie zaznaczonego na rysunku), czyli 
+- ta sytuacja jest odczytywana z wejścia automatu (nie zaznaczonego na rysunku), czyli automat odczytuje, analizuje i reaguje na dane wejściowe
+
+#####  Podstawowe definicje
+- Alfabet - skończony, niepusty zbiór symboli
+- Słowo - ciąg symboli wybranych z pewnego 
