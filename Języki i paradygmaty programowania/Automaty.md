@@ -36,3 +36,5 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 
 ##### Język
 - Językiem nad alfabetem nazywamy każde znaki znajdujące się w słowniku
+- nie musi wykorzystywać wszystkich symboli alfabetu, dlatego jest językiem nad alfabetem
+- zbiór pusty jest językiem nad dowolnym alfabete
