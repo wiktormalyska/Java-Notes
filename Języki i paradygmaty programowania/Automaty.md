@@ -125,4 +125,10 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 
 ##### Rozszerzona funkcja przejścia NAS
 - zdefiniowana jest rekurencyjnie tak, że
-	- jeśli m jest łańcuchem składającym się z łańcucha i sumbo
+	- jeśli m jest łańcuchem składającym się z łańcucha i symbolu
+	- oraz jeśli NAS będący w stanie po przetworzeniu łańcucha znajduje się w stanach
+	- to:
+		- $$δ^(q,ε)=q$$
+		- $$δ^(q,m)=i=1⋃k​δ(pi​,x)$$
+
+##### Ję
