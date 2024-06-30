@@ -16,7 +16,7 @@
 - [[Programowanie deklaratywne funkcyjnie]]
 	- [[Rachunek Lambda]]
 	- [[Monady]]
-	- Haskell
+	- [[Haskell]]
 - Programowanie deklaratywne w logice
 	- klauzule Horna
 	- Rekurencja

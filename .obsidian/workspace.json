@@ -37,25 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki/Gramatyki.md",
+                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b75060cb8999a858",
+            "id": "86b64fe7abbe6434",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Programowanie deklaratywne funkcyjnie.md",
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Haskell.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Programowanie deklaratywne funkcyjnie.md",
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Haskell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Programowanie deklaratywne funkcyjnie.md",
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Haskell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Programowanie deklaratywne funkcyjnie.md"
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Haskell.md"
               }
             }
           }
@@ -183,13 +184,14 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "5d1394bc8ee2e0e7",
+  "active": "de5c793eabff11a9",
   "lastOpenFiles": [
-    "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Rachunek Lambda.md",
     "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
-    "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Programowanie deklaratywne funkcyjnie.md",
+    "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Haskell.md",
     "Języki i paradygmaty programowania/Gramatyki/Gramatyki.md",
+    "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Programowanie deklaratywne funkcyjnie.md",
     "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Monady.md",
+    "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Rachunek Lambda.md",
     "Języki i paradygmaty programowania/Gramatyki/Automaty.md",
     "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Analiza leksykalna i syntaktyczna kodu.md",
     "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu",
@@ -214,7 +216,6 @@
     "Java Junior/Konteneryzacja/Docker/Docker.md",
     "Java Junior/Konteneryzacja/Kubernetes/Kubernetes.md",
     "Java Junior/Konteneryzacja/Przetwarzanie w chmurze/Przetwarzanie w chmurze.md",
-    "Java Junior/Konteneryzacja/Konteneryzacja.md",
     "Main.canvas",
     "Java Junior/Java/Java/Bez nazwy",
     "Java Junior/Main.canvas",
