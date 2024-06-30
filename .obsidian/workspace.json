@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
+                "file": "Języki i paradygmaty programowania/Gramatyki.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
+                "file": "Języki i paradygmaty programowania/Gramatyki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
+                "file": "Języki i paradygmaty programowania/Gramatyki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md"
+                "file": "Języki i paradygmaty programowania/Gramatyki.md"
               }
             }
           }
@@ -147,10 +147,11 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "de5c793eabff11a9",
+  "active": "536ec72166735fab",
   "lastOpenFiles": [
-    "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
     "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
+    "Języki i paradygmaty programowania/Gramatyki.md",
+    "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
     "Języki i paradygmaty programowania/Równoważność automatów/Automaty ze Stosem (AZS).md",
     "Języki i paradygmaty programowania/Równoważność automatów/Gramatyki Bez-kontekstowe (GBK).md",
     "Języki i paradygmaty programowania/Równoważność automatów/Automaty Regularne (RE).md",
@@ -183,7 +184,6 @@
     "Algorytmy II/Algorytmy na drzewach/Słownik.md",
     "Algorytmy II/Algorytmy na drzewach/Algorytm Prima.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm BFS.md",
-    "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
     "Algorytmy II/Algorytmy Numeryczne",
     "Zdjęcia w notatkach/Pasted image 20240613104436.png",
     "Algorytmy II/Kolorowanie",

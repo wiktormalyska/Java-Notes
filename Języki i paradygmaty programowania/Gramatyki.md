@@ -1,0 +1,1 @@
+- Mówiliśmy o językach, czyli zbiorach łańcyu
