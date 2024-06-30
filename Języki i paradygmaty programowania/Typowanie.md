@@ -41,4 +41,11 @@
 		- Przykład: Generics w Java, Szablony w C++
 	- Polimorfizm Ad Hoc:
 		- Różne funkcje mogą być zdefiniowane dla różnych typów
-		- Przykład: Prz
+		- Przykład: Przeciążanie funkcji w C++
+- Systemy Typowania w Językach Funkcyjnych i Obiektowych
+	- Funkcyjne
+		- Języki często mają bogate systemy typowania, które wspierają rekursję, polimorfizm i inne zaawansowane mechanizmy typów.
+		- Przykład: Haskell, ML
+	- Obiektowe
+		- Typy są często powiązane z klasami i hierarchiami dziedziczenia
+		- 
