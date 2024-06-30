@@ -25,4 +25,8 @@ Gramatyka jest konstrukcją szerszą niż omawiane do tej pory
 	- interpretowane (AWK, Ruby, Bash, Python, Perl)
 	- kompilowane (Fortran, Java, C, Haskell)
 	- Istnieją jeszcze znacznikowe (html, xml), ale nie są to najczęściej języki programowania
-- Proces prowadzący do oc
+- Proces prowadzący od odczytu kodu do jego wykonania zawiera kilka etapów
+- Faza wstępna:
+	- analiza leksykalna
+	- analiza syntaktyczna
+	- analiza semantyczna
