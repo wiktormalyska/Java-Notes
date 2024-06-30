@@ -99,4 +99,10 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 - nazywamy zbiór łańcuchów przeprowadzających stan początkowy automatu A w jeden z jego stanów akceptujących
 
 ##### Język regularny
-- język jest regul
+- język jest regularny jeśli jest językiem pewnego DAS
+
+
+#### Niedeterministyczny Automat Skończony (NAS)
+- NAS to automat skończony, niedeterministyczny, gdzie
+	- Q to skończony zbiór stanów
+	- 
