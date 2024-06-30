@@ -93,3 +93,8 @@ int main() {
 }
 
 ```
+##### Przykłady
+- C++
+- Java\
+- $C#$
+- 
