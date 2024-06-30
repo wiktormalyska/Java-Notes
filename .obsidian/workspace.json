@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Języki i paradygmaty programowania/Wyrażenia regularne.md",
+                "file": "Języki i paradygmaty programowania/Paradygmaty programowania.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Wyrażenia regularne.md",
+                "file": "Języki i paradygmaty programowania/Paradygmaty programowania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Wyrażenia regularne.md",
+                "file": "Języki i paradygmaty programowania/Paradygmaty programowania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Wyrażenia regularne.md"
+                "file": "Języki i paradygmaty programowania/Paradygmaty programowania.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "536ec72166735fab",
   "lastOpenFiles": [
-    "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
     "Języki i paradygmaty programowania/Wyrażenia regularne.md",
+    "Zdjęcia w notatkach/Pasted image 20240630164523.png",
+    "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
     "Języki i paradygmaty programowania/Paradygmaty programowania.md",
     "Języki i paradygmaty programowania/Automaty.md",
     "Zdjęcia w notatkach/Pasted image 20240630161014.png",
@@ -181,7 +182,6 @@
     "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm Bellmana-Forda-Moore'a.md",
     "Algorytmy II/Geometria Obliczeniowa/Algorytm Grahama.md",
-    "Algorytmy II/Algorytmy II.md",
     "Algorytmy II/Algorytmy Numeryczne",
     "Zdjęcia w notatkach/Pasted image 20240613104436.png",
     "Algorytmy II/Kolorowanie",
@@ -189,7 +189,6 @@
     "Zdjęcia w notatkach/Pasted image 20240613102919.png",
     "Algorytmy II/Algorytmy genetyczne",
     "Algorytmy II/Algorytmy probabilistyczne",
-    "Zdjęcia w notatkach/Pasted image 20240613100219.png",
     "Algorytmy II/Geometria Obliczeniowa",
     "Algorytmy II/Wyszukiwanie wzorca w tekście",
     "Java Junior/Main.canvas",

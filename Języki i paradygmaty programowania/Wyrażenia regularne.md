@@ -33,3 +33,6 @@
 - Jeśli język 𝐿 jest akceptowany przez pewien automat, to istnieje wyrażenie regularne, które opisuje ten język
 ##### Twierdzenie o odpowiedniości RE i automatu
 - Jeśli język 𝐿﻿ jest opisywany przez wyrażenie regularne, to istnieje automat 𝜀ε﻿-NAS, który akceptuje ten język
+
+W połączeniu z poprzednimi twierdzeniami otrzymujemy równoważność wszystkich czterech struktur: DAS, NAS, E-NAS, RE (regexp)
+![[Pasted image 20240630164523.png]]
