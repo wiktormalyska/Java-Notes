@@ -21,4 +21,9 @@
 		- Może prowadzić do błędów typów, ale zwiększa elastyczność w niektórych sytuacjach
 		- Przykład: JS, C, PHP
 - Jawne vs. Niejawne Typowanie
-	- Jawne 
+	- Jawne Typowanie
+		- Program musi jawnie zadeklarować typy zmiennych
+		- Przykład: C, Java, Rust
+	- Niejawne Typowanie
+		- Typy zmiennych są wnioskowane przez kompilator na podstawie wartości przypisanych do zmiennych
+		- Przykład
