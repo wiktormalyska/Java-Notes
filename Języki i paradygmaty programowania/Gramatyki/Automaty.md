@@ -128,8 +128,8 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 	- jeśli m jest łańcuchem składającym się z łańcucha i symbolu
 	- oraz jeśli NAS będący w stanie po przetworzeniu łańcucha znajduje się w stanach
 	- to:
-		- $$δ^(q,ε)=q$$
-		- $$δ^(q,m)=i=1⋃k​δ(pi​,x)$$
+		- $δ^(q,ε)=q$
+		- $δ^(q,m)=i=1⋃k​δ(pi​,x)$
 
 ##### Język NAS
 - nazywamy zbiór łańcuchów przeprowadzających stan początkowy automatu w zbiór stanu, zawierający co najmniej jeden stan akceptujący
