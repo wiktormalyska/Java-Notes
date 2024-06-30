@@ -35,4 +35,4 @@ $$Σ+=Σ1∪Σ2∪...$$
 $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 
 ##### Język
-- Językiem nad alfabetem nazywamy każde znaki znajdujące się w 
+- Językiem nad alfabetem nazywamy każde znaki znajdujące się w słowniku
