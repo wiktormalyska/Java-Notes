@@ -13,4 +13,5 @@
 #### Analiza syntaktyczna
 ![[Pasted image 20240630230252.png]]
 - wykorzystywane jako parser
-- opiera się na regułach pars
+- opiera się na regułach parsera oraz pliku z danymi pochodzącymi od skanera
+- reguły parsera to produkcje gramatyki zdefiniowane na tych samych tokenach, które były używane w regułach skanera
