@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Programowanie deklaratywne funkcyjnie.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Monady.md",
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Programowanie deklaratywne funkcyjnie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Monady.md",
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Programowanie deklaratywne funkcyjnie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Monady.md"
+                "file": "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Programowanie deklaratywne funkcyjnie.md"
               }
             }
           }
@@ -184,13 +183,13 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "de5c793eabff11a9",
+  "active": "5d1394bc8ee2e0e7",
   "lastOpenFiles": [
-    "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
-    "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Monady.md",
     "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Rachunek Lambda.md",
+    "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
     "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Programowanie deklaratywne funkcyjnie.md",
     "Języki i paradygmaty programowania/Gramatyki/Gramatyki.md",
+    "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Monady.md",
     "Języki i paradygmaty programowania/Gramatyki/Automaty.md",
     "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Analiza leksykalna i syntaktyczna kodu.md",
     "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu",

@@ -9,3 +9,4 @@
 - **Funkcje Czyste:** Funkcje, które zawsze dają te same wyniki dla tych samych argumentów i nie mają efektów ubocznych.
 
 [[Rachunek Lambda]]
+[[Monady]]
