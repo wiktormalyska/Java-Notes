@@ -26,3 +26,5 @@
 
 ###### Przykładowe słowa w alfabecie binarnym
 - ε,0,1,00,01,10,11,000,001,010,011,100,101,110,111,...
+
+Wprowadza się potęgi alfabetu, oznaczające wybór słów pewnej długości
