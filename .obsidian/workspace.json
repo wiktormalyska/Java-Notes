@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki/Gramatyki bezkontekstowe.md",
+                "file": "Języki i paradygmaty programowania/Równoważność automatów/Równoważność automatów.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki/Gramatyki bezkontekstowe.md",
+                "file": "Języki i paradygmaty programowania/Równoważność automatów/Równoważność automatów.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki/Gramatyki bezkontekstowe.md",
+                "file": "Języki i paradygmaty programowania/Równoważność automatów/Równoważność automatów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki/Gramatyki bezkontekstowe.md"
+                "file": "Języki i paradygmaty programowania/Równoważność automatów/Równoważność automatów.md"
               }
             }
           }
@@ -186,12 +186,16 @@
   },
   "active": "b42fc01adeaecc07",
   "lastOpenFiles": [
+    "Języki i paradygmaty programowania/Równoważność automatów/Gramatyki Bez-kontekstowe (GBK).md",
+    "Języki i paradygmaty programowania/Równoważność automatów/Równoważność automatów.md",
+    "Języki i paradygmaty programowania/Równoważność automatów/Automaty Regularne (RE).md",
     "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+    "Języki i paradygmaty programowania/Gramatyki/Gramatyki bezkontekstowe.md",
+    "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Programowanie deklaratywne funkcyjnie.md",
+    "Języki i paradygmaty programowania/Gramatyki/Automaty.md",
     "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Wyrażenia regularne.md",
     "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Rachunek Lambda.md",
     "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Haskell.md",
-    "Języki i paradygmaty programowania/Gramatyki/Automaty.md",
-    "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Programowanie deklaratywne funkcyjnie.md",
     "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Monady.md",
     "Języki i paradygmaty programowania/Gramatyki/Gramatyki.md",
     "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Analiza leksykalna i syntaktyczna kodu.md",
@@ -202,7 +206,6 @@
     "Języki i paradygmaty programowania/Paradygmaty programowania",
     "Języki i paradygmaty programowania/Paradygmaty programowania/Programowanie imperatywne obiektowe.md",
     "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Kompilacja.md",
-    "Języki i paradygmaty programowania/Gramatyki/Gramatyki bezkontekstowe.md",
     "Języki i paradygmaty programowania/Gramatyki",
     "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie",
     "MAIN README.md",
@@ -213,9 +216,6 @@
     "Java Junior/Zarządzanie pakietami/Maven/Monitorowanie i Logowanie/Monitorowanie i Logowanie.md",
     "Java Junior/Zarządzanie pakietami/Maven/Maven.md",
     "Java Junior/Zarządzanie pakietami/Gradle/Gradle.md",
-    "Java Junior/Podstawy Informatyki/Koncepcja Messagingu/Koncepcja Messagingu.md",
-    "Java Junior/Konteneryzacja/Docker/Docker.md",
-    "Java Junior/Konteneryzacja/Kubernetes/Kubernetes.md",
     "Main.canvas",
     "Java Junior/Java/Java/Bez nazwy",
     "Java Junior/Main.canvas",
