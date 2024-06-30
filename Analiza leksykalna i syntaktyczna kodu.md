@@ -15,3 +15,8 @@
 - wykorzystywane jako parser
 - opiera się na regułach parsera oraz pliku z danymi pochodzącymi od skanera
 - reguły parsera to produkcje gramatyki zdefiniowane na tych samych tokenach, które były używane w regułach skanera
+- parser tworzy pełną gramatykę (w postaci drzewa wyprowadzeń, tu nazywanym drzewem parsowania)
+- w linuksie parser generuje bison, kiedyś yacc
+
+
+#### Analiza semantyczna
