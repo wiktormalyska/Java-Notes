@@ -51,4 +51,7 @@ Java Junior Developer go to notes
 		- [[Optymalizacja zapytań]]
 		- [[Partycjowanie]]
 		- [[NoSQL]]
-- [[Docker]]
+- [[Konteneryzacja]]
+	- [[Docker]]
+		- [[Dockerfile]]
+		- [[]]
