@@ -40,3 +40,5 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 - zbiór pusty jest językiem nad dowolnym alfabetem
 - język ze słowem pustym również jest językiem nad dowolnym alfabetem
 - język nie musi być skończony
+
+#### Automat dete
