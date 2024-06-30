@@ -8,7 +8,7 @@
 	- [[Gramatyki Bez-kontekstowe (GBK)]]
 	- [[Automaty ze Stosem (AZS)]]
 - Analiza leksykalna i syntaktyczna kodu
-- Kompilacja
+- [[Kompilacja]]
 - Kontrola błędów
 -  Typowanie
 - [[Paradygmaty programowania]]
