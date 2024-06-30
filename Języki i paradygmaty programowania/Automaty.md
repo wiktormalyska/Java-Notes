@@ -80,4 +80,5 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 - każdemu stanowi Q odpowiada jeden wierzchołek, są podpisane oznaczeniem stanu i rysujemy je w postaci kółka
 - na stan wejściowy wskazuje strzałka z napisem START
 - stany akceptujące oznaczone są podwójnym kółkiem
-- jeśli istnieje funkcja przejścia to stan ł
+- jeśli istnieje funkcja przejścia to stan łączymy strzałką ze stanem, a strzałkę podpisujemy symbolem s
+- dla każdego stanu muszą istnieć funkcje dla każdego symbolu używanego alfabetu
