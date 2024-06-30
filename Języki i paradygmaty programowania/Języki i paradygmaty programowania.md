@@ -7,7 +7,7 @@
 	- [[Automaty Regularne (RE)]]
 	- [[Gramatyki Bez-kontekstowe (GBK)]]
 	- [[Automaty ze Stosem (AZS)]]
-- Analiza leksykalna i syntaktyczna kodu
+- [[Analiza leksykalna i syntaktyczna kodu]]
 - [[Kompilacja]]
 - Kontrola błędów
 -  Typowanie

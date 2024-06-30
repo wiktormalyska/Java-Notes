@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "faa8dac022ee8162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analiza leksykalna i syntaktyczna kodu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "61a2304eac672d5e",
             "type": "leaf",
             "state": {
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kompilacja.md",
+                "file": "Analiza leksykalna i syntaktyczna kodu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kompilacja.md",
+                "file": "Analiza leksykalna i syntaktyczna kodu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kompilacja.md"
+                "file": "Analiza leksykalna i syntaktyczna kodu.md"
               }
             }
           }
@@ -172,12 +184,15 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "61a2304eac672d5e",
+  "active": "faa8dac022ee8162",
   "lastOpenFiles": [
+    "Zdjęcia w notatkach/Pasted image 20240630224251.png",
     "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
-    "Kompilacja.md",
-    "Języki i paradygmaty programowania/Gramatyki.md",
+    "Analiza leksykalna i syntaktyczna kodu.md",
     "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
+    "Kompilacja.md",
+    "Zdjęcia w notatkach/Pasted image 20240630224238.png",
+    "Języki i paradygmaty programowania/Gramatyki.md",
     "Języki i paradygmaty programowania/Równoważność automatów/Automaty ze Stosem (AZS).md",
     "Języki i paradygmaty programowania/Równoważność automatów/Gramatyki Bez-kontekstowe (GBK).md",
     "Języki i paradygmaty programowania/Równoważność automatów/Automaty Regularne (RE).md",
@@ -207,13 +222,10 @@
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Knutha-Morrisa-Pratta.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Haszowanie.md",
     "Algorytmy II/Wyszukiwanie wzorca w tekście/Algorytm Morrisa-Prata.md",
-    "Algorytmy II/Algorytmy na drzewach/Słownik.md",
-    "Algorytmy II/Algorytmy na drzewach/Algorytm Prima.md",
     "Algorytmy II/Algorytmy Numeryczne",
     "Zdjęcia w notatkach/Pasted image 20240613104436.png",
     "Algorytmy II/Kolorowanie",
     "Zdjęcia w notatkach/Pasted image 20240613103430.png",
-    "Zdjęcia w notatkach/Pasted image 20240613102919.png",
     "Algorytmy II/Algorytmy genetyczne",
     "Algorytmy II/Algorytmy probabilistyczne",
     "Algorytmy II/Geometria Obliczeniowa",
