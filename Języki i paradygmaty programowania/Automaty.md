@@ -104,5 +104,9 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 
 #### Niedeterministyczny Automat Skończony (NAS)
 - NAS to automat skończony, niedeterministyczny, gdzie
-	- Q to skończony zbiór stanów
-	- 
+	- Q - skończony zbiór stanów
+	- Σ - skończony zbiór symboli wejściowych (alfabet)
+	- 𝛿 - funkcje przejścia między stanami
+	- 𝑞0∈𝑄 - stan początkowy
+	- 𝐹⊂𝑄 - zbiór stanów akceptujących
+- Jedyna różnica w definicjach DAS i NAS to postać funkcj
