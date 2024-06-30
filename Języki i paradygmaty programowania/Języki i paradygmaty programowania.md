@@ -2,7 +2,7 @@
 #### Zagadnienia:
 - [[Automaty]]
 - [[Wyrażenia regularne]]
-- Gramatyki bezkontekstowe
+- [[Gramatyki bezkontekstowe]]
 - [[Równoważność automatów]]
 	- [[Automaty Regularne (RE)]]
 	- [[Gramatyki Bez-kontekstowe (GBK)]]

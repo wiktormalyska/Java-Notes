@@ -8,4 +8,5 @@
 	- Stany akceptujące - Jeden lub więcej stanów, których osiągnięcie oznacza akceptację słowa
 - Równoważność
 	- Są równoważne gramatykom bez-kontekstowym
-	- Każdy jest generowany przez gramatykę bez-0
+	- Każdy jest generowany przez gramatykę bez-kontekstową
+	- Może być rozpoznawany przez odpowiedni automat ze stosem
