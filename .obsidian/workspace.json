@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "1984432a6848ad3f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ca79b94c8646f477",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java Junior/Podstawy Informatyki/Koncepcja Messagingu/Koncepcja Messagingu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "a55c1e7e9a0c1eb0",
         "type": "tabs",
         "children": [
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Junior/README.md",
+                "file": "Java Junior/Zarządzanie pakietami/Maven/Maven.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Junior/README.md",
+                "file": "Java Junior/Zarządzanie pakietami/Maven/Maven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Junior/README.md",
+                "file": "Java Junior/Zarządzanie pakietami/Maven/Maven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Junior/README.md"
+                "file": "Java Junior/Zarządzanie pakietami/Maven/Maven.md"
               }
             }
           }
@@ -167,15 +149,18 @@
   },
   "active": "ec010ac14393e074",
   "lastOpenFiles": [
+    "Java Junior/Zarządzanie pakietami/Gradle/Gradle.md",
+    "Java Junior/Zarządzanie pakietami/Maven/Maven.md",
+    "Java Junior/Zarządzanie pakietami/Zarządzanie pakietami.md",
+    "Java Junior/README.md",
+    "Java Junior/Podstawy Informatyki/Koncepcja Messagingu/Koncepcja Messagingu.md",
     "Java Junior/Konteneryzacja/Docker/Docker.md",
     "Java Junior/Konteneryzacja/Kubernetes/Kubernetes.md",
     "Java Junior/Konteneryzacja/Przetwarzanie w chmurze/Przetwarzanie w chmurze.md",
-    "Java Junior/README.md",
     "Java Junior/Konteneryzacja/Konteneryzacja.md",
     "Java Junior/Bazy Danych/Zaawansowane Bazy Danych/Zaawansowane Bazy Danych.md",
     "Java Junior/Bazy Danych/Podstawy Baz Danych/Podstawy Baz Danych.md",
     "Java Junior/Bazy Danych/Bazy Danych.md",
-    "Java Junior/Podstawy Informatyki/Koncepcja Messagingu/Koncepcja Messagingu.md",
     "Java Junior/Git/Git.md",
     "Java Junior/Narzędzia/Narzędzia.md",
     "Java Junior/Podstawy Informatyki/Podstawy/Podstawy.md",
@@ -193,15 +178,12 @@
     "Języki i paradygmaty programowania/Typowanie.md",
     "Języki i paradygmaty programowania/Kompilacja.md",
     "Analiza leksykalna i syntaktyczna kodu.md",
-    "Kontrola błędów.md",
     "Zdjęcia w notatkach/Pasted image 20240630231232.png",
     "Zdjęcia w notatkach/Pasted image 20240630231106.png",
     "Zdjęcia w notatkach/Pasted image 20240630230518.png",
     "Zdjęcia w notatkach/Pasted image 20240630230252.png",
-    "Języki i paradygmaty programowania/Gramatyki bezkontekstowe.md",
     "Zdjęcia w notatkach/Pasted image 20240630224251.png",
     "Zdjęcia w notatkach/Pasted image 20240630224238.png",
-    "Języki i paradygmaty programowania/Gramatyki.md",
     "Języki i paradygmaty programowania/Równoważność automatów",
     "Zdjęcia w notatkach/Pasted image 20240630164523.png",
     "Zdjęcia w notatkach/Pasted image 20240630161014.png",
