@@ -13,7 +13,7 @@
 -  [[Typowanie]]
 - [[Paradygmaty programowania]]
 - [[Programowanie imperatywne obiektowe]]
-- Programowanie deklaratywne funkcyjnie
+- [[Programowanie deklaratywne funkcyjnie]]
 	- Rachunek Lambda
 	- Monady
 	- Haskell
