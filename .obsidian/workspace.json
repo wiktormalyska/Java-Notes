@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Języki i paradygmaty programowania/Równoważność automatów/Równoważność automatów.md",
+                "file": "Języki i paradygmaty programowania/Równoważność automatów/Automaty Regularne (RE).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Równoważność automatów/Równoważność automatów.md",
+                "file": "Języki i paradygmaty programowania/Równoważność automatów/Automaty Regularne (RE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Równoważność automatów/Równoważność automatów.md",
+                "file": "Języki i paradygmaty programowania/Równoważność automatów/Automaty Regularne (RE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Równoważność automatów/Równoważność automatów.md"
+                "file": "Języki i paradygmaty programowania/Równoważność automatów/Automaty Regularne (RE).md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "536ec72166735fab",
   "lastOpenFiles": [
-    "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
     "Języki i paradygmaty programowania/Równoważność automatów/Równoważność automatów.md",
-    "Języki i paradygmaty programowania/Równoważność automatów/RE.md",
+    "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+    "Języki i paradygmaty programowania/Równoważność automatów/Automaty Regularne (RE).md",
     "Języki i paradygmaty programowania/Równoważność automatów/AZS.md",
     "Języki i paradygmaty programowania/Równoważność automatów/GBK.md",
     "Języki i paradygmaty programowania/Równoważność automatów",

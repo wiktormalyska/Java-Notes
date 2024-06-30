@@ -4,7 +4,7 @@
 - [[Wyrażenia regularne]]
 - Gramatyki bezkontekstowe
 - [[Równoważność automatów]]
-	- [[RE]]
+	- [[Automaty Regularne (RE)]]
 	- [[GBK]]
 	- [[AZS]]
 - Analiza leksykalna i syntaktyczna kodu

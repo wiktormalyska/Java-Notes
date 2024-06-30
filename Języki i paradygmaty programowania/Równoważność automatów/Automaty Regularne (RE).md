@@ -1,0 +1,4 @@
+- Znane jako DAS i NAS
+- wykorzystywane do rozpoznawania języków regularnych
+- Charakteryzują się
+	- Stany - skończona l
