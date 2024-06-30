@@ -47,4 +47,49 @@ print(cat.speak())  # Whiskers says Meow!
 ```
 
 #### Programowanie Imperatywne Obiektowe
-- Jest podejściem, które integruje instru
+- Jest podejściem, które integruje instrukcje imperatywne w kontekście obiektowym
+- Kluczowe aspekty
+	- **Encja jako Jednostka Przetwarzania:** Obiekty są podstawowymi jednostkami, które mogą zawierać stan i metody manipulujące tym stanem.
+	- **Użycie Metod:** Zachowanie obiektów jest definiowane poprzez metody, które zawierają instrukcje imperatywne.
+	- **Interakcje Obiektów:** Obiekty współpracują ze sobą poprzez wywoływanie metod, co prowadzi do wykonywania sekwencji instrukcji.
+```cpp
+#include <iostream>
+#include <string>
+
+class BankAccount {
+private:
+    std::string owner;
+    double balance;
+
+public:
+    BankAccount(std::string owner, double balance) : owner(owner), balance(balance) {}
+
+    void deposit(double amount) {
+        balance += amount;
+    }
+
+    void withdraw(double amount) {
+        if (amount <= balance) {
+            balance -= amount;
+        } else {
+            std::cout << "Insufficient funds\n";
+        }
+    }
+
+    void display() const {
+        std::cout << "Owner: " << owner << ", Balance: " << balance << "\n";
+    }
+};
+
+int main() {
+    BankAccount account("Alice", 1000.0);
+    account.display();
+    account.deposit(200.0);
+    account.display();
+    account.withdraw(500.0);
+    account.display();
+    account.withdraw(1000.0);  // Should display an error message
+    return 0;
+}
+
+```
