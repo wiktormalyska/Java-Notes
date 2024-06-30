@@ -14,4 +14,6 @@
 
 #####  Podstawowe definicje
 - Alfabet - skończony, niepusty zbiór symboli
-- Słowo - ciąg symboli wybranych z pewnego 
+- Słowo - ciąg symboli wybranych z pewnego alfabetu
+	- istnieje specjalne słowo, łańcuch pusty, który należy do każdego alfabetu
+- Język to zbiór wszystkich słów podlegających pewnej regule, jakie można ułożyć z danego alfabe
