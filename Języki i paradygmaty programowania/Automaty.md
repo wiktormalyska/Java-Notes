@@ -19,10 +19,10 @@
 - Język to zbiór wszystkich słów podlegających pewnej regule, jakie można ułożyć z danego alfabetu
 
 ###### Przykładowe alfabety
-- Σ={0,1,2,3,4,5,6,7,8,9}Σ={0,1,2,3,4,5,6,7,8,9}﻿ ← dziesiętny
-- Σ={0,1}Σ={0,1}﻿ ← binarny
-- Σ={𝑎,𝑏,...,𝑧}Σ={a,b,...,z}﻿ ← małe litery
-- Σ=𝐴𝑆𝐶𝐼𝐼Σ=ASCII﻿ ← znaki ASCII
+- $Σ={0,1,2,3,4,5,6,7,8,9}Σ={0,1,2,3,4,5,6,7,8,9}﻿ ← dziesiętny$
+- $Σ={0,1}Σ={0,1}﻿ ← binarny$
+- $Σ={𝑎,𝑏,...,𝑧}Σ={a,b,...,z}﻿ ← małe litery$
+- $Σ=𝐴𝑆𝐶𝐼𝐼Σ=ASCII﻿ ← znaki ASCII$
 
 ###### Przykładowe słowa w alfabecie binarnym
 - ε,0,1,00,01,10,11,000,001,010,011,100,101,110,111,...
@@ -33,3 +33,6 @@ $$Σ1={w:∣w∣=1}=Σ$$
 $$Σ2={w:∣w∣=2}=ΣΣ$$
 $$Σ+=Σ1∪Σ2∪...$$
 $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
+
+##### Język
+- Językiem nad alfabetem nazywamy każde znaki znajdujące się w 
