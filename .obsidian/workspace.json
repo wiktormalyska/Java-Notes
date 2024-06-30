@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Języki i paradygmaty programowania/Gramatyki/Automaty.md",
+                "file": "Języki i paradygmaty programowania/Paradygmaty programowania/Paradygmaty programowania.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Typowanie.md",
+                "file": "Języki i paradygmaty programowania/Paradygmaty programowania/Paradygmaty programowania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Typowanie.md",
+                "file": "Języki i paradygmaty programowania/Paradygmaty programowania/Paradygmaty programowania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Typowanie.md"
+                "file": "Języki i paradygmaty programowania/Paradygmaty programowania/Paradygmaty programowania.md"
               }
             }
           }
@@ -184,12 +184,14 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "b42fc01adeaecc07",
+  "active": "55ca9a18d392f313",
   "lastOpenFiles": [
     "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+    "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Monady.md",
+    "Języki i paradygmaty programowania/Gramatyki/Automaty.md",
+    "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Typowanie.md",
     "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Kontrola błędów.md",
     "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Kompilacja.md",
-    "Języki i paradygmaty programowania/Gramatyki/Automaty.md",
     "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Analiza leksykalna i syntaktyczna kodu.md",
     "Języki i paradygmaty programowania/Równoważność automatów/Równoważność automatów.md",
     "Języki i paradygmaty programowania/Równoważność automatów/Automaty ze Stosem (AZS).md",
@@ -200,10 +202,8 @@
     "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Wyrażenia regularne.md",
     "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Rachunek Lambda.md",
     "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Haskell.md",
-    "Języki i paradygmaty programowania/Programowanie deklaratywne funkcyjnie/Monady.md",
     "Języki i paradygmaty programowania/Gramatyki/Gramatyki.md",
     "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu",
-    "Języki i paradygmaty programowania/Analiza leksykalna i syntaktyczna kodu/Typowanie.md",
     "Języki i paradygmaty programowania/Paradygmaty programowania/Paradygmaty programowania.md",
     "Języki i paradygmaty programowania/Paradygmaty programowania",
     "Języki i paradygmaty programowania/Paradygmaty programowania/Programowanie imperatywne obiektowe.md",
