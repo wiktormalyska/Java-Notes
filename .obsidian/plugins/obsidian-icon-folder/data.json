@@ -49,7 +49,6 @@
   },
   "Java Junior/Git": "SiGit",
   "Java Junior/Java": "FabJava",
-  "Java Junior/Java/Java": "FabJava",
   "Java Junior/Java/Zaawansowana Java": "FabJava",
   "Java Junior/Docker": "SiDocker",
   "Java Junior/Docker/Docker.md": "SiDocker",
@@ -77,5 +76,7 @@
   "Java Junior/README.md": "FabJava",
   "Algorytmy II/Podsumowanie.md": "TiExclamationCircle",
   "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md": "TiExclamationCircle",
-  "Java Junior/Java/Java.md": "FabJava"
+  "Java Junior/Java/Java.md": "FabJava",
+  "Java Junior/Java/Podstawy Javy": "FabJava",
+  "Java Junior/Java/Zaawansowana Java/Zaawansowana Java.md": "FabJava"
 }
