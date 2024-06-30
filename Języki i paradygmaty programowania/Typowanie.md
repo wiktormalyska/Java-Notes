@@ -40,4 +40,5 @@
 		- Typy mogą być parametryzowane, co pozwala na tworzenie funkcji i struktur danych, które mogą operować na wielu typach
 		- Przykład: Generics w Java, Szablony w C++
 	- Polimorfizm Ad Hoc:
-		- 
+		- Różne funkcje mogą być zdefiniowane dla różnych typów
+		- Przykład: Prz
