@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Junior/Zarządzanie pakietami/Maven/Maven.md",
+                "file": "Java Junior/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Junior/Zarządzanie pakietami/Maven/Maven.md",
+                "file": "Java Junior/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Junior/Zarządzanie pakietami/Maven/Maven.md",
+                "file": "Java Junior/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Junior/Zarządzanie pakietami/Maven/Maven.md"
+                "file": "Java Junior/README.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "ec010ac14393e074",
   "lastOpenFiles": [
-    "Java Junior/Zarządzanie pakietami/Gradle/Gradle.md",
-    "Java Junior/Zarządzanie pakietami/Maven/Maven.md",
-    "Java Junior/Zarządzanie pakietami/Zarządzanie pakietami.md",
+    "Java Junior/Zarządzanie pakietami/Maven/Monitorowanie i Logowanie/Monitorowanie i Logowanie.md",
     "Java Junior/README.md",
+    "Java Junior/Zarządzanie pakietami/Maven/Maven.md",
+    "Java Junior/Zarządzanie pakietami/Gradle/Gradle.md",
+    "Java Junior/Zarządzanie pakietami/Zarządzanie pakietami.md",
     "Java Junior/Podstawy Informatyki/Koncepcja Messagingu/Koncepcja Messagingu.md",
     "Java Junior/Konteneryzacja/Docker/Docker.md",
     "Java Junior/Konteneryzacja/Kubernetes/Kubernetes.md",
@@ -177,7 +178,6 @@
     "Java Junior/Main.canvas",
     "Języki i paradygmaty programowania/Typowanie.md",
     "Języki i paradygmaty programowania/Kompilacja.md",
-    "Analiza leksykalna i syntaktyczna kodu.md",
     "Zdjęcia w notatkach/Pasted image 20240630231232.png",
     "Zdjęcia w notatkach/Pasted image 20240630231106.png",
     "Zdjęcia w notatkach/Pasted image 20240630230518.png",
