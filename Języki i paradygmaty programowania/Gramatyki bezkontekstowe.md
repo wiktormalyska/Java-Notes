@@ -31,4 +31,5 @@ Gramatyka jest konstrukcją szerszą niż omawiane do tej pory
 	- analiza syntaktyczna
 	- analiza semantyczna
 - Później działa albo kompilator generujący kod wykonalny albo interpreter uruchamiający kod w locie
+# [[Kompilacja]]
 # [[Analiza leksykalna i syntaktyczna kodu]]
