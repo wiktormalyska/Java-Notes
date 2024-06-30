@@ -74,3 +74,7 @@ $$Σ∗=i=0⋃∞​Σi=Σ0∪Σ1∪Σ2∪...=$$
 			- 𝑞2q2​﻿ → przeczytałem UM
 			- 𝑞3q3​﻿ → przeczytałem UMC
 			- 𝑞4q4​﻿ → przeczytałem UMCS
+
+#### Rysowanie diagramów (umowa)
+##### Reguły rysowania diagramów definiujących DAS
+- każdemu stanowi 
