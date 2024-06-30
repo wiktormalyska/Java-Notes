@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+                "file": "Języki i paradygmaty programowania/Równoważność automatów/Bez nazwy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+                "file": "Języki i paradygmaty programowania/Równoważność automatów/Bez nazwy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+                "file": "Języki i paradygmaty programowania/Równoważność automatów/Bez nazwy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md"
+                "file": "Języki i paradygmaty programowania/Równoważność automatów/Bez nazwy.md"
               }
             }
           }
@@ -147,12 +147,16 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "de5c793eabff11a9",
+  "active": "536ec72166735fab",
   "lastOpenFiles": [
+    "Języki i paradygmaty programowania/Równoważność automatów/RE.md",
+    "Języki i paradygmaty programowania/Równoważność automatów/Bez nazwy.md",
+    "Języki i paradygmaty programowania/Równoważność automatów/Równoważność automatów.md",
+    "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
+    "Języki i paradygmaty programowania/Równoważność automatów",
     "Języki i paradygmaty programowania/Paradygmaty programowania.md",
     "Języki i paradygmaty programowania/Wyrażenia regularne.md",
     "Zdjęcia w notatkach/Pasted image 20240630164523.png",
-    "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
     "Języki i paradygmaty programowania/Automaty.md",
     "Zdjęcia w notatkach/Pasted image 20240630161014.png",
     "Zdjęcia w notatkach/Pasted image 20240630161008.png",
@@ -180,8 +184,6 @@
     "Algorytmy II/Algorytmy na grafach/Algorytm Dijkstry.md",
     "Algorytmy II/Algorytmy na grafach/Algorytm Floyda-Warshalla.md",
     "Algorytmy II/Algorytmy na grafach/Sposoby Reprezentacji grafów.md",
-    "Algorytmy II/Algorytmy na grafach/Algorytm Bellmana-Forda-Moore'a.md",
-    "Algorytmy II/Geometria Obliczeniowa/Algorytm Grahama.md",
     "Algorytmy II/Algorytmy Numeryczne",
     "Zdjęcia w notatkach/Pasted image 20240613104436.png",
     "Algorytmy II/Kolorowanie",
@@ -193,7 +195,6 @@
     "Algorytmy II/Wyszukiwanie wzorca w tekście",
     "Java Junior/Main.canvas",
     "Algorytmy II/Algorytmy na drzewach BST",
-    "Algorytmy II/Algorytmy na drzewach",
-    "Algorytmy II/Algorytmy na grafach"
+    "Algorytmy II/Algorytmy na drzewach"
   ]
 }
