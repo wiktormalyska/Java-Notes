@@ -5,4 +5,7 @@
 	- Stos - struktura danych umożliwiająca dodawanie i usuwanie elementów w sposób LIFO
 	- Funkcja przejścia - uwzględnia bieżący stan, symbol wejściowy oraz zawartość stosu
 	- Stan początkowy - Jeden stan, w którym automat rozpoczyna działanie
-	- Stany akcept
+	- Stany akceptujące - Jeden lub więcej stanów, których osiągnięcie oznacza akceptację słowa
+- Równoważność
+	- Są równoważne gramatykom bez-kontekstowym
+	- Każdy jest generowany przez gramatykę bez-0
