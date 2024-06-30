@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "972373258b8b2f19",
+        "id": "e41adff9fa9a9d09",
         "type": "tabs",
         "children": [
           {
-            "id": "a54e0aea32ce2a41",
+            "id": "4b13d1aeaa642486",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Języki i paradygmaty programowania/Typowanie.md",
+                "file": "MAIN README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Języki i paradygmaty programowania/Typowanie.md",
+                "file": "MAIN README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Języki i paradygmaty programowania/Typowanie.md",
+                "file": "MAIN README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Języki i paradygmaty programowania/Typowanie.md"
+                "file": "MAIN README.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "a54e0aea32ce2a41",
+  "active": "4b13d1aeaa642486",
   "lastOpenFiles": [
+    "Języki i paradygmaty programowania/Typowanie.md",
     "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
     "Języki i paradygmaty programowania/Paradygmaty programowania.md",
     "MAIN README.md",
@@ -176,7 +177,6 @@
     "Java Junior/Java/Podstawy Javy/Podstawy Javy.md",
     "Java Junior/Java/Zaawansowana Java/Zaawansowana Java.md",
     "Java Junior/Java/Java/Bez nazwy",
-    "Java Junior/Podstawy Informatyki/Podstawy/UML.md",
     "Java Junior/Main.canvas",
     "Zdjęcia w notatkach/Pasted image 20240630231232.png",
     "Zdjęcia w notatkach/Pasted image 20240630231106.png",

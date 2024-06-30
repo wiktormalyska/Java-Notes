@@ -49,4 +49,9 @@
 	- Obiektowe
 		- Typy są często powiązane z klasami i hierarchiami dziedziczenia
 		- Przykład: Java, C#, Scala
-- Inne W
+- Inne Ważne Cechy
+	- Weryfikacja Typów
+		- **W czasie kompilacji:** Sprawdzanie typów odbywa się przed uruchomieniem programu.
+		- **W czasie wykonania:** Sprawdzanie typów odbywa się podczas działania programu.
+	- Inferencja Typów (Type Inference):
+		- System automatycznie dedukuje typy zmiennych i wyrażeń bez potrzeby jawnej deklaracji.
