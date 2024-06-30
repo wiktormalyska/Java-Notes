@@ -12,7 +12,7 @@
 - [[Kontrola błędów]]
 -  [[Typowanie]]
 - [[Paradygmaty programowania]]
-- Programowanie imperatywne obiektowe
+- [[Programowanie imperatywne obiektowe]]
 - Programowanie deklaratywne funkcyjnie
 	- Rachunek Lambda
 	- Monady

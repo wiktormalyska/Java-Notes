@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAIN README.md",
+                "file": "Programowanie imperatywne obiektowe.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN README.md",
+                "file": "Programowanie imperatywne obiektowe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN README.md",
+                "file": "Programowanie imperatywne obiektowe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN README.md"
+                "file": "Programowanie imperatywne obiektowe.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "4b13d1aeaa642486",
   "lastOpenFiles": [
-    "Języki i paradygmaty programowania/Typowanie.md",
     "Języki i paradygmaty programowania/Języki i paradygmaty programowania.md",
-    "Języki i paradygmaty programowania/Paradygmaty programowania.md",
+    "Programowanie imperatywne obiektowe.md",
     "MAIN README.md",
+    "Języki i paradygmaty programowania/Typowanie.md",
+    "Języki i paradygmaty programowania/Paradygmaty programowania.md",
     "Algorytmy II/Algorytmy II.md",
     "Java Junior/README.md",
     "Java Junior/Testy/Zaawansowane Testy/Zaawansowane Testy.md",
@@ -175,7 +176,6 @@
     "Java Junior/Podstawy Informatyki/Podstawy Informatyki.md",
     "Java Junior/Java/Java.md",
     "Java Junior/Java/Podstawy Javy/Podstawy Javy.md",
-    "Java Junior/Java/Zaawansowana Java/Zaawansowana Java.md",
     "Java Junior/Java/Java/Bez nazwy",
     "Java Junior/Main.canvas",
     "Zdjęcia w notatkach/Pasted image 20240630231232.png",
